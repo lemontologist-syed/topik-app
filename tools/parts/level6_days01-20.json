@@ -1,0 +1,7972 @@
+[
+ {
+  "id": "L6-001",
+  "day": 1,
+  "slot": 1,
+  "ko": "입법",
+  "roman": "ipbeop",
+  "en": "legislation; lawmaking",
+  "pos": "noun",
+  "ko_meaning": "법률을 새로 만들거나 고치는 일",
+  "ko_meaning_en": "The work of making new laws or amending them",
+  "example": {
+   "ko": "국회는 입법 기관으로서 법률을 만든다.",
+   "roman": "Gukoeneun ipbeop gigwaneuroseo beomnyureul mandeunda.",
+   "en": "As a legislative body, the National Assembly makes laws.",
+   "tokens": [
+    {
+     "t": "국회는",
+     "r": "gukoeneun",
+     "base": "국회 + 는",
+     "en": "the National Assembly",
+     "note": "는 marks the topic"
+    },
+    {
+     "t": "입법",
+     "r": "ipbeop",
+     "base": "입법",
+     "en": "legislative"
+    },
+    {
+     "t": "기관으로서",
+     "r": "gigwaneuroseo",
+     "base": "기관 + 으로서",
+     "en": "as a body",
+     "note": "(으)로서 = 'in the role of'"
+    },
+    {
+     "t": "법률을",
+     "r": "beomnyureul",
+     "base": "법률 + 을",
+     "en": "laws",
+     "note": "법률 is pronounced [범뉼]"
+    },
+    {
+     "t": "만든다",
+     "r": "mandeunda",
+     "base": "만들다",
+     "en": "makes",
+     "note": "written present -ㄴ다; ㄹ drops before ㄴ"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "입법",
+   "사법",
+   "행정",
+   "의료"
+  ],
+  "form": {
+   "q_en": "Pick the particle meaning 'in the role of'.",
+   "ko": "국회는 입법 기관___ 법률을 만든다.",
+   "options": [
+    "으로서",
+    "으로써",
+    "에게서",
+    "보다"
+   ],
+   "answer": 0,
+   "why": "(으)로서 marks a role or status ('as a legislative body'). (으)로써 marks a means or tool."
+  }
+ },
+ {
+  "id": "L6-002",
+  "day": 1,
+  "slot": 2,
+  "ko": "사법",
+  "roman": "sabeop",
+  "en": "the judiciary; administration of justice",
+  "pos": "noun",
+  "ko_meaning": "법에 따라 옳고 그름을 판단하는 국가의 일",
+  "ko_meaning_en": "The state's work of judging right and wrong according to law",
+  "example": {
+   "ko": "사법 기관은 정치권으로부터 독립되어야 한다.",
+   "roman": "Sabeop gigwaneun jeongchigwoneurobuteo dongnipdoeeoya handa.",
+   "en": "Judicial bodies must be independent of politics.",
+   "tokens": [
+    {
+     "t": "사법",
+     "r": "sabeop",
+     "base": "사법",
+     "en": "judicial"
+    },
+    {
+     "t": "기관은",
+     "r": "gigwaneun",
+     "base": "기관 + 은",
+     "en": "bodies"
+    },
+    {
+     "t": "정치권으로부터",
+     "r": "jeongchigwoneurobuteo",
+     "base": "정치권 + 으로부터",
+     "en": "from political circles",
+     "note": "(으)로부터 = 'from' (formal)"
+    },
+    {
+     "t": "독립되어야",
+     "r": "dongnipdoeeoya",
+     "base": "독립되다",
+     "en": "be independent",
+     "note": "-어야 하다 = must"
+    },
+    {
+     "t": "한다",
+     "r": "handa",
+     "base": "하다",
+     "en": "must",
+     "note": "written style -ㄴ다"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "사법",
+   "입법",
+   "유통",
+   "의료"
+  ],
+  "form": {
+   "q_en": "Pick the ending that expresses obligation ('must').",
+   "ko": "사법 기관은 정치권으로부터 독립___ 한다.",
+   "options": [
+    "되어야",
+    "되면서",
+    "되자마자",
+    "되더니"
+   ],
+   "answer": 0,
+   "why": "-어야 하다 means 'must'. The other endings cannot combine with 한다 here."
+  }
+ },
+ {
+  "id": "L6-003",
+  "day": 1,
+  "slot": 3,
+  "ko": "집행",
+  "roman": "jipaeng",
+  "en": "execution; enforcement (of a law, budget, ruling)",
+  "pos": "noun",
+  "ko_meaning": "법률, 명령, 판결, 예산 등의 내용을 실제로 행함",
+  "ko_meaning_en": "Actually carrying out a law, order, ruling, budget, etc.",
+  "example": {
+   "ko": "정부는 올해 예산의 절반을 상반기에 집행할 계획이다.",
+   "roman": "Jeongbuneun olhae yesanui jeolbaneul sangbangie jipaenghal gyehoegida.",
+   "en": "The government plans to spend half of this year's budget in the first half of the year.",
+   "tokens": [
+    {
+     "t": "정부는",
+     "r": "jeongbuneun",
+     "base": "정부 + 는",
+     "en": "the government"
+    },
+    {
+     "t": "올해",
+     "r": "olhae",
+     "base": "올해",
+     "en": "this year's"
+    },
+    {
+     "t": "예산의",
+     "r": "yesanui",
+     "base": "예산 + 의",
+     "en": "of the budget"
+    },
+    {
+     "t": "절반을",
+     "r": "jeolbaneul",
+     "base": "절반 + 을",
+     "en": "half"
+    },
+    {
+     "t": "상반기에",
+     "r": "sangbangie",
+     "base": "상반기 + 에",
+     "en": "in the first half of the year"
+    },
+    {
+     "t": "집행할",
+     "r": "jipaenghal",
+     "base": "집행하다",
+     "en": "to execute (spend)",
+     "note": "예산을 집행하다 = to spend a budget as planned"
+    },
+    {
+     "t": "계획이다",
+     "r": "gyehoegida",
+     "base": "계획 + 이다",
+     "en": "plans",
+     "note": "-(으)ㄹ 계획이다 = plan to"
+    }
+   ],
+   "target": 5
+  },
+  "cloze_options": [
+   "집행할",
+   "개정할",
+   "기소할",
+   "인용할"
+  ],
+  "form": {
+   "q_en": "The ruling is the thing carried out. Pick the right form.",
+   "ko": "법원의 판결이 어제 집행___.",
+   "options": [
+    "되었다",
+    "했다",
+    "시켰다",
+    "받았다"
+   ],
+   "answer": 0,
+   "why": "판결 is what is carried out, so the passive 집행되다 is needed. 집행하다 needs a person or institution as subject."
+  }
+ },
+ {
+  "id": "L6-004",
+  "day": 1,
+  "slot": 4,
+  "ko": "권력",
+  "roman": "gwollyeok",
+  "en": "power; authority",
+  "pos": "noun",
+  "ko_meaning": "남을 지배하여 따르게 하는 공인된 힘",
+  "ko_meaning_en": "Officially recognized force that controls others and makes them obey",
+  "example": {
+   "ko": "권력이 한 사람에게 집중되면 부패하기 쉽다.",
+   "roman": "Gwollyeogi han saramege jipjungdoemyeon bupaehagi swipda.",
+   "en": "When power is concentrated in one person, it easily becomes corrupt.",
+   "tokens": [
+    {
+     "t": "권력이",
+     "r": "gwollyeogi",
+     "base": "권력 + 이",
+     "en": "power",
+     "note": "권력 is pronounced [궐력]"
+    },
+    {
+     "t": "한",
+     "r": "han",
+     "base": "한",
+     "en": "one"
+    },
+    {
+     "t": "사람에게",
+     "r": "saramege",
+     "base": "사람 + 에게",
+     "en": "in a person"
+    },
+    {
+     "t": "집중되면",
+     "r": "jipjungdoemyeon",
+     "base": "집중되다",
+     "en": "if (it) is concentrated",
+     "note": "-(으)면 = if/when"
+    },
+    {
+     "t": "부패하기",
+     "r": "bupaehagi",
+     "base": "부패하다",
+     "en": "to become corrupt",
+     "note": "-기 쉽다 = to easily do"
+    },
+    {
+     "t": "쉽다",
+     "r": "swipda",
+     "base": "쉽다",
+     "en": "is easy"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "권력이",
+   "일정이",
+   "장학금이",
+   "관심이"
+  ],
+  "form": {
+   "q_en": "Which verb goes with 권력 ('to hold power')?",
+   "ko": "권력을 ___ 사람일수록 견제가 필요하다.",
+   "options": [
+    "쥔",
+    "끼친",
+    "미친",
+    "걸린"
+   ],
+   "answer": 0,
+   "why": "권력을 쥐다 (or 잡다) = 'to hold power'. 끼치다/미치다 go with 영향, and 걸리다 does not take an object."
+  }
+ },
+ {
+  "id": "L6-005",
+  "day": 1,
+  "slot": 5,
+  "ko": "견제",
+  "roman": "gyeonje",
+  "en": "checks; restraint",
+  "pos": "noun",
+  "ko_meaning": "상대가 힘을 함부로 쓰거나 지나치게 커지지 못하도록 막음",
+  "ko_meaning_en": "Keeping another side from using its power freely or growing too strong",
+  "example": {
+   "ko": "야당은 정부를 견제하는 역할을 한다.",
+   "roman": "Yadangeun jeongbureul gyeonjehaneun yeokareul handa.",
+   "en": "The opposition party plays the role of keeping the government in check.",
+   "tokens": [
+    {
+     "t": "야당은",
+     "r": "yadangeun",
+     "base": "야당 + 은",
+     "en": "the opposition party"
+    },
+    {
+     "t": "정부를",
+     "r": "jeongbureul",
+     "base": "정부 + 를",
+     "en": "the government"
+    },
+    {
+     "t": "견제하는",
+     "r": "gyeonjehaneun",
+     "base": "견제하다",
+     "en": "checking",
+     "note": "-는 turns the verb into a modifier"
+    },
+    {
+     "t": "역할을",
+     "r": "yeokareul",
+     "base": "역할 + 을",
+     "en": "role",
+     "note": "역할 is pronounced [여칼]"
+    },
+    {
+     "t": "한다",
+     "r": "handa",
+     "base": "하다",
+     "en": "plays",
+     "note": "역할을 하다 = to play a role"
+    }
+   ],
+   "target": 2
+  },
+  "cloze_options": [
+   "견제하는",
+   "응원하는",
+   "존경하는",
+   "홍보하는"
+  ],
+  "form": {
+   "q_en": "Pick the connector meaning 'while / and at the same time' in writing.",
+   "ko": "여당과 야당은 서로를 견제___ 균형을 이룬다.",
+   "options": [
+    "하며",
+    "하려면",
+    "하든지",
+    "하느라고"
+   ],
+   "answer": 0,
+   "why": "-(으)며 links two actions in written style: 'check each other and keep a balance'. -(으)려면 states a condition for a goal, -든지 a choice, and -느라고 a cause of a bad result."
+  }
+ },
+ {
+  "id": "L6-006",
+  "day": 2,
+  "slot": 1,
+  "ko": "위헌",
+  "roman": "wiheon",
+  "en": "unconstitutionality",
+  "pos": "noun",
+  "ko_meaning": "법률이나 명령 등이 헌법에 어긋남",
+  "ko_meaning_en": "A law or order going against the constitution",
+  "example": {
+   "ko": "헌법재판소는 그 법 조항이 위헌이라고 판단했다.",
+   "roman": "Heonbeopjaepansoneun geu beop johangi wiheonirago pandanhaetda.",
+   "en": "The Constitutional Court judged that the provision of the law was unconstitutional.",
+   "tokens": [
+    {
+     "t": "헌법재판소는",
+     "r": "heonbeopjaepansoneun",
+     "base": "헌법재판소 + 는",
+     "en": "the Constitutional Court"
+    },
+    {
+     "t": "그",
+     "r": "geu",
+     "base": "그",
+     "en": "that"
+    },
+    {
+     "t": "법",
+     "r": "beop",
+     "base": "법",
+     "en": "law('s)"
+    },
+    {
+     "t": "조항이",
+     "r": "johangi",
+     "base": "조항 + 이",
+     "en": "provision"
+    },
+    {
+     "t": "위헌이라고",
+     "r": "wiheonirago",
+     "base": "위헌 + 이라고",
+     "en": "(that it) was unconstitutional",
+     "note": "-(이)라고 quotes a judgment"
+    },
+    {
+     "t": "판단했다",
+     "r": "pandanhaetda",
+     "base": "판단하다",
+     "en": "judged"
+    }
+   ],
+   "target": 4
+  },
+  "cloze_options": [
+   "위헌이라고",
+   "합법이라고",
+   "표본이라고",
+   "풍습이라고"
+  ],
+  "form": {
+   "q_en": "Which noun completes the set phrase 'hand down a ruling of unconstitutionality'?",
+   "ko": "헌법재판소는 그 조항에 대해 위헌 ___을 내렸다.",
+   "options": [
+    "결정",
+    "배상",
+    "처방",
+    "합병"
+   ],
+   "answer": 0,
+   "why": "위헌 결정을 내리다 = 'to rule something unconstitutional'. 배상, 처방 and 합병 do not form this phrase."
+  }
+ },
+ {
+  "id": "L6-007",
+  "day": 2,
+  "slot": 2,
+  "ko": "기소",
+  "roman": "giso",
+  "en": "indictment; prosecution",
+  "pos": "noun",
+  "ko_meaning": "검사가 사건을 재판해 달라고 법원에 요구하는 일",
+  "ko_meaning_en": "A prosecutor asking a court to put a case on trial",
+  "example": {
+   "ko": "검찰은 전 의원을 뇌물 혐의로 기소했다.",
+   "roman": "Geomchareun jeon uiwoneul noemul hyeomuiro gisohaetda.",
+   "en": "The prosecution indicted the former lawmaker on bribery charges.",
+   "tokens": [
+    {
+     "t": "검찰은",
+     "r": "geomchareun",
+     "base": "검찰 + 은",
+     "en": "the prosecution"
+    },
+    {
+     "t": "전",
+     "r": "jeon",
+     "base": "전",
+     "en": "former"
+    },
+    {
+     "t": "의원을",
+     "r": "uiwoneul",
+     "base": "의원 + 을",
+     "en": "lawmaker"
+    },
+    {
+     "t": "뇌물",
+     "r": "noemul",
+     "base": "뇌물",
+     "en": "bribery"
+    },
+    {
+     "t": "혐의로",
+     "r": "hyeomuiro",
+     "base": "혐의 + 로",
+     "en": "on charges of",
+     "note": "(으)로 marks the charge"
+    },
+    {
+     "t": "기소했다",
+     "r": "gisohaetda",
+     "base": "기소하다",
+     "en": "indicted"
+    }
+   ],
+   "target": 5
+  },
+  "cloze_options": [
+   "기소했다",
+   "배상했다",
+   "입증했다",
+   "편집했다"
+  ],
+  "form": {
+   "q_en": "Pick the particle that marks the charge.",
+   "ko": "검찰은 그를 뇌물 혐의___ 기소했다.",
+   "options": [
+    "로",
+    "에게",
+    "를",
+    "와"
+   ],
+   "answer": 0,
+   "why": "혐의로 기소하다 = 'to indict on a charge of': (으)로 marks the grounds. 그를 already takes the object particle."
+  }
+ },
+ {
+  "id": "L6-008",
+  "day": 2,
+  "slot": 3,
+  "ko": "항소",
+  "roman": "hangso",
+  "en": "appeal (to a higher court)",
+  "pos": "noun",
+  "ko_meaning": "1심 판결에 따르지 않고 더 높은 법원에 다시 재판을 요구함",
+  "ko_meaning_en": "Not accepting a first-trial ruling and asking a higher court for a new trial",
+  "example": {
+   "ko": "변호사는 1심 판결에 항소하겠다고 밝혔다.",
+   "roman": "Byeonhosaneun ilsim pangyeore hangsohagetdago balkyeotda.",
+   "en": "The lawyer said they would appeal the first-instance ruling.",
+   "tokens": [
+    {
+     "t": "변호사는",
+     "r": "byeonhosaneun",
+     "base": "변호사 + 는",
+     "en": "the lawyer"
+    },
+    {
+     "t": "1심",
+     "r": "ilsim",
+     "base": "1심",
+     "en": "first-instance",
+     "note": "1심 = the first trial"
+    },
+    {
+     "t": "판결에",
+     "r": "pangyeore",
+     "base": "판결 + 에",
+     "en": "against the ruling"
+    },
+    {
+     "t": "항소하겠다고",
+     "r": "hangsohagetdago",
+     "base": "항소하다",
+     "en": "that (they) would appeal",
+     "note": "-겠다고 quotes an intention"
+    },
+    {
+     "t": "밝혔다",
+     "r": "balkyeotda",
+     "base": "밝히다",
+     "en": "stated"
+    }
+   ],
+   "target": 3
+  },
+  "cloze_options": [
+   "항소하겠다고",
+   "사과하겠다고",
+   "참석하겠다고",
+   "투표하겠다고"
+  ],
+  "form": {
+   "q_en": "Which verb goes with 항소 ('to file an appeal')?",
+   "ko": "변호사는 1심 판결에 대해 항소를 ___.",
+   "options": [
+    "제기했다",
+    "끼쳤다",
+    "미쳤다",
+    "차지했다"
+   ],
+   "answer": 0,
+   "why": "항소를 제기하다 = 'to file an appeal'. 끼치다/미치다 go with 영향, and 차지하다 means 'to take up'."
+  }
+ },
+ {
+  "id": "L6-009",
+  "day": 2,
+  "slot": 4,
+  "ko": "배상",
+  "roman": "baesang",
+  "en": "compensation (for damages)",
+  "pos": "noun",
+  "ko_meaning": "남에게 끼친 손해를 돈 등으로 물어 줌",
+  "ko_meaning_en": "Paying, with money or the like, for damage caused to someone",
+  "example": {
+   "ko": "법원은 회사가 피해자들에게 손해를 배상해야 한다고 판결했다.",
+   "roman": "Beobwoneun hoesaga pihaejadeurege sonhaereul baesanghaeya handago pangyeolhaetda.",
+   "en": "The court ruled that the company must compensate the victims for the damage.",
+   "tokens": [
+    {
+     "t": "법원은",
+     "r": "beobwoneun",
+     "base": "법원 + 은",
+     "en": "the court"
+    },
+    {
+     "t": "회사가",
+     "r": "hoesaga",
+     "base": "회사 + 가",
+     "en": "the company"
+    },
+    {
+     "t": "피해자들에게",
+     "r": "pihaejadeurege",
+     "base": "피해자 + 들 + 에게",
+     "en": "to the victims"
+    },
+    {
+     "t": "손해를",
+     "r": "sonhaereul",
+     "base": "손해 + 를",
+     "en": "for the damage"
+    },
+    {
+     "t": "배상해야",
+     "r": "baesanghaeya",
+     "base": "배상하다",
+     "en": "must compensate",
+     "note": "-아/어야 하다 = must"
+    },
+    {
+     "t": "한다고",
+     "r": "handago",
+     "base": "하다",
+     "en": "(that it) must",
+     "note": "-다고 quotes a statement"
+    },
+    {
+     "t": "판결했다",
+     "r": "pangyeolhaetda",
+     "base": "판결하다",
+     "en": "ruled"
+    }
+   ],
+   "target": 4
+  },
+  "cloze_options": [
+   "배상해야",
+   "응원해야",
+   "홍보해야",
+   "저장해야"
+  ],
+  "form": {
+   "q_en": "Which verb goes with 손해 배상 ('to claim damages')?",
+   "ko": "피해자들은 회사를 상대로 손해 배상을 ___.",
+   "options": [
+    "청구했다",
+    "미쳤다",
+    "차지했다",
+    "초래했다"
+   ],
+   "answer": 0,
+   "why": "손해 배상을 청구하다 = 'to claim damages'. 미치다 takes 영향, 차지하다 means 'to take up', and 초래하다 'to bring about' a bad result."
+  }
+ },
+ {
+  "id": "L6-010",
+  "day": 2,
+  "slot": 5,
+  "ko": "판례",
+  "roman": "pallye",
+  "en": "judicial precedent",
+  "pos": "noun",
+  "ko_meaning": "법원이 전에 같은 종류의 사건에 내린 판결",
+  "ko_meaning_en": "A ruling a court gave earlier in the same kind of case",
+  "example": {
+   "ko": "재판부는 대법원 판례에 따라 판결을 내렸다.",
+   "roman": "Jaepanbuneun daebeobwon pallyee ttara pangyeoreul naeryeotda.",
+   "en": "The court ruled in line with Supreme Court precedent.",
+   "tokens": [
+    {
+     "t": "재판부는",
+     "r": "jaepanbuneun",
+     "base": "재판부 + 는",
+     "en": "the court (the judges)"
+    },
+    {
+     "t": "대법원",
+     "r": "daebeobwon",
+     "base": "대법원",
+     "en": "Supreme Court"
+    },
+    {
+     "t": "판례에",
+     "r": "pallyee",
+     "base": "판례 + 에",
+     "en": "precedent",
+     "note": "판례 is pronounced [팔례]"
+    },
+    {
+     "t": "따라",
+     "r": "ttara",
+     "base": "따르다",
+     "en": "in accordance with",
+     "note": "-에 따라 = according to"
+    },
+    {
+     "t": "판결을",
+     "r": "pangyeoreul",
+     "base": "판결 + 을",
+     "en": "a ruling"
+    },
+    {
+     "t": "내렸다",
+     "r": "naeryeotda",
+     "base": "내리다",
+     "en": "handed down"
+    }
+   ],
+   "target": 2
+  },
+  "cloze_options": [
+   "판례에",
+   "광고에",
+   "메뉴에",
+   "기념품에"
+  ],
+  "form": {
+   "q_en": "Pick the expression meaning 'in accordance with'.",
+   "ko": "재판부는 대법원 판례에 ___ 판결을 내렸다.",
+   "options": [
+    "따라",
+    "비해",
+    "걸쳐",
+    "더불어"
+   ],
+   "answer": 0,
+   "why": "-에 따라 = 'in accordance with'. -에 비해 compares, -에 걸쳐 covers a span, and 더불어 needs -와/과."
+  }
+ },
+ {
+  "id": "L6-011",
+  "day": 3,
+  "slot": 1,
+  "ko": "무죄",
+  "roman": "mujoe",
+  "en": "innocence; not guilty",
+  "pos": "noun",
+  "ko_meaning": "죄가 없음. 또는 법원이 죄가 없다고 판단하는 일",
+  "ko_meaning_en": "Having no guilt; or a court's judgment that someone is not guilty",
+  "example": {
+   "ko": "증거가 부족해 피고인은 결국 무죄 판결을 받았다.",
+   "roman": "Jeunggeoga bujokae pigoineun gyeolguk mujoe pangyeoreul badatda.",
+   "en": "Because the evidence was insufficient, the defendant was eventually found not guilty.",
+   "tokens": [
+    {
+     "t": "증거가",
+     "r": "jeunggeoga",
+     "base": "증거 + 가",
+     "en": "the evidence"
+    },
+    {
+     "t": "부족해",
+     "r": "bujokae",
+     "base": "부족하다",
+     "en": "being insufficient",
+     "note": "-아/어 gives the reason"
+    },
+    {
+     "t": "피고인은",
+     "r": "pigoineun",
+     "base": "피고인 + 은",
+     "en": "the defendant"
+    },
+    {
+     "t": "결국",
+     "r": "gyeolguk",
+     "base": "결국",
+     "en": "in the end"
+    },
+    {
+     "t": "무죄",
+     "r": "mujoe",
+     "base": "무죄",
+     "en": "not-guilty"
+    },
+    {
+     "t": "판결을",
+     "r": "pangyeoreul",
+     "base": "판결 + 을",
+     "en": "verdict"
+    },
+    {
+     "t": "받았다",
+     "r": "badatda",
+     "base": "받다",
+     "en": "received"
+    }
+   ],
+   "target": 4
+  },
+  "cloze_options": [
+   "무죄",
+   "유죄",
+   "위헌",
+   "배당"
+  ],
+  "form": {
+   "q_en": "Pick the particle that goes with 선고받다.",
+   "ko": "피고인은 1심에서 무죄___ 선고받았다.",
+   "options": [
+    "를",
+    "가",
+    "에",
+    "와"
+   ],
+   "answer": 0,
+   "why": "선고받다 takes the sentence as its object: 무죄를 선고받다 'to be declared not guilty'."
+  }
+ },
+ {
+  "id": "L6-012",
+  "day": 3,
+  "slot": 2,
+  "ko": "유죄",
+  "roman": "yujoe",
+  "en": "guilt; guilty",
+  "pos": "noun",
+  "ko_meaning": "죄가 있음. 또는 법원이 죄가 있다고 판단하는 일",
+  "ko_meaning_en": "Having guilt; or a court's judgment that someone is guilty",
+  "example": {
+   "ko": "법원은 증거를 근거로 그에게 유죄를 선고했다.",
+   "roman": "Beobwoneun jeunggeoreul geungeoro geuege yujoereul seongohaetda.",
+   "en": "Based on the evidence, the court declared him guilty.",
+   "tokens": [
+    {
+     "t": "법원은",
+     "r": "beobwoneun",
+     "base": "법원 + 은",
+     "en": "the court"
+    },
+    {
+     "t": "증거를",
+     "r": "jeunggeoreul",
+     "base": "증거 + 를",
+     "en": "the evidence"
+    },
+    {
+     "t": "근거로",
+     "r": "geungeoro",
+     "base": "근거 + 로",
+     "en": "on the basis of",
+     "note": "N을 근거로 = based on N"
+    },
+    {
+     "t": "그에게",
+     "r": "geuege",
+     "base": "그 + 에게",
+     "en": "(to) him"
+    },
+    {
+     "t": "유죄를",
+     "r": "yujoereul",
+     "base": "유죄 + 를",
+     "en": "guilty (verdict)"
+    },
+    {
+     "t": "선고했다",
+     "r": "seongohaetda",
+     "base": "선고하다",
+     "en": "declared"
+    }
+   ],
+   "target": 4
+  },
+  "cloze_options": [
+   "유죄를",
+   "무죄를",
+   "오보를",
+   "기사를"
+  ],
+  "form": {
+   "q_en": "Pick the right quoting form after 유죄.",
+   "ko": "재판부는 그가 유죄___ 판단했다.",
+   "options": [
+    "라고",
+    "이라고",
+    "다고",
+    "로서"
+   ],
+   "answer": 0,
+   "why": "After a noun ending in a vowel, quoted 이다 becomes -라고: 유죄라고. 이라고 follows a consonant (위헌이라고)."
+  }
+ },
+ {
+  "id": "L6-013",
+  "day": 3,
+  "slot": 3,
+  "ko": "처분",
+  "roman": "cheobun",
+  "en": "disposition; (official) measure; disposal",
+  "pos": "noun",
+  "ko_meaning": "기관이 규칙이나 법에 따라 어떤 일을 결정하여 처리함. 또는 물건을 팔거나 없앰",
+  "ko_meaning_en": "An authority deciding and settling a matter by rules or law; or selling off or getting rid of something",
+  "example": {
+   "ko": "학교는 규칙을 위반한 학생에게 징계 처분을 내렸다.",
+   "roman": "Hakgyoneun gyuchigeul wibanhan haksaengege jinggye cheobuneul naeryeotda.",
+   "en": "The school took disciplinary action against the student who broke the rules.",
+   "tokens": [
+    {
+     "t": "학교는",
+     "r": "hakgyoneun",
+     "base": "학교 + 는",
+     "en": "the school"
+    },
+    {
+     "t": "규칙을",
+     "r": "gyuchigeul",
+     "base": "규칙 + 을",
+     "en": "the rules"
+    },
+    {
+     "t": "위반한",
+     "r": "wibanhan",
+     "base": "위반하다",
+     "en": "who broke",
+     "note": "-(으)ㄴ = past modifier"
+    },
+    {
+     "t": "학생에게",
+     "r": "haksaengege",
+     "base": "학생 + 에게",
+     "en": "to the student"
+    },
+    {
+     "t": "징계",
+     "r": "jinggye",
+     "base": "징계",
+     "en": "disciplinary"
+    },
+    {
+     "t": "처분을",
+     "r": "cheobuneul",
+     "base": "처분 + 을",
+     "en": "measure",
+     "note": "처분을 내리다 = to impose a measure"
+    },
+    {
+     "t": "내렸다",
+     "r": "naeryeotda",
+     "base": "내리다",
+     "en": "imposed"
+    }
+   ],
+   "target": 5
+  },
+  "cloze_options": [
+   "처분을",
+   "처방을",
+   "진단을",
+   "장학금을"
+  ],
+  "form": {
+   "q_en": "The restaurant is on the receiving end. Pick the verb.",
+   "ko": "그 식당은 위생 규정을 어겨 영업 정지 처분을 ___.",
+   "options": [
+    "받았다",
+    "내렸다",
+    "미쳤다",
+    "차지했다"
+   ],
+   "answer": 0,
+   "why": "The one punished 처분을 받다; the authority is the one that 처분을 내리다."
+  }
+ },
+ {
+  "id": "L6-014",
+  "day": 3,
+  "slot": 4,
+  "ko": "위임하다",
+  "roman": "wiimhada",
+  "en": "to delegate",
+  "pos": "verb",
+  "ko_meaning": "어떤 일이나 권한을 남에게 맡기다",
+  "ko_meaning_en": "To hand over a task or authority to someone else",
+  "example": {
+   "ko": "사장은 해외 업무에 대한 결정을 부장에게 위임했다.",
+   "roman": "Sajangeun haeoe eommue daehan gyeoljeongeul bujangege wiimhaetda.",
+   "en": "The company president delegated decisions on overseas business to the department head.",
+   "tokens": [
+    {
+     "t": "사장은",
+     "r": "sajangeun",
+     "base": "사장 + 은",
+     "en": "the company president"
+    },
+    {
+     "t": "해외",
+     "r": "haeoe",
+     "base": "해외",
+     "en": "overseas"
+    },
+    {
+     "t": "업무에",
+     "r": "eommue",
+     "base": "업무 + 에",
+     "en": "business"
+    },
+    {
+     "t": "대한",
+     "r": "daehan",
+     "base": "대하다",
+     "en": "regarding",
+     "note": "-에 대한 = about, on"
+    },
+    {
+     "t": "결정을",
+     "r": "gyeoljeongeul",
+     "base": "결정 + 을",
+     "en": "decisions"
+    },
+    {
+     "t": "부장에게",
+     "r": "bujangege",
+     "base": "부장 + 에게",
+     "en": "to the department head"
+    },
+    {
+     "t": "위임했다",
+     "r": "wiimhaetda",
+     "base": "위임하다",
+     "en": "delegated"
+    }
+   ],
+   "target": 6
+  },
+  "cloze_options": [
+   "위임했다",
+   "송금했다",
+   "배달했다",
+   "상환했다"
+  ],
+  "form": {
+   "q_en": "Pick the particle for the person who receives the authority.",
+   "ko": "사장은 결정 권한을 부장___ 위임했다.",
+   "options": [
+    "에게",
+    "에게서",
+    "으로부터",
+    "처럼"
+   ],
+   "answer": 0,
+   "why": "위임하다 marks the receiver with 에게 ('delegate to'). 에게서 and 으로부터 mark the source."
+  }
+ },
+ {
+  "id": "L6-015",
+  "day": 3,
+  "slot": 5,
+  "ko": "의결하다",
+  "roman": "uigyeolhada",
+  "en": "to vote on and decide; to pass (a bill)",
+  "pos": "verb",
+  "ko_meaning": "회의에서 의논하여 결정하다",
+  "ko_meaning_en": "To discuss and decide in a meeting",
+  "example": {
+   "ko": "국회는 본회의에서 내년도 예산안을 의결했다.",
+   "roman": "Gukoeneun bonhoeuieseo naenyeondo yesananeul uigyeolhaetda.",
+   "en": "The National Assembly passed next year's budget bill at the plenary session.",
+   "tokens": [
+    {
+     "t": "국회는",
+     "r": "gukoeneun",
+     "base": "국회 + 는",
+     "en": "the National Assembly"
+    },
+    {
+     "t": "본회의에서",
+     "r": "bonhoeuieseo",
+     "base": "본회의 + 에서",
+     "en": "at the plenary session"
+    },
+    {
+     "t": "내년도",
+     "r": "naenyeondo",
+     "base": "내년도",
+     "en": "next year's"
+    },
+    {
+     "t": "예산안을",
+     "r": "yesananeul",
+     "base": "예산안 + 을",
+     "en": "budget bill"
+    },
+    {
+     "t": "의결했다",
+     "r": "uigyeolhaetda",
+     "base": "의결하다",
+     "en": "passed (by vote)"
+    }
+   ],
+   "target": 4
+  },
+  "cloze_options": [
+   "의결했다",
+   "배양했다",
+   "추출했다",
+   "관측했다"
+  ],
+  "form": {
+   "q_en": "Pick the particle meaning 'by (a majority)'.",
+   "ko": "국회는 예산안을 찬성 다수___ 의결했다.",
+   "options": [
+    "로",
+    "에",
+    "를",
+    "와"
+   ],
+   "answer": 0,
+   "why": "(으)로 marks the means or basis: 찬성 다수로 의결하다 'to pass by a majority vote'."
+  }
+ },
+ {
+  "id": "L6-016",
+  "day": 4,
+  "slot": 1,
+  "ko": "거시경제",
+  "roman": "geosigyeongje",
+  "en": "macroeconomics; the macroeconomy",
+  "pos": "noun",
+  "ko_meaning": "한 나라 전체의 생산, 물가, 고용 등을 크게 보는 경제",
+  "ko_meaning_en": "The economy seen as a whole: a country's total production, prices, employment, etc.",
+  "example": {
+   "ko": "금리 변화는 거시경제 전반에 큰 영향을 미친다.",
+   "roman": "Geumni byeonhwaneun geosigyeongje jeonbane keun yeonghyangeul michinda.",
+   "en": "Changes in interest rates have a big impact on the macroeconomy as a whole.",
+   "tokens": [
+    {
+     "t": "금리",
+     "r": "geumni",
+     "base": "금리",
+     "en": "interest rate",
+     "note": "금리 is pronounced [금니]"
+    },
+    {
+     "t": "변화는",
+     "r": "byeonhwaneun",
+     "base": "변화 + 는",
+     "en": "changes"
+    },
+    {
+     "t": "거시경제",
+     "r": "geosigyeongje",
+     "base": "거시경제",
+     "en": "the macroeconomy"
+    },
+    {
+     "t": "전반에",
+     "r": "jeonbane",
+     "base": "전반 + 에",
+     "en": "on the whole of"
+    },
+    {
+     "t": "큰",
+     "r": "keun",
+     "base": "크다",
+     "en": "big"
+    },
+    {
+     "t": "영향을",
+     "r": "yeonghyangeul",
+     "base": "영향 + 을",
+     "en": "impact"
+    },
+    {
+     "t": "미친다",
+     "r": "michinda",
+     "base": "미치다",
+     "en": "have",
+     "note": "영향을 미치다 = to have an impact"
+    }
+   ],
+   "target": 2
+  },
+  "cloze_options": [
+   "거시경제",
+   "교육과정",
+   "생태계",
+   "신화"
+  ],
+  "form": {
+   "q_en": "Which verb goes with 영향?",
+   "ko": "금리 변화는 거시경제 전반에 큰 영향을 ___.",
+   "options": [
+    "미친다",
+    "차지한다",
+    "일으킨다",
+    "이룬다"
+   ],
+   "answer": 0,
+   "why": "영향을 미치다 (or 끼치다) = 'to have an influence'. 차지하다, 일으키다 and 이루다 do not take 영향 this way."
+  }
+ },
+ {
+  "id": "L6-017",
+  "day": 4,
+  "slot": 2,
+  "ko": "재정",
+  "roman": "jaejeong",
+  "en": "public finance; finances",
+  "pos": "noun",
+  "ko_meaning": "국가나 지방 정부가 돈을 모으고 쓰는 일. 또는 그 돈의 상태",
+  "ko_meaning_en": "The way a state or local government raises and spends money; or the state of that money",
+  "example": {
+   "ko": "고령화로 복지 지출이 늘어 정부 재정 부담이 커지고 있다.",
+   "roman": "Goryeonghwaro bokji jichuri neureo jeongbu jaejeong budami keojigo itda.",
+   "en": "As welfare spending rises due to population aging, the burden on government finances is growing.",
+   "tokens": [
+    {
+     "t": "고령화로",
+     "r": "goryeonghwaro",
+     "base": "고령화 + 로",
+     "en": "due to population aging",
+     "note": "(으)로 gives the cause"
+    },
+    {
+     "t": "복지",
+     "r": "bokji",
+     "base": "복지",
+     "en": "welfare"
+    },
+    {
+     "t": "지출이",
+     "r": "jichuri",
+     "base": "지출 + 이",
+     "en": "spending"
+    },
+    {
+     "t": "늘어",
+     "r": "neureo",
+     "base": "늘다",
+     "en": "increasing",
+     "note": "-어 = and so"
+    },
+    {
+     "t": "정부",
+     "r": "jeongbu",
+     "base": "정부",
+     "en": "government"
+    },
+    {
+     "t": "재정",
+     "r": "jaejeong",
+     "base": "재정",
+     "en": "finances"
+    },
+    {
+     "t": "부담이",
+     "r": "budami",
+     "base": "부담 + 이",
+     "en": "burden"
+    },
+    {
+     "t": "커지고",
+     "r": "keojigo",
+     "base": "커지다",
+     "en": "growing"
+    },
+    {
+     "t": "있다",
+     "r": "itda",
+     "base": "있다",
+     "en": "is",
+     "note": "-고 있다 = ongoing"
+    }
+   ],
+   "target": 5
+  },
+  "cloze_options": [
+   "재정",
+   "위생",
+   "영양",
+   "취향"
+  ],
+  "form": {
+   "q_en": "Pick the expression of purpose.",
+   "ko": "정부는 재정 적자를 줄이기 ___ 지출을 축소했다.",
+   "options": [
+    "위해",
+    "때문에",
+    "대신",
+    "덕분에"
+   ],
+   "answer": 0,
+   "why": "-기 위해 = 'in order to (reduce)'. -기 때문에 gives a reason, and 대신/덕분에 do not follow -기."
+  }
+ },
+ {
+  "id": "L6-018",
+  "day": 4,
+  "slot": 3,
+  "ko": "긴축",
+  "roman": "ginchuk",
+  "en": "austerity; tightening",
+  "pos": "noun",
+  "ko_meaning": "돈을 쓰는 것을 크게 줄임",
+  "ko_meaning_en": "Cutting spending sharply",
+  "example": {
+   "ko": "그 나라는 재정 위기를 막기 위해 긴축 정책을 펴기로 했다.",
+   "roman": "Geu naraneun jaejeong wigireul makgi wihae ginchuk jeongchaegeul pyeogiro haetda.",
+   "en": "That country decided to pursue austerity policies to prevent a fiscal crisis.",
+   "tokens": [
+    {
+     "t": "그",
+     "r": "geu",
+     "base": "그",
+     "en": "that"
+    },
+    {
+     "t": "나라는",
+     "r": "naraneun",
+     "base": "나라 + 는",
+     "en": "country"
+    },
+    {
+     "t": "재정",
+     "r": "jaejeong",
+     "base": "재정",
+     "en": "fiscal"
+    },
+    {
+     "t": "위기를",
+     "r": "wigireul",
+     "base": "위기 + 를",
+     "en": "crisis"
+    },
+    {
+     "t": "막기",
+     "r": "makgi",
+     "base": "막다",
+     "en": "to prevent",
+     "note": "-기 위해 = in order to"
+    },
+    {
+     "t": "위해",
+     "r": "wihae",
+     "base": "위하다",
+     "en": "in order"
+    },
+    {
+     "t": "긴축",
+     "r": "ginchuk",
+     "base": "긴축",
+     "en": "austerity"
+    },
+    {
+     "t": "정책을",
+     "r": "jeongchaegeul",
+     "base": "정책 + 을",
+     "en": "policies"
+    },
+    {
+     "t": "펴기로",
+     "r": "pyeogiro",
+     "base": "펴다",
+     "en": "to pursue",
+     "note": "정책을 펴다 = to carry out a policy"
+    },
+    {
+     "t": "했다",
+     "r": "haetda",
+     "base": "하다",
+     "en": "decided",
+     "note": "-기로 하다 = to decide to"
+    }
+   ],
+   "target": 6
+  },
+  "cloze_options": [
+   "긴축",
+   "복지",
+   "다문화",
+   "교통"
+  ],
+  "form": {
+   "q_en": "Which verb goes with 정책 ('to carry out a policy')?",
+   "ko": "그 나라는 재정 위기를 막기 위해 긴축 정책을 ___ 했다.",
+   "options": [
+    "펴기로",
+    "미치기로",
+    "끼치기로",
+    "차리기로"
+   ],
+   "answer": 0,
+   "why": "정책을 펴다 = 'to pursue a policy' (also 실시하다). 미치다/끼치다 go with 영향, and 차리다 with things like 가게."
+  }
+ },
+ {
+  "id": "L6-019",
+  "day": 4,
+  "slot": 4,
+  "ko": "부양책",
+  "roman": "buyangchaek",
+  "en": "stimulus measures",
+  "pos": "noun",
+  "ko_meaning": "어려워진 경기를 살리기 위한 정책",
+  "ko_meaning_en": "Policies to revive a slumping economy",
+  "example": {
+   "ko": "정부가 경기 부양책으로 대규모 투자 계획을 발표했다.",
+   "roman": "Jeongbuga gyeonggi buyangchaegeuro daegyumo tuja gyehoegeul balpyohaetda.",
+   "en": "The government announced a large-scale investment plan as an economic stimulus measure.",
+   "tokens": [
+    {
+     "t": "정부가",
+     "r": "jeongbuga",
+     "base": "정부 + 가",
+     "en": "the government"
+    },
+    {
+     "t": "경기",
+     "r": "gyeonggi",
+     "base": "경기",
+     "en": "economic",
+     "note": "경기 here = the economy"
+    },
+    {
+     "t": "부양책으로",
+     "r": "buyangchaegeuro",
+     "base": "부양책 + 으로",
+     "en": "as a stimulus measure",
+     "note": "(으)로 = as"
+    },
+    {
+     "t": "대규모",
+     "r": "daegyumo",
+     "base": "대규모",
+     "en": "large-scale"
+    },
+    {
+     "t": "투자",
+     "r": "tuja",
+     "base": "투자",
+     "en": "investment"
+    },
+    {
+     "t": "계획을",
+     "r": "gyehoegeul",
+     "base": "계획 + 을",
+     "en": "plan"
+    },
+    {
+     "t": "발표했다",
+     "r": "balpyohaetda",
+     "base": "발표하다",
+     "en": "announced"
+    }
+   ],
+   "target": 2
+  },
+  "cloze_options": [
+   "부양책으로",
+   "장학금으로",
+   "기념품으로",
+   "일회용품으로"
+  ],
+  "form": {
+   "q_en": "Pick the verb in 'fall short of expectations'.",
+   "ko": "경기 부양책의 효과가 기대에 ___ 못했다.",
+   "options": [
+    "미치지",
+    "끼치지",
+    "차지하지",
+    "걸리지"
+   ],
+   "answer": 0,
+   "why": "기대에 미치지 못하다 = 'to fall short of expectations'. 끼치다 needs an object such as 영향 or 피해."
+  }
+ },
+ {
+  "id": "L6-020",
+  "day": 4,
+  "slot": 5,
+  "ko": "침체",
+  "roman": "chimche",
+  "en": "stagnation; slump",
+  "pos": "noun",
+  "ko_meaning": "경기나 어떤 현상이 나아지지 못하고 그 자리에 머무름",
+  "ko_meaning_en": "The economy or a phenomenon failing to improve and staying where it is",
+  "example": {
+   "ko": "소비가 줄면서 내수 시장의 침체가 장기화되고 있다.",
+   "roman": "Sobiga julmyeonseo naesu sijangui chimchega janggihwadoego itda.",
+   "en": "As consumption falls, the slump in the domestic market is dragging on.",
+   "tokens": [
+    {
+     "t": "소비가",
+     "r": "sobiga",
+     "base": "소비 + 가",
+     "en": "consumption"
+    },
+    {
+     "t": "줄면서",
+     "r": "julmyeonseo",
+     "base": "줄다",
+     "en": "as (it) falls",
+     "note": "-(으)면서 = while, as"
+    },
+    {
+     "t": "내수",
+     "r": "naesu",
+     "base": "내수",
+     "en": "domestic"
+    },
+    {
+     "t": "시장의",
+     "r": "sijangui",
+     "base": "시장 + 의",
+     "en": "market's"
+    },
+    {
+     "t": "침체가",
+     "r": "chimchega",
+     "base": "침체 + 가",
+     "en": "slump"
+    },
+    {
+     "t": "장기화되고",
+     "r": "janggihwadoego",
+     "base": "장기화되다",
+     "en": "becoming prolonged"
+    },
+    {
+     "t": "있다",
+     "r": "itda",
+     "base": "있다",
+     "en": "is",
+     "note": "-고 있다 = ongoing"
+    }
+   ],
+   "target": 4
+  },
+  "cloze_options": [
+   "침체가",
+   "인기가",
+   "오보가",
+   "배려가"
+  ],
+  "form": {
+   "q_en": "Which verb goes with 침체에 ('to fall into a slump')?",
+   "ko": "경기가 깊은 침체에 ___.",
+   "options": [
+    "빠졌다",
+    "지켰다",
+    "맡겼다",
+    "끼쳤다"
+   ],
+   "answer": 0,
+   "why": "침체에 빠지다 = 'to fall into a slump'. The other verbs need an object and do not fit."
+  }
+ },
+ {
+  "id": "L6-021",
+  "day": 5,
+  "slot": 1,
+  "ko": "유동성",
+  "roman": "yudongseong",
+  "en": "liquidity",
+  "pos": "noun",
+  "ko_meaning": "가진 재산을 손해 없이 쉽게 현금으로 바꿀 수 있는 정도. 또는 시장에 풀린 돈의 양",
+  "ko_meaning_en": "How easily an asset can be turned into cash without loss; or the amount of money circulating in a market",
+  "example": {
+   "ko": "중앙은행은 시장에 유동성을 공급해 금융 불안을 진정시켰다.",
+   "roman": "Jungangeunhaengeun sijange yudongseongeul gonggeupae geumyung buraneul jinjeongsikyeotda.",
+   "en": "The central bank calmed financial unrest by supplying liquidity to the market.",
+   "tokens": [
+    {
+     "t": "중앙은행은",
+     "r": "jungangeunhaengeun",
+     "base": "중앙은행 + 은",
+     "en": "the central bank"
+    },
+    {
+     "t": "시장에",
+     "r": "sijange",
+     "base": "시장 + 에",
+     "en": "to the market"
+    },
+    {
+     "t": "유동성을",
+     "r": "yudongseongeul",
+     "base": "유동성 + 을",
+     "en": "liquidity"
+    },
+    {
+     "t": "공급해",
+     "r": "gonggeupae",
+     "base": "공급하다",
+     "en": "by supplying",
+     "note": "-아/어 = by doing"
+    },
+    {
+     "t": "금융",
+     "r": "geumyung",
+     "base": "금융",
+     "en": "financial"
+    },
+    {
+     "t": "불안을",
+     "r": "buraneul",
+     "base": "불안 + 을",
+     "en": "unrest"
+    },
+    {
+     "t": "진정시켰다",
+     "r": "jinjeongsikyeotda",
+     "base": "진정시키다",
+     "en": "calmed"
+    }
+   ],
+   "target": 2
+  },
+  "cloze_options": [
+   "유동성을",
+   "익명성을",
+   "투명성을",
+   "정체성을"
+  ],
+  "form": {
+   "q_en": "Which verb goes with 유동성 ('to inject liquidity')?",
+   "ko": "중앙은행은 시장에 유동성을 ___.",
+   "options": [
+    "공급했다",
+    "섭취했다",
+    "배출했다",
+    "차지했다"
+   ],
+   "answer": 0,
+   "why": "유동성을 공급하다 = 'to supply liquidity'. 섭취하다 is for food, 배출하다 for waste or gas."
+  }
+ },
+ {
+  "id": "L6-022",
+  "day": 5,
+  "slot": 2,
+  "ko": "담보",
+  "roman": "dambo",
+  "en": "collateral; security",
+  "pos": "noun",
+  "ko_meaning": "돈을 빌릴 때 갚지 못할 경우를 대비하여 맡기는 것",
+  "ko_meaning_en": "Something given as a guarantee in case a loan cannot be repaid",
+  "example": {
+   "ko": "그는 아파트를 담보로 은행에서 대출을 받았다.",
+   "roman": "Geuneun apateureul damboro eunhaengeseo daechureul badatda.",
+   "en": "He took out a bank loan using his apartment as collateral.",
+   "tokens": [
+    {
+     "t": "그는",
+     "r": "geuneun",
+     "base": "그 + 는",
+     "en": "he"
+    },
+    {
+     "t": "아파트를",
+     "r": "apateureul",
+     "base": "아파트 + 를",
+     "en": "(his) apartment"
+    },
+    {
+     "t": "담보로",
+     "r": "damboro",
+     "base": "담보 + 로",
+     "en": "as collateral",
+     "note": "(으)로 = as"
+    },
+    {
+     "t": "은행에서",
+     "r": "eunhaengeseo",
+     "base": "은행 + 에서",
+     "en": "from the bank"
+    },
+    {
+     "t": "대출을",
+     "r": "daechureul",
+     "base": "대출 + 을",
+     "en": "a loan"
+    },
+    {
+     "t": "받았다",
+     "r": "badatda",
+     "base": "받다",
+     "en": "took out",
+     "note": "대출을 받다 = to get a loan"
+    }
+   ],
+   "target": 2
+  },
+  "cloze_options": [
+   "담보로",
+   "취미로",
+   "선물로",
+   "메뉴로"
+  ],
+  "form": {
+   "q_en": "Pick the particle in the set phrase 'put up as collateral'.",
+   "ko": "그는 집을 담보___ 잡히고 돈을 빌렸다.",
+   "options": [
+    "로",
+    "를",
+    "에",
+    "가"
+   ],
+   "answer": 0,
+   "why": "N을 담보로 잡히다 = 'to put N up as collateral': (으)로 marks what the house serves as."
+  }
+ },
+ {
+  "id": "L6-023",
+  "day": 5,
+  "slot": 3,
+  "ko": "채권",
+  "roman": "chaegwon",
+  "en": "bond; claim (financial)",
+  "pos": "noun",
+  "ko_meaning": "정부나 회사가 돈을 빌리면서 발행하는 증서. 또는 빌려준 돈을 받을 권리",
+  "ko_meaning_en": "A certificate a government or company issues when borrowing money; or the right to collect money lent",
+  "example": {
+   "ko": "금리가 오르면 이미 발행된 채권의 가격은 떨어진다.",
+   "roman": "Geumniga oreumyeon imi barhaengdoen chaegwonui gagyeogeun tteoreojinda.",
+   "en": "When interest rates rise, the price of bonds already issued falls.",
+   "tokens": [
+    {
+     "t": "금리가",
+     "r": "geumniga",
+     "base": "금리 + 가",
+     "en": "interest rates"
+    },
+    {
+     "t": "오르면",
+     "r": "oreumyeon",
+     "base": "오르다",
+     "en": "when (they) rise",
+     "note": "-(으)면 = when, if"
+    },
+    {
+     "t": "이미",
+     "r": "imi",
+     "base": "이미",
+     "en": "already"
+    },
+    {
+     "t": "발행된",
+     "r": "barhaengdoen",
+     "base": "발행되다",
+     "en": "issued"
+    },
+    {
+     "t": "채권의",
+     "r": "chaegwonui",
+     "base": "채권 + 의",
+     "en": "of bonds",
+     "note": "채권 is pronounced [채꿘]"
+    },
+    {
+     "t": "가격은",
+     "r": "gagyeogeun",
+     "base": "가격 + 은",
+     "en": "price"
+    },
+    {
+     "t": "떨어진다",
+     "r": "tteoreojinda",
+     "base": "떨어지다",
+     "en": "falls",
+     "note": "written present -ㄴ다"
+    }
+   ],
+   "target": 4
+  },
+  "cloze_options": [
+   "채권의",
+   "여권의",
+   "영수증의",
+   "통장의"
+  ],
+  "form": {
+   "q_en": "Which verb goes with 채권 ('to issue bonds')?",
+   "ko": "그 회사는 투자금을 모으려고 채권을 ___.",
+   "options": [
+    "발행했다",
+    "발급했다",
+    "배출했다",
+    "보급했다"
+   ],
+   "answer": 0,
+   "why": "Bonds are issued with 발행하다. 발급하다 is for documents given to a person (passport, card), and 배출하다 for emissions."
+  }
+ },
+ {
+  "id": "L6-024",
+  "day": 5,
+  "slot": 4,
+  "ko": "파산",
+  "roman": "pasan",
+  "en": "bankruptcy",
+  "pos": "noun",
+  "ko_meaning": "재산을 모두 잃어 빚을 갚을 수 없게 됨",
+  "ko_meaning_en": "Losing all one's assets and becoming unable to pay one's debts",
+  "example": {
+   "ko": "부채를 갚지 못한 그 기업은 결국 파산을 신청했다.",
+   "roman": "Buchaereul gapji motan geu gieobeun gyeolguk pasaneul sincheonghaetda.",
+   "en": "Unable to repay its debts, the company eventually filed for bankruptcy.",
+   "tokens": [
+    {
+     "t": "부채를",
+     "r": "buchaereul",
+     "base": "부채 + 를",
+     "en": "its debts"
+    },
+    {
+     "t": "갚지",
+     "r": "gapji",
+     "base": "갚다",
+     "en": "repay",
+     "note": "-지 못하다 = cannot"
+    },
+    {
+     "t": "못한",
+     "r": "motan",
+     "base": "못하다",
+     "en": "unable to"
+    },
+    {
+     "t": "그",
+     "r": "geu",
+     "base": "그",
+     "en": "that"
+    },
+    {
+     "t": "기업은",
+     "r": "gieobeun",
+     "base": "기업 + 은",
+     "en": "company"
+    },
+    {
+     "t": "결국",
+     "r": "gyeolguk",
+     "base": "결국",
+     "en": "eventually"
+    },
+    {
+     "t": "파산을",
+     "r": "pasaneul",
+     "base": "파산 + 을",
+     "en": "bankruptcy"
+    },
+    {
+     "t": "신청했다",
+     "r": "sincheonghaetda",
+     "base": "신청하다",
+     "en": "filed for"
+    }
+   ],
+   "target": 6
+  },
+  "cloze_options": [
+   "파산을",
+   "장학금을",
+   "입학을",
+   "발급을"
+  ],
+  "form": {
+   "q_en": "Pick the noun in 'face the risk of bankruptcy'.",
+   "ko": "적자가 계속되자 그 회사는 파산 ___에 놓였다.",
+   "options": [
+    "위기",
+    "기회",
+    "장점",
+    "습관"
+   ],
+   "answer": 0,
+   "why": "파산 위기에 놓이다 = 'to face the risk of bankruptcy'. The other nouns do not combine with 파산 this way."
+  }
+ },
+ {
+  "id": "L6-025",
+  "day": 5,
+  "slot": 5,
+  "ko": "상환하다",
+  "roman": "sanghwanhada",
+  "en": "to repay",
+  "pos": "verb",
+  "ko_meaning": "빌린 돈을 갚다",
+  "ko_meaning_en": "To pay back borrowed money",
+  "example": {
+   "ko": "회사는 올해 안에 대출금을 모두 상환할 예정이다.",
+   "roman": "Hoesaneun olhae ane daechulgeumeul modu sanghwanhal yejeongida.",
+   "en": "The company plans to repay the entire loan within this year.",
+   "tokens": [
+    {
+     "t": "회사는",
+     "r": "hoesaneun",
+     "base": "회사 + 는",
+     "en": "the company"
+    },
+    {
+     "t": "올해",
+     "r": "olhae",
+     "base": "올해",
+     "en": "this year"
+    },
+    {
+     "t": "안에",
+     "r": "ane",
+     "base": "안 + 에",
+     "en": "within"
+    },
+    {
+     "t": "대출금을",
+     "r": "daechulgeumeul",
+     "base": "대출금 + 을",
+     "en": "the loan"
+    },
+    {
+     "t": "모두",
+     "r": "modu",
+     "base": "모두",
+     "en": "entirely"
+    },
+    {
+     "t": "상환할",
+     "r": "sanghwanhal",
+     "base": "상환하다",
+     "en": "to repay",
+     "note": "-(으)ㄹ 예정이다 = be scheduled to"
+    },
+    {
+     "t": "예정이다",
+     "r": "yejeongida",
+     "base": "예정 + 이다",
+     "en": "plans"
+    }
+   ],
+   "target": 5
+  },
+  "cloze_options": [
+   "상환할",
+   "저금할",
+   "환전할",
+   "포장할"
+  ],
+  "form": {
+   "q_en": "Pick the particle that marks a deadline.",
+   "ko": "대출금은 만기일___ 상환해야 한다.",
+   "options": [
+    "까지",
+    "조차",
+    "처럼",
+    "만큼"
+   ],
+   "answer": 0,
+   "why": "까지 marks a deadline ('by the due date'). 조차 means 'even', 처럼 'like', and 만큼 'as much as'."
+  }
+ },
+ {
+  "id": "L6-026",
+  "day": 6,
+  "slot": 1,
+  "ko": "인수",
+  "roman": "insu",
+  "en": "acquisition; takeover",
+  "pos": "noun",
+  "ko_meaning": "다른 회사나 물건, 권리 등을 넘겨받음",
+  "ko_meaning_en": "Taking over another company, property, or rights",
+  "example": {
+   "ko": "그 대기업은 경쟁 업체를 인수해 시장 점유율을 높였다.",
+   "roman": "Geu daegieobeun gyeongjaeng eopchereul insuhae sijang jeomyuyureul nopyeotda.",
+   "en": "The conglomerate raised its market share by acquiring a competitor.",
+   "tokens": [
+    {
+     "t": "그",
+     "r": "geu",
+     "base": "그",
+     "en": "the"
+    },
+    {
+     "t": "대기업은",
+     "r": "daegieobeun",
+     "base": "대기업 + 은",
+     "en": "conglomerate"
+    },
+    {
+     "t": "경쟁",
+     "r": "gyeongjaeng",
+     "base": "경쟁",
+     "en": "competing"
+    },
+    {
+     "t": "업체를",
+     "r": "eopchereul",
+     "base": "업체 + 를",
+     "en": "company"
+    },
+    {
+     "t": "인수해",
+     "r": "insuhae",
+     "base": "인수하다",
+     "en": "by acquiring",
+     "note": "-아/어 = by doing"
+    },
+    {
+     "t": "시장",
+     "r": "sijang",
+     "base": "시장",
+     "en": "market"
+    },
+    {
+     "t": "점유율을",
+     "r": "jeomyuyureul",
+     "base": "점유율 + 을",
+     "en": "share"
+    },
+    {
+     "t": "높였다",
+     "r": "nopyeotda",
+     "base": "높이다",
+     "en": "raised"
+    }
+   ],
+   "target": 4
+  },
+  "cloze_options": [
+   "인수해",
+   "배양해",
+   "관측해",
+   "의결해"
+  ],
+  "form": {
+   "q_en": "Pick the particle that goes with 나서다 ('set out to').",
+   "ko": "그 회사는 경쟁 업체의 인수___ 나섰다.",
+   "options": [
+    "에",
+    "를",
+    "와",
+    "로"
+   ],
+   "answer": 0,
+   "why": "나서다 takes its goal with 에: 인수에 나서다 'to move to acquire'."
+  }
+ },
+ {
+  "id": "L6-027",
+  "day": 6,
+  "slot": 2,
+  "ko": "합병",
+  "roman": "hapbyeong",
+  "en": "merger",
+  "pos": "noun",
+  "ko_meaning": "둘 이상의 회사나 조직을 하나로 합침",
+  "ko_meaning_en": "Combining two or more companies or organizations into one",
+  "example": {
+   "ko": "두 은행의 합병으로 국내 최대 규모의 금융 그룹이 탄생했다.",
+   "roman": "Du eunhaengui hapbyeongeuro gungnae choedae gyumoui geumyung geurubi tansaenghaetda.",
+   "en": "The merger of the two banks created the largest financial group in the country.",
+   "tokens": [
+    {
+     "t": "두",
+     "r": "du",
+     "base": "두",
+     "en": "two"
+    },
+    {
+     "t": "은행의",
+     "r": "eunhaengui",
+     "base": "은행 + 의",
+     "en": "banks'"
+    },
+    {
+     "t": "합병으로",
+     "r": "hapbyeongeuro",
+     "base": "합병 + 으로",
+     "en": "through the merger",
+     "note": "(으)로 gives the cause; 합병 is pronounced [합뼝]"
+    },
+    {
+     "t": "국내",
+     "r": "gungnae",
+     "base": "국내",
+     "en": "domestic",
+     "note": "국내 is pronounced [궁내]"
+    },
+    {
+     "t": "최대",
+     "r": "choedae",
+     "base": "최대",
+     "en": "largest"
+    },
+    {
+     "t": "규모의",
+     "r": "gyumoui",
+     "base": "규모 + 의",
+     "en": "in size"
+    },
+    {
+     "t": "금융",
+     "r": "geumyung",
+     "base": "금융",
+     "en": "financial"
+    },
+    {
+     "t": "그룹이",
+     "r": "geurubi",
+     "base": "그룹 + 이",
+     "en": "group"
+    },
+    {
+     "t": "탄생했다",
+     "r": "tansaenghaetda",
+     "base": "탄생하다",
+     "en": "was born"
+    }
+   ],
+   "target": 2
+  },
+  "cloze_options": [
+   "합병으로",
+   "환전으로",
+   "분리수거로",
+   "돌잔치로"
+  ],
+  "form": {
+   "q_en": "Pick the particle used with 합의하다 ('agree to do').",
+   "ko": "두 회사는 내년 초 합병하기___ 합의했다.",
+   "options": [
+    "로",
+    "에",
+    "를",
+    "가"
+   ],
+   "answer": 0,
+   "why": "-기로 합의하다/결정하다 marks what was agreed or decided: 'agreed to merge'."
+  }
+ },
+ {
+  "id": "L6-028",
+  "day": 6,
+  "slot": 3,
+  "ko": "지분",
+  "roman": "jibun",
+  "en": "stake; equity share",
+  "pos": "noun",
+  "ko_meaning": "회사의 재산이나 이익 가운데 각자가 가진 몫",
+  "ko_meaning_en": "Each owner's share of a company's assets or profits",
+  "example": {
+   "ko": "그 회장은 회사 지분의 30퍼센트를 보유하고 있다.",
+   "roman": "Geu hoejangeun hoesa jibunui samsip peosenteureul boyuhago itda.",
+   "en": "The chairman holds 30 percent of the company's shares.",
+   "tokens": [
+    {
+     "t": "그",
+     "r": "geu",
+     "base": "그",
+     "en": "the"
+    },
+    {
+     "t": "회장은",
+     "r": "hoejangeun",
+     "base": "회장 + 은",
+     "en": "chairman"
+    },
+    {
+     "t": "회사",
+     "r": "hoesa",
+     "base": "회사",
+     "en": "company"
+    },
+    {
+     "t": "지분의",
+     "r": "jibunui",
+     "base": "지분 + 의",
+     "en": "of the shares"
+    },
+    {
+     "t": "30퍼센트를",
+     "r": "samsip peosenteureul",
+     "base": "30 + 퍼센트 + 를",
+     "en": "30 percent"
+    },
+    {
+     "t": "보유하고",
+     "r": "boyuhago",
+     "base": "보유하다",
+     "en": "holding"
+    },
+    {
+     "t": "있다",
+     "r": "itda",
+     "base": "있다",
+     "en": "is",
+     "note": "-고 있다 = ongoing state"
+    }
+   ],
+   "target": 3
+  },
+  "cloze_options": [
+   "지분의",
+   "부채의",
+   "예산의",
+   "월세의"
+  ],
+  "form": {
+   "q_en": "Which verb means 'to sell off' shares here?",
+   "ko": "그는 보유하던 지분을 모두 ___ 회사를 떠났다.",
+   "options": [
+    "처분하고",
+    "섭취하고",
+    "배출하고",
+    "발급하고"
+   ],
+   "answer": 0,
+   "why": "처분하다 can mean 'to sell off, dispose of' property such as shares. 섭취하다 is for food, 배출하다 for emissions, 발급하다 for documents."
+  }
+ },
+ {
+  "id": "L6-029",
+  "day": 6,
+  "slot": 4,
+  "ko": "주주",
+  "roman": "juju",
+  "en": "shareholder",
+  "pos": "noun",
+  "ko_meaning": "주식을 가지고 있어 회사의 주인이 되는 사람",
+  "ko_meaning_en": "A person who owns shares and is thus a part-owner of a company",
+  "example": {
+   "ko": "이번 결정은 주주들의 반발에 부딪혀 결국 철회되었다.",
+   "roman": "Ibeon gyeoljeongeun jujudeurui banbare budichyeo gyeolguk cheolhoedoeeotda.",
+   "en": "The decision ran into opposition from shareholders and was eventually withdrawn.",
+   "tokens": [
+    {
+     "t": "이번",
+     "r": "ibeon",
+     "base": "이번",
+     "en": "this"
+    },
+    {
+     "t": "결정은",
+     "r": "gyeoljeongeun",
+     "base": "결정 + 은",
+     "en": "decision"
+    },
+    {
+     "t": "주주들의",
+     "r": "jujudeurui",
+     "base": "주주 + 들 + 의",
+     "en": "shareholders'"
+    },
+    {
+     "t": "반발에",
+     "r": "banbare",
+     "base": "반발 + 에",
+     "en": "opposition"
+    },
+    {
+     "t": "부딪혀",
+     "r": "budichyeo",
+     "base": "부딪히다",
+     "en": "running into",
+     "note": "부딪혀 is pronounced [부디쳐]"
+    },
+    {
+     "t": "결국",
+     "r": "gyeolguk",
+     "base": "결국",
+     "en": "eventually"
+    },
+    {
+     "t": "철회되었다",
+     "r": "cheolhoedoeeotda",
+     "base": "철회되다",
+     "en": "was withdrawn"
+    }
+   ],
+   "target": 2
+  },
+  "cloze_options": [
+   "주주들의",
+   "곤충들의",
+   "토끼들의",
+   "신랑들의"
+  ],
+  "form": {
+   "q_en": "Pick the particle for the people who receive something.",
+   "ko": "회사는 주주___ 이익을 돌려주기로 했다.",
+   "options": [
+    "에게",
+    "에",
+    "를",
+    "이"
+   ],
+   "answer": 0,
+   "why": "A person receiving something takes 에게. 에 is used for places and things, not people."
+  }
+ },
+ {
+  "id": "L6-030",
+  "day": 6,
+  "slot": 5,
+  "ko": "배당",
+  "roman": "baedang",
+  "en": "dividend; allocation",
+  "pos": "noun",
+  "ko_meaning": "회사가 번 이익을 주주들에게 나누어 줌. 또는 그 돈",
+  "ko_meaning_en": "A company sharing its profits among shareholders; or that money",
+  "example": {
+   "ko": "실적이 좋아지자 회사는 주주 배당을 늘리기로 했다.",
+   "roman": "Siljeogi joajija hoesaneun juju baedangeul neulligiro haetda.",
+   "en": "When its performance improved, the company decided to increase dividends to shareholders.",
+   "tokens": [
+    {
+     "t": "실적이",
+     "r": "siljeogi",
+     "base": "실적 + 이",
+     "en": "performance"
+    },
+    {
+     "t": "좋아지자",
+     "r": "joajija",
+     "base": "좋아지다",
+     "en": "when (it) improved",
+     "note": "-자 = as soon as, when"
+    },
+    {
+     "t": "회사는",
+     "r": "hoesaneun",
+     "base": "회사 + 는",
+     "en": "the company"
+    },
+    {
+     "t": "주주",
+     "r": "juju",
+     "base": "주주",
+     "en": "shareholder"
+    },
+    {
+     "t": "배당을",
+     "r": "baedangeul",
+     "base": "배당 + 을",
+     "en": "dividends"
+    },
+    {
+     "t": "늘리기로",
+     "r": "neulligiro",
+     "base": "늘리다",
+     "en": "to increase",
+     "note": "-기로 하다 = to decide to"
+    },
+    {
+     "t": "했다",
+     "r": "haetda",
+     "base": "하다",
+     "en": "decided"
+    }
+   ],
+   "target": 4
+  },
+  "cloze_options": [
+   "배당을",
+   "배상을",
+   "처방을",
+   "고집을"
+  ],
+  "form": {
+   "q_en": "Pick the ending meaning 'as soon as / when (it happened)'.",
+   "ko": "실적이 좋아지___ 회사는 주주 배당을 늘리기로 했다.",
+   "options": [
+    "자",
+    "려고",
+    "느라고",
+    "든지"
+   ],
+   "answer": 0,
+   "why": "-자 shows that one event led straight to the next. -(으)려고 shows intent, -느라고 an excuse, -든지 a choice."
+  }
+ },
+ {
+  "id": "L6-031",
+  "day": 7,
+  "slot": 1,
+  "ko": "구조조정",
+  "roman": "gujojojeong",
+  "en": "restructuring",
+  "pos": "noun",
+  "ko_meaning": "기업이 효율을 높이려고 조직이나 사업, 인력을 줄이거나 바꿈",
+  "ko_meaning_en": "A company reducing or changing its organization, business, or staff to become more efficient",
+  "example": {
+   "ko": "경영 악화로 회사는 대규모 구조조정에 들어갔다.",
+   "roman": "Gyeongyeong akwaro hoesaneun daegyumo gujojojeonge deureogatda.",
+   "en": "Because its business situation worsened, the company began large-scale restructuring.",
+   "tokens": [
+    {
+     "t": "경영",
+     "r": "gyeongyeong",
+     "base": "경영",
+     "en": "business (management)"
+    },
+    {
+     "t": "악화로",
+     "r": "akwaro",
+     "base": "악화 + 로",
+     "en": "due to the worsening",
+     "note": "(으)로 gives the cause"
+    },
+    {
+     "t": "회사는",
+     "r": "hoesaneun",
+     "base": "회사 + 는",
+     "en": "the company"
+    },
+    {
+     "t": "대규모",
+     "r": "daegyumo",
+     "base": "대규모",
+     "en": "large-scale"
+    },
+    {
+     "t": "구조조정에",
+     "r": "gujojojeonge",
+     "base": "구조조정 + 에",
+     "en": "restructuring",
+     "note": "-에 들어가다 = to begin, enter into"
+    },
+    {
+     "t": "들어갔다",
+     "r": "deureogatda",
+     "base": "들어가다",
+     "en": "began"
+    }
+   ],
+   "target": 4
+  },
+  "cloze_options": [
+   "구조조정에",
+   "분리수거에",
+   "돌잔치에",
+   "재활용에"
+  ],
+  "form": {
+   "q_en": "Which verb goes with 일자리 ('to lose one's job')?",
+   "ko": "구조조정으로 많은 직원들이 일자리를 ___.",
+   "options": [
+    "잃었다",
+    "잊었다",
+    "빠졌다",
+    "낮췄다"
+   ],
+   "answer": 0,
+   "why": "일자리를 잃다 = 'to lose one's job'. 잊다 means 'to forget', and 빠지다 does not take an object."
+  }
+ },
+ {
+  "id": "L6-032",
+  "day": 7,
+  "slot": 2,
+  "ko": "경쟁력",
+  "roman": "gyeongjaengnyeok",
+  "en": "competitiveness",
+  "pos": "noun",
+  "ko_meaning": "다른 것과 겨루어 이길 수 있는 힘",
+  "ko_meaning_en": "The ability to compete with others and win",
+  "example": {
+   "ko": "기술 혁신은 기업의 경쟁력을 높이는 핵심 요소다.",
+   "roman": "Gisul hyeoksineun gieobui gyeongjaengnyeogeul nopineun haeksim yosoda.",
+   "en": "Technological innovation is a key factor in raising a company's competitiveness.",
+   "tokens": [
+    {
+     "t": "기술",
+     "r": "gisul",
+     "base": "기술",
+     "en": "technological"
+    },
+    {
+     "t": "혁신은",
+     "r": "hyeoksineun",
+     "base": "혁신 + 은",
+     "en": "innovation"
+    },
+    {
+     "t": "기업의",
+     "r": "gieobui",
+     "base": "기업 + 의",
+     "en": "a company's"
+    },
+    {
+     "t": "경쟁력을",
+     "r": "gyeongjaengnyeogeul",
+     "base": "경쟁력 + 을",
+     "en": "competitiveness",
+     "note": "경쟁력 is pronounced [경쟁녁]"
+    },
+    {
+     "t": "높이는",
+     "r": "nopineun",
+     "base": "높이다",
+     "en": "raising"
+    },
+    {
+     "t": "핵심",
+     "r": "haeksim",
+     "base": "핵심",
+     "en": "key"
+    },
+    {
+     "t": "요소다",
+     "r": "yosoda",
+     "base": "요소 + 이다",
+     "en": "is a factor",
+     "note": "이다 shortens to -다 after a vowel"
+    }
+   ],
+   "target": 3
+  },
+  "cloze_options": [
+   "경쟁력을",
+   "인력을",
+   "자존심을",
+   "열등감을"
+  ],
+  "form": {
+   "q_en": "Which verb goes with 경쟁력 ('to become competitive')?",
+   "ko": "가격 경쟁력을 ___ 위해 생산비를 줄였다.",
+   "options": [
+    "갖추기",
+    "끼치기",
+    "미치기",
+    "차리기"
+   ],
+   "answer": 0,
+   "why": "경쟁력을 갖추다 = 'to gain competitiveness' (also 높이다, 확보하다). 끼치다/미치다 go with 영향."
+  }
+ },
+ {
+  "id": "L6-033",
+  "day": 7,
+  "slot": 3,
+  "ko": "점유율",
+  "roman": "jeomyuyul",
+  "en": "market share",
+  "pos": "noun",
+  "ko_meaning": "전체 시장에서 어떤 상품이나 회사가 차지하는 비율",
+  "ko_meaning_en": "The proportion of a market that a product or company holds",
+  "example": {
+   "ko": "그 회사의 스마트폰은 국내 시장에서 점유율 1위를 차지했다.",
+   "roman": "Geu hoesaui seumateuponeun gungnae sijangeseo jeomyuyul irwireul chajihaetda.",
+   "en": "The company's smartphone ranked first in market share in the domestic market.",
+   "tokens": [
+    {
+     "t": "그",
+     "r": "geu",
+     "base": "그",
+     "en": "that"
+    },
+    {
+     "t": "회사의",
+     "r": "hoesaui",
+     "base": "회사 + 의",
+     "en": "company's"
+    },
+    {
+     "t": "스마트폰은",
+     "r": "seumateuponeun",
+     "base": "스마트폰 + 은",
+     "en": "smartphone"
+    },
+    {
+     "t": "국내",
+     "r": "gungnae",
+     "base": "국내",
+     "en": "domestic"
+    },
+    {
+     "t": "시장에서",
+     "r": "sijangeseo",
+     "base": "시장 + 에서",
+     "en": "in the market"
+    },
+    {
+     "t": "점유율",
+     "r": "jeomyuyul",
+     "base": "점유율",
+     "en": "market share"
+    },
+    {
+     "t": "1위를",
+     "r": "irwireul",
+     "base": "1위 + 를",
+     "en": "first place"
+    },
+    {
+     "t": "차지했다",
+     "r": "chajihaetda",
+     "base": "차지하다",
+     "en": "took",
+     "note": "1위를 차지하다 = to rank first"
+    }
+   ],
+   "target": 5
+  },
+  "cloze_options": [
+   "점유율",
+   "출산율",
+   "실업률",
+   "시청률"
+  ],
+  "form": {
+   "q_en": "Pick the verb for a share that 'rose'.",
+   "ko": "새 제품 덕분에 회사의 시장 점유율이 크게 ___.",
+   "options": [
+    "늘었다",
+    "넓었다",
+    "많았다",
+    "길었다"
+   ],
+   "answer": 0,
+   "why": "A share rises with 늘다, 오르다 or 높아지다. 넓다, 많다 and 길다 do not describe a share changing."
+  }
+ },
+ {
+  "id": "L6-034",
+  "day": 7,
+  "slot": 4,
+  "ko": "독점",
+  "roman": "dokjeom",
+  "en": "monopoly",
+  "pos": "noun",
+  "ko_meaning": "어떤 시장이나 이익을 혼자서 모두 차지함",
+  "ko_meaning_en": "Taking an entire market or profit alone",
+  "example": {
+   "ko": "한 기업이 시장을 독점하면 소비자의 선택권이 줄어든다.",
+   "roman": "Han gieobi sijangeul dokjeomhamyeon sobijaui seontaekgwoni jureodeunda.",
+   "en": "When one company monopolizes a market, consumers have fewer choices.",
+   "tokens": [
+    {
+     "t": "한",
+     "r": "han",
+     "base": "한",
+     "en": "one"
+    },
+    {
+     "t": "기업이",
+     "r": "gieobi",
+     "base": "기업 + 이",
+     "en": "company"
+    },
+    {
+     "t": "시장을",
+     "r": "sijangeul",
+     "base": "시장 + 을",
+     "en": "a market"
+    },
+    {
+     "t": "독점하면",
+     "r": "dokjeomhamyeon",
+     "base": "독점하다",
+     "en": "if (it) monopolizes",
+     "note": "-(으)면 = if, when"
+    },
+    {
+     "t": "소비자의",
+     "r": "sobijaui",
+     "base": "소비자 + 의",
+     "en": "consumers'"
+    },
+    {
+     "t": "선택권이",
+     "r": "seontaekgwoni",
+     "base": "선택권 + 이",
+     "en": "choices"
+    },
+    {
+     "t": "줄어든다",
+     "r": "jureodeunda",
+     "base": "줄어들다",
+     "en": "shrink",
+     "note": "ㄹ drops before -ㄴ다"
+    }
+   ],
+   "target": 3
+  },
+  "cloze_options": [
+   "독점하면",
+   "구경하면",
+   "응원하면",
+   "산책하면"
+  ],
+  "form": {
+   "q_en": "-기 마련이다 states a general rule. Pick the matching connector.",
+   "ko": "한 기업이 시장을 독점하___ 가격이 오르기 마련이다.",
+   "options": [
+    "면",
+    "느라",
+    "려고",
+    "다가도"
+   ],
+   "answer": 0,
+   "why": "A general rule ('prices are bound to rise') pairs with a condition -(으)면. -느라 gives an excuse and -(으)려고 an intention."
+  }
+ },
+ {
+  "id": "L6-035",
+  "day": 7,
+  "slot": 5,
+  "ko": "규제",
+  "roman": "gyuje",
+  "en": "regulation; restriction",
+  "pos": "noun",
+  "ko_meaning": "규칙이나 법으로 어떤 행동을 정하여 제한함",
+  "ko_meaning_en": "Limiting certain actions by rules or law",
+  "example": {
+   "ko": "정부는 온라인 플랫폼에 대한 규제를 강화하기로 했다.",
+   "roman": "Jeongbuneun ollain peullaetpome daehan gyujereul ganghwahagiro haetda.",
+   "en": "The government decided to tighten regulations on online platforms.",
+   "tokens": [
+    {
+     "t": "정부는",
+     "r": "jeongbuneun",
+     "base": "정부 + 는",
+     "en": "the government"
+    },
+    {
+     "t": "온라인",
+     "r": "ollain",
+     "base": "온라인",
+     "en": "online",
+     "note": "pronounced [올라인]"
+    },
+    {
+     "t": "플랫폼에",
+     "r": "peullaetpome",
+     "base": "플랫폼 + 에",
+     "en": "platforms"
+    },
+    {
+     "t": "대한",
+     "r": "daehan",
+     "base": "대하다",
+     "en": "on",
+     "note": "-에 대한 = on, about"
+    },
+    {
+     "t": "규제를",
+     "r": "gyujereul",
+     "base": "규제 + 를",
+     "en": "regulations"
+    },
+    {
+     "t": "강화하기로",
+     "r": "ganghwahagiro",
+     "base": "강화하다",
+     "en": "to tighten",
+     "note": "-기로 하다 = to decide to"
+    },
+    {
+     "t": "했다",
+     "r": "haetda",
+     "base": "하다",
+     "en": "decided"
+    }
+   ],
+   "target": 4
+  },
+  "cloze_options": [
+   "규제를",
+   "배려를",
+   "취미를",
+   "인사를"
+  ],
+  "form": {
+   "q_en": "Which verb goes with 규제 ('to ease regulations')?",
+   "ko": "정부는 규제를 ___ 기업 활동을 돕기로 했다.",
+   "options": [
+    "완화해",
+    "섭취해",
+    "배출해",
+    "발급해"
+   ],
+   "answer": 0,
+   "why": "규제 pairs with 완화하다 'to ease' or 강화하다 'to tighten'."
+  }
+ },
+ {
+  "id": "L6-036",
+  "day": 8,
+  "slot": 1,
+  "ko": "변이",
+  "roman": "byeoni",
+  "en": "mutation; variation; variant",
+  "pos": "noun",
+  "ko_meaning": "같은 종류의 생물 사이에서 모양이나 성질이 다르게 나타나는 일",
+  "ko_meaning_en": "Shape or traits appearing differently among living things of the same kind",
+  "example": {
+   "ko": "새로운 변이 바이러스가 빠르게 확산되고 있다.",
+   "roman": "Saeroun byeoni baireoseuga ppareuge hwaksandoego itda.",
+   "en": "A new variant virus is spreading quickly.",
+   "tokens": [
+    {
+     "t": "새로운",
+     "r": "saeroun",
+     "base": "새롭다",
+     "en": "new",
+     "note": "ㅂ irregular: 새롭 + 은 → 새로운"
+    },
+    {
+     "t": "변이",
+     "r": "byeoni",
+     "base": "변이",
+     "en": "variant"
+    },
+    {
+     "t": "바이러스가",
+     "r": "baireoseuga",
+     "base": "바이러스 + 가",
+     "en": "virus"
+    },
+    {
+     "t": "빠르게",
+     "r": "ppareuge",
+     "base": "빠르다",
+     "en": "quickly"
+    },
+    {
+     "t": "확산되고",
+     "r": "hwaksandoego",
+     "base": "확산되다",
+     "en": "spreading"
+    },
+    {
+     "t": "있다",
+     "r": "itda",
+     "base": "있다",
+     "en": "is",
+     "note": "-고 있다 = ongoing"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "변이",
+   "촉매",
+   "궤도",
+   "풍습"
+  ],
+  "form": {
+   "q_en": "Which verb goes with 변이 ('a mutation occurs')?",
+   "ko": "유전자에 변이가 ___ 새로운 특징이 나타났다.",
+   "options": [
+    "생겨",
+    "끼쳐",
+    "미쳐",
+    "차려"
+   ],
+   "answer": 0,
+   "why": "변이가 생기다 (or 일어나다) = 'a mutation occurs'. 끼치다, 미치다 and 차리다 do not fit."
+  }
+ },
+ {
+  "id": "L6-037",
+  "day": 8,
+  "slot": 2,
+  "ko": "촉매",
+  "roman": "chongmae",
+  "en": "catalyst",
+  "pos": "noun",
+  "ko_meaning": "자신은 변하지 않으면서 화학 반응을 빠르게 하는 물질. 또는 어떤 일을 빨리 일어나게 하는 것",
+  "ko_meaning_en": "A substance that speeds up a chemical reaction without changing itself; or something that makes a change happen quickly",
+  "example": {
+   "ko": "그 사건은 사회 변화를 이끄는 촉매 역할을 했다.",
+   "roman": "Geu sageoneun sahoe byeonhwareul ikkeuneun chongmae yeokareul haetda.",
+   "en": "That incident acted as a catalyst for social change.",
+   "tokens": [
+    {
+     "t": "그",
+     "r": "geu",
+     "base": "그",
+     "en": "that"
+    },
+    {
+     "t": "사건은",
+     "r": "sageoneun",
+     "base": "사건 + 은",
+     "en": "incident"
+    },
+    {
+     "t": "사회",
+     "r": "sahoe",
+     "base": "사회",
+     "en": "social"
+    },
+    {
+     "t": "변화를",
+     "r": "byeonhwareul",
+     "base": "변화 + 를",
+     "en": "change"
+    },
+    {
+     "t": "이끄는",
+     "r": "ikkeuneun",
+     "base": "이끌다",
+     "en": "leading",
+     "note": "ㄹ drops before -는"
+    },
+    {
+     "t": "촉매",
+     "r": "chongmae",
+     "base": "촉매",
+     "en": "catalyst",
+     "note": "촉매 is pronounced [총매]"
+    },
+    {
+     "t": "역할을",
+     "r": "yeokareul",
+     "base": "역할 + 을",
+     "en": "role"
+    },
+    {
+     "t": "했다",
+     "r": "haetda",
+     "base": "하다",
+     "en": "played",
+     "note": "역할을 하다 = to play a role"
+    }
+   ],
+   "target": 5
+  },
+  "cloze_options": [
+   "촉매",
+   "입자",
+   "담보",
+   "궤도"
+  ],
+  "form": {
+   "q_en": "Pick the particle meaning 'as' (the role something serves).",
+   "ko": "이 반응에서 백금은 촉매___ 작용한다.",
+   "options": [
+    "로",
+    "를",
+    "에",
+    "가"
+   ],
+   "answer": 0,
+   "why": "(으)로 marks the role: 촉매로 작용하다 'to act as a catalyst'."
+  }
+ },
+ {
+  "id": "L6-038",
+  "day": 8,
+  "slot": 3,
+  "ko": "합성",
+  "roman": "hapseong",
+  "en": "synthesis; composite",
+  "pos": "noun",
+  "ko_meaning": "둘 이상의 것을 합쳐 하나를 만듦. 또는 화학 반응으로 새 물질을 만듦",
+  "ko_meaning_en": "Combining two or more things into one; or making a new substance by chemical reaction",
+  "example": {
+   "ko": "식물은 햇빛을 이용해 양분을 합성한다.",
+   "roman": "Singmureun haetbicheul iyonghae yangbuneul hapseonghanda.",
+   "en": "Plants use sunlight to synthesize nutrients.",
+   "tokens": [
+    {
+     "t": "식물은",
+     "r": "singmureun",
+     "base": "식물 + 은",
+     "en": "plants",
+     "note": "식물 is pronounced [싱물]"
+    },
+    {
+     "t": "햇빛을",
+     "r": "haetbicheul",
+     "base": "햇빛 + 을",
+     "en": "sunlight"
+    },
+    {
+     "t": "이용해",
+     "r": "iyonghae",
+     "base": "이용하다",
+     "en": "using"
+    },
+    {
+     "t": "양분을",
+     "r": "yangbuneul",
+     "base": "양분 + 을",
+     "en": "nutrients"
+    },
+    {
+     "t": "합성한다",
+     "r": "hapseonghanda",
+     "base": "합성하다",
+     "en": "synthesize",
+     "note": "written present -ㄴ다; 합성 is pronounced [합썽]"
+    }
+   ],
+   "target": 4
+  },
+  "cloze_options": [
+   "합성한다",
+   "수입한다",
+   "주문한다",
+   "환불한다"
+  ],
+  "form": {
+   "q_en": "Pick the connector that links a method to its result.",
+   "ko": "이 사진은 두 장의 이미지를 합성___ 만든 것이다.",
+   "options": [
+    "해서",
+    "하러",
+    "하려면",
+    "하든지"
+   ],
+   "answer": 0,
+   "why": "-아서/어서 links the method to the result: 'made by combining two images'."
+  }
+ },
+ {
+  "id": "L6-039",
+  "day": 8,
+  "slot": 4,
+  "ko": "추출하다",
+  "roman": "chuchulhada",
+  "en": "to extract",
+  "pos": "verb",
+  "ko_meaning": "전체 속에서 어떤 물질이나 정보를 뽑아내다",
+  "ko_meaning_en": "To draw out a substance or information from a whole",
+  "example": {
+   "ko": "연구팀은 녹차 잎에서 항산화 성분을 추출했다.",
+   "roman": "Yeongutimeun nokcha ipeseo hangsanhwa seongbuneul chuchulhaetda.",
+   "en": "The research team extracted antioxidant compounds from green tea leaves.",
+   "tokens": [
+    {
+     "t": "연구팀은",
+     "r": "yeongutimeun",
+     "base": "연구팀 + 은",
+     "en": "the research team"
+    },
+    {
+     "t": "녹차",
+     "r": "nokcha",
+     "base": "녹차",
+     "en": "green tea"
+    },
+    {
+     "t": "잎에서",
+     "r": "ipeseo",
+     "base": "잎 + 에서",
+     "en": "from leaves"
+    },
+    {
+     "t": "항산화",
+     "r": "hangsanhwa",
+     "base": "항산화",
+     "en": "antioxidant"
+    },
+    {
+     "t": "성분을",
+     "r": "seongbuneul",
+     "base": "성분 + 을",
+     "en": "compounds"
+    },
+    {
+     "t": "추출했다",
+     "r": "chuchulhaetda",
+     "base": "추출하다",
+     "en": "extracted"
+    }
+   ],
+   "target": 5
+  },
+  "cloze_options": [
+   "추출했다",
+   "기소했다",
+   "합병했다",
+   "항소했다"
+  ],
+  "form": {
+   "q_en": "Pick the particle for the source something is taken out of.",
+   "ko": "녹차 잎___ 성분을 추출했다.",
+   "options": [
+    "에서",
+    "에게",
+    "보다",
+    "처럼"
+   ],
+   "answer": 0,
+   "why": "에서 marks the source: 'from the leaves'. 에게 is for people, 보다 compares, 처럼 means 'like'."
+  }
+ },
+ {
+  "id": "L6-040",
+  "day": 8,
+  "slot": 5,
+  "ko": "배양하다",
+  "roman": "baeyanghada",
+  "en": "to culture; to cultivate",
+  "pos": "verb",
+  "ko_meaning": "미생물이나 세포 등을 인공적으로 길러 늘리다. 또는 능력 등을 길러 키우다",
+  "ko_meaning_en": "To grow microbes or cells artificially; or to build up an ability",
+  "example": {
+   "ko": "과학자들은 실험실에서 피부 세포를 배양하는 데 성공했다.",
+   "roman": "Gwahakjadeureun silheomsireseo pibu seporeul baeyanghaneun de seonggonghaetda.",
+   "en": "Scientists succeeded in culturing skin cells in the laboratory.",
+   "tokens": [
+    {
+     "t": "과학자들은",
+     "r": "gwahakjadeureun",
+     "base": "과학자 + 들 + 은",
+     "en": "scientists"
+    },
+    {
+     "t": "실험실에서",
+     "r": "silheomsireseo",
+     "base": "실험실 + 에서",
+     "en": "in the laboratory"
+    },
+    {
+     "t": "피부",
+     "r": "pibu",
+     "base": "피부",
+     "en": "skin"
+    },
+    {
+     "t": "세포를",
+     "r": "seporeul",
+     "base": "세포 + 를",
+     "en": "cells"
+    },
+    {
+     "t": "배양하는",
+     "r": "baeyanghaneun",
+     "base": "배양하다",
+     "en": "culturing"
+    },
+    {
+     "t": "데",
+     "r": "de",
+     "base": "데",
+     "en": "in",
+     "note": "-는 데 성공하다 = to succeed in doing"
+    },
+    {
+     "t": "성공했다",
+     "r": "seonggonghaetda",
+     "base": "성공하다",
+     "en": "succeeded"
+    }
+   ],
+   "target": 4
+  },
+  "cloze_options": [
+   "배양하는",
+   "합병하는",
+   "상환하는",
+   "위임하는"
+  ],
+  "form": {
+   "q_en": "Pick the pattern meaning 'succeed in doing'.",
+   "ko": "과학자들은 세포를 배양하는 ___ 성공했다.",
+   "options": [
+    "데",
+    "바람에",
+    "탓에",
+    "김에"
+   ],
+   "answer": 0,
+   "why": "-는 데 성공하다 = 'to succeed in doing'. -는 바람에/탓에 give a cause of something bad, -는 김에 means 'while at it'."
+  }
+ },
+ {
+  "id": "L6-041",
+  "day": 9,
+  "slot": 1,
+  "ko": "입자",
+  "roman": "ipja",
+  "en": "particle",
+  "pos": "noun",
+  "ko_meaning": "물질을 이루는 아주 작은 알갱이",
+  "ko_meaning_en": "A very small grain that makes up matter",
+  "example": {
+   "ko": "미세먼지는 입자가 매우 작아 폐 깊숙이 들어갈 수 있다.",
+   "roman": "Misemeonjineun ipjaga maeu jaga pye gipsugi deureogal su itda.",
+   "en": "Fine dust particles are so small that they can enter deep into the lungs.",
+   "tokens": [
+    {
+     "t": "미세먼지는",
+     "r": "misemeonjineun",
+     "base": "미세먼지 + 는",
+     "en": "fine dust"
+    },
+    {
+     "t": "입자가",
+     "r": "ipjaga",
+     "base": "입자 + 가",
+     "en": "particles",
+     "note": "입자 is pronounced [입짜]"
+    },
+    {
+     "t": "매우",
+     "r": "maeu",
+     "base": "매우",
+     "en": "very"
+    },
+    {
+     "t": "작아",
+     "r": "jaga",
+     "base": "작다",
+     "en": "being small",
+     "note": "-아/어 gives the reason"
+    },
+    {
+     "t": "폐",
+     "r": "pye",
+     "base": "폐",
+     "en": "the lungs"
+    },
+    {
+     "t": "깊숙이",
+     "r": "gipsugi",
+     "base": "깊숙이",
+     "en": "deep into"
+    },
+    {
+     "t": "들어갈",
+     "r": "deureogal",
+     "base": "들어가다",
+     "en": "enter",
+     "note": "-(으)ㄹ 수 있다 = can"
+    },
+    {
+     "t": "수",
+     "r": "su",
+     "base": "수",
+     "en": "(possibility)"
+    },
+    {
+     "t": "있다",
+     "r": "itda",
+     "base": "있다",
+     "en": "can"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "입자가",
+   "촉매가",
+   "주주가",
+   "부채가"
+  ],
+  "form": {
+   "q_en": "Pick the ending that gives the reason ('being very small').",
+   "ko": "미세먼지는 입자가 매우 작___ 폐 깊숙이 들어갈 수 있다.",
+   "options": [
+    "아",
+    "고자",
+    "느라",
+    "으려고"
+   ],
+   "answer": 0,
+   "why": "-아/어 here gives the reason: 'being very small, they can enter'. -고자 and -(으)려고 state goals, which adjectives cannot have, and -느라 is for actions."
+  }
+ },
+ {
+  "id": "L6-042",
+  "day": 9,
+  "slot": 2,
+  "ko": "파동",
+  "roman": "padong",
+  "en": "wave",
+  "pos": "noun",
+  "ko_meaning": "물결처럼 공간이나 물질 속으로 퍼져 나가는 진동. 또는 사회에 퍼지는 큰 변화",
+  "ko_meaning_en": "A vibration spreading like ripples through space or matter; or a large disturbance spreading through society",
+  "example": {
+   "ko": "소리는 공기를 통해 전달되는 일종의 파동이다.",
+   "roman": "Sorineun gonggireul tonghae jeondaldoeneun iljongui padongida.",
+   "en": "Sound is a kind of wave transmitted through the air.",
+   "tokens": [
+    {
+     "t": "소리는",
+     "r": "sorineun",
+     "base": "소리 + 는",
+     "en": "sound"
+    },
+    {
+     "t": "공기를",
+     "r": "gonggireul",
+     "base": "공기 + 를",
+     "en": "the air"
+    },
+    {
+     "t": "통해",
+     "r": "tonghae",
+     "base": "통하다",
+     "en": "through",
+     "note": "-을/를 통해 = through, via"
+    },
+    {
+     "t": "전달되는",
+     "r": "jeondaldoeneun",
+     "base": "전달되다",
+     "en": "transmitted"
+    },
+    {
+     "t": "일종의",
+     "r": "iljongui",
+     "base": "일종 + 의",
+     "en": "a kind of"
+    },
+    {
+     "t": "파동이다",
+     "r": "padongida",
+     "base": "파동 + 이다",
+     "en": "is a wave"
+    }
+   ],
+   "target": 5
+  },
+  "cloze_options": [
+   "파동이다",
+   "합성이다",
+   "독점이다",
+   "배당이다"
+  ],
+  "form": {
+   "q_en": "Pick the expression meaning 'through, via'.",
+   "ko": "소리는 공기를 ___ 전달되는 파동이다.",
+   "options": [
+    "통해",
+    "위해",
+    "대해",
+    "비해"
+   ],
+   "answer": 0,
+   "why": "-을/를 통해 = 'through'. 위해 = 'for', 대해 = 'about', and 비해 = 'compared with' (needs 에)."
+  }
+ },
+ {
+  "id": "L6-043",
+  "day": 9,
+  "slot": 3,
+  "ko": "진동",
+  "roman": "jindong",
+  "en": "vibration",
+  "pos": "noun",
+  "ko_meaning": "물체가 빠르게 흔들려 움직임",
+  "ko_meaning_en": "An object shaking back and forth quickly",
+  "example": {
+   "ko": "지진의 진동이 건물 전체로 퍼져 나갔다.",
+   "roman": "Jijinui jindongi geonmul jeonchero peojyeo nagatda.",
+   "en": "The vibration from the earthquake spread through the entire building.",
+   "tokens": [
+    {
+     "t": "지진의",
+     "r": "jijinui",
+     "base": "지진 + 의",
+     "en": "of the earthquake"
+    },
+    {
+     "t": "진동이",
+     "r": "jindongi",
+     "base": "진동 + 이",
+     "en": "vibration"
+    },
+    {
+     "t": "건물",
+     "r": "geonmul",
+     "base": "건물",
+     "en": "building"
+    },
+    {
+     "t": "전체로",
+     "r": "jeonchero",
+     "base": "전체 + 로",
+     "en": "through the entire",
+     "note": "(으)로 = toward, throughout"
+    },
+    {
+     "t": "퍼져",
+     "r": "peojyeo",
+     "base": "퍼지다",
+     "en": "spreading"
+    },
+    {
+     "t": "나갔다",
+     "r": "nagatda",
+     "base": "나가다",
+     "en": "went out",
+     "note": "-아/어 나가다 = to go on spreading"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "진동이",
+   "합병이",
+   "풍습이",
+   "장학금이"
+  ],
+  "form": {
+   "q_en": "Pick the particle meaning 'into' with 바꾸다.",
+   "ko": "공연장에서는 휴대폰을 진동___ 바꿔 주시기 바랍니다.",
+   "options": [
+    "으로",
+    "에",
+    "을",
+    "이"
+   ],
+   "answer": 0,
+   "why": "(으)로 바꾸다 marks what something is changed into: 'switch to vibrate'."
+  }
+ },
+ {
+  "id": "L6-044",
+  "day": 9,
+  "slot": 4,
+  "ko": "궤도",
+  "roman": "gwedo",
+  "en": "orbit; track",
+  "pos": "noun",
+  "ko_meaning": "행성이나 위성이 다른 천체의 둘레를 도는 길. 또는 일이 나아가는 정상적인 방향",
+  "ko_meaning_en": "The path a planet or satellite travels around another body; or the normal course of things",
+  "example": {
+   "ko": "발사된 위성은 지구 궤도에 성공적으로 진입했다.",
+   "roman": "Balsadoen wiseongeun jigu gwedoe seonggongjeogeuro jinipaetda.",
+   "en": "The launched satellite successfully entered Earth's orbit.",
+   "tokens": [
+    {
+     "t": "발사된",
+     "r": "balsadoen",
+     "base": "발사되다",
+     "en": "launched"
+    },
+    {
+     "t": "위성은",
+     "r": "wiseongeun",
+     "base": "위성 + 은",
+     "en": "satellite"
+    },
+    {
+     "t": "지구",
+     "r": "jigu",
+     "base": "지구",
+     "en": "Earth"
+    },
+    {
+     "t": "궤도에",
+     "r": "gwedoe",
+     "base": "궤도 + 에",
+     "en": "orbit"
+    },
+    {
+     "t": "성공적으로",
+     "r": "seonggongjeogeuro",
+     "base": "성공적 + 으로",
+     "en": "successfully"
+    },
+    {
+     "t": "진입했다",
+     "r": "jinipaetda",
+     "base": "진입하다",
+     "en": "entered"
+    }
+   ],
+   "target": 3
+  },
+  "cloze_options": [
+   "궤도에",
+   "담보에",
+   "오보에",
+   "주주에"
+  ],
+  "form": {
+   "q_en": "Which verb goes with 궤도에 ('to get on track')?",
+   "ko": "경제가 회복 궤도에 ___ 실업률이 낮아지고 있다.",
+   "options": [
+    "오르면서",
+    "미치면서",
+    "끼치면서",
+    "차지하면서"
+   ],
+   "answer": 0,
+   "why": "궤도에 오르다 = 'to get on track'. 미치다/끼치다 go with 영향, and 차지하다 needs an object."
+  }
+ },
+ {
+  "id": "L6-045",
+  "day": 9,
+  "slot": 5,
+  "ko": "관측하다",
+  "roman": "gwancheukada",
+  "en": "to observe (scientifically)",
+  "pos": "verb",
+  "ko_meaning": "자연 현상이나 별 등을 기계로 자세히 살펴 재다",
+  "ko_meaning_en": "To examine and measure natural phenomena or stars with instruments",
+  "example": {
+   "ko": "천문학자들은 망원경으로 새로운 행성을 관측했다.",
+   "roman": "Cheonmunhakjadeureun mangwongyeongeuro saeroun haengseongeul gwancheukaetda.",
+   "en": "Astronomers observed a new planet through a telescope.",
+   "tokens": [
+    {
+     "t": "천문학자들은",
+     "r": "cheonmunhakjadeureun",
+     "base": "천문학자 + 들 + 은",
+     "en": "astronomers"
+    },
+    {
+     "t": "망원경으로",
+     "r": "mangwongyeongeuro",
+     "base": "망원경 + 으로",
+     "en": "through a telescope",
+     "note": "(으)로 marks the tool"
+    },
+    {
+     "t": "새로운",
+     "r": "saeroun",
+     "base": "새롭다",
+     "en": "new"
+    },
+    {
+     "t": "행성을",
+     "r": "haengseongeul",
+     "base": "행성 + 을",
+     "en": "planet"
+    },
+    {
+     "t": "관측했다",
+     "r": "gwancheukaetda",
+     "base": "관측하다",
+     "en": "observed"
+    }
+   ],
+   "target": 4
+  },
+  "cloze_options": [
+   "관측했다",
+   "배당했다",
+   "상환했다",
+   "의결했다"
+  ],
+  "form": {
+   "q_en": "The temperature is what gets observed. Pick the right form.",
+   "ko": "올여름 들어 가장 높은 기온이 관측___.",
+   "options": [
+    "되었다",
+    "했다",
+    "시켰다",
+    "받았다"
+   ],
+   "answer": 0,
+   "why": "기온 is what is recorded, so the passive 관측되다 is needed. 관측하다 needs an observer as subject."
+  }
+ },
+ {
+  "id": "L6-046",
+  "day": 10,
+  "slot": 1,
+  "ko": "임상",
+  "roman": "imsang",
+  "en": "clinical (practice)",
+  "pos": "noun",
+  "ko_meaning": "환자를 직접 진찰하고 치료하는 일",
+  "ko_meaning_en": "Examining and treating patients directly",
+  "example": {
+   "ko": "새로 개발된 백신은 현재 임상 시험을 진행 중이다.",
+   "roman": "Saero gaebaldoen baeksineun hyeonjae imsang siheomeul jinhaeng jungida.",
+   "en": "The newly developed vaccine is currently undergoing clinical trials.",
+   "tokens": [
+    {
+     "t": "새로",
+     "r": "saero",
+     "base": "새로",
+     "en": "newly"
+    },
+    {
+     "t": "개발된",
+     "r": "gaebaldoen",
+     "base": "개발되다",
+     "en": "developed"
+    },
+    {
+     "t": "백신은",
+     "r": "baeksineun",
+     "base": "백신 + 은",
+     "en": "vaccine"
+    },
+    {
+     "t": "현재",
+     "r": "hyeonjae",
+     "base": "현재",
+     "en": "currently"
+    },
+    {
+     "t": "임상",
+     "r": "imsang",
+     "base": "임상",
+     "en": "clinical"
+    },
+    {
+     "t": "시험을",
+     "r": "siheomeul",
+     "base": "시험 + 을",
+     "en": "trials"
+    },
+    {
+     "t": "진행",
+     "r": "jinhaeng",
+     "base": "진행",
+     "en": "in progress"
+    },
+    {
+     "t": "중이다",
+     "r": "jungida",
+     "base": "중 + 이다",
+     "en": "is (in the middle of)",
+     "note": "N 중이다 = be in the middle of N"
+    }
+   ],
+   "target": 4
+  },
+  "cloze_options": [
+   "임상",
+   "입학",
+   "승진",
+   "운전"
+  ],
+  "form": {
+   "q_en": "Which verb goes with 시험 here ('to go through trials')?",
+   "ko": "그 신약은 임상 시험을 ___ 효과가 입증되었다.",
+   "options": [
+    "거쳐",
+    "미쳐",
+    "끼쳐",
+    "차려"
+   ],
+   "answer": 0,
+   "why": "시험/과정을 거치다 = 'to go through (trials, a process)'. 미치다/끼치다 go with 영향."
+  }
+ },
+ {
+  "id": "L6-047",
+  "day": 10,
+  "slot": 2,
+  "ko": "진단",
+  "roman": "jindan",
+  "en": "diagnosis",
+  "pos": "noun",
+  "ko_meaning": "의사가 환자를 살펴 병의 상태를 판단함",
+  "ko_meaning_en": "A doctor examining a patient and judging the state of an illness",
+  "example": {
+   "ko": "조기 진단은 치료 효과를 크게 높일 수 있다.",
+   "roman": "Jogi jindaneun chiryo hyogwareul keuge nopil su itda.",
+   "en": "Early diagnosis can greatly improve the effectiveness of treatment.",
+   "tokens": [
+    {
+     "t": "조기",
+     "r": "jogi",
+     "base": "조기",
+     "en": "early"
+    },
+    {
+     "t": "진단은",
+     "r": "jindaneun",
+     "base": "진단 + 은",
+     "en": "diagnosis"
+    },
+    {
+     "t": "치료",
+     "r": "chiryo",
+     "base": "치료",
+     "en": "treatment"
+    },
+    {
+     "t": "효과를",
+     "r": "hyogwareul",
+     "base": "효과 + 를",
+     "en": "effectiveness"
+    },
+    {
+     "t": "크게",
+     "r": "keuge",
+     "base": "크다",
+     "en": "greatly"
+    },
+    {
+     "t": "높일",
+     "r": "nopil",
+     "base": "높이다",
+     "en": "raise",
+     "note": "-(으)ㄹ 수 있다 = can"
+    },
+    {
+     "t": "수",
+     "r": "su",
+     "base": "수",
+     "en": "(possibility)"
+    },
+    {
+     "t": "있다",
+     "r": "itda",
+     "base": "있다",
+     "en": "can"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "진단은",
+   "파산은",
+   "합병은",
+   "독점은"
+  ],
+  "form": {
+   "q_en": "The patient is on the receiving end. Pick the verb.",
+   "ko": "환자는 병원에서 우울증 진단을 ___.",
+   "options": [
+    "받았다",
+    "내렸다",
+    "미쳤다",
+    "차지했다"
+   ],
+   "answer": 0,
+   "why": "The patient 진단을 받다 ('is diagnosed'); the doctor is the one who 진단을 내리다."
+  }
+ },
+ {
+  "id": "L6-048",
+  "day": 10,
+  "slot": 3,
+  "ko": "처방",
+  "roman": "cheobang",
+  "en": "prescription; remedy",
+  "pos": "noun",
+  "ko_meaning": "의사가 병을 고치기 위해 약을 정하여 주는 일. 또는 문제를 푸는 방법",
+  "ko_meaning_en": "A doctor deciding which medicine to give to cure an illness; or a way of solving a problem",
+  "example": {
+   "ko": "항생제는 반드시 의사의 처방에 따라 복용해야 한다.",
+   "roman": "Hangsaengjeneun bandeusi uisaui cheobange ttara bogyonghaeya handa.",
+   "en": "Antibiotics must be taken only as prescribed by a doctor.",
+   "tokens": [
+    {
+     "t": "항생제는",
+     "r": "hangsaengjeneun",
+     "base": "항생제 + 는",
+     "en": "antibiotics"
+    },
+    {
+     "t": "반드시",
+     "r": "bandeusi",
+     "base": "반드시",
+     "en": "without fail"
+    },
+    {
+     "t": "의사의",
+     "r": "uisaui",
+     "base": "의사 + 의",
+     "en": "a doctor's"
+    },
+    {
+     "t": "처방에",
+     "r": "cheobange",
+     "base": "처방 + 에",
+     "en": "prescription"
+    },
+    {
+     "t": "따라",
+     "r": "ttara",
+     "base": "따르다",
+     "en": "according to",
+     "note": "-에 따라 = according to"
+    },
+    {
+     "t": "복용해야",
+     "r": "bogyonghaeya",
+     "base": "복용하다",
+     "en": "must be taken",
+     "note": "복용 is pronounced [보굥]; -아/어야 하다 = must"
+    },
+    {
+     "t": "한다",
+     "r": "handa",
+     "base": "하다",
+     "en": "must"
+    }
+   ],
+   "target": 3
+  },
+  "cloze_options": [
+   "처방에",
+   "배당에",
+   "합병에",
+   "판례에"
+  ],
+  "form": {
+   "q_en": "Pick the ending meaning 'for (someone)'.",
+   "ko": "의사는 환자에게 진통제를 처방___ 주었다.",
+   "options": [
+    "해",
+    "하러",
+    "하려고",
+    "하느라"
+   ],
+   "answer": 0,
+   "why": "-아/어 주다 means doing something for someone: 처방해 주다 'to prescribe for'."
+  }
+ },
+ {
+  "id": "L6-049",
+  "day": 10,
+  "slot": 4,
+  "ko": "만성",
+  "roman": "manseong",
+  "en": "chronic (condition)",
+  "pos": "noun",
+  "ko_meaning": "병이 빨리 낫지 않고 오래 계속되는 성질. 또는 어떤 상태가 오래 계속되는 것",
+  "ko_meaning_en": "An illness that does not heal quickly and lasts long; or any state that lasts long",
+  "example": {
+   "ko": "그는 오랜 야근으로 만성 피로에 시달리고 있다.",
+   "roman": "Geuneun oraen yageuneuro manseong piroe sidalligo itda.",
+   "en": "He suffers from chronic fatigue due to long hours of overtime.",
+   "tokens": [
+    {
+     "t": "그는",
+     "r": "geuneun",
+     "base": "그 + 는",
+     "en": "he"
+    },
+    {
+     "t": "오랜",
+     "r": "oraen",
+     "base": "오래다",
+     "en": "long"
+    },
+    {
+     "t": "야근으로",
+     "r": "yageuneuro",
+     "base": "야근 + 으로",
+     "en": "due to overtime",
+     "note": "(으)로 gives the cause"
+    },
+    {
+     "t": "만성",
+     "r": "manseong",
+     "base": "만성",
+     "en": "chronic"
+    },
+    {
+     "t": "피로에",
+     "r": "piroe",
+     "base": "피로 + 에",
+     "en": "from fatigue",
+     "note": "-에 시달리다 = suffer from"
+    },
+    {
+     "t": "시달리고",
+     "r": "sidalligo",
+     "base": "시달리다",
+     "en": "suffering"
+    },
+    {
+     "t": "있다",
+     "r": "itda",
+     "base": "있다",
+     "en": "is",
+     "note": "-고 있다 = ongoing"
+    }
+   ],
+   "target": 3
+  },
+  "cloze_options": [
+   "만성",
+   "급성",
+   "유기농",
+   "중고"
+  ],
+  "form": {
+   "q_en": "Pick the form of 만성 that modifies a noun.",
+   "ko": "그 지역은 만성___ 물 부족을 겪고 있다.",
+   "options": [
+    "적인",
+    "적으로",
+    "적이",
+    "적을"
+   ],
+   "answer": 0,
+   "why": "-적인 turns 만성 into a noun modifier: 'chronic water shortage'. -적으로 modifies verbs."
+  }
+ },
+ {
+  "id": "L6-050",
+  "day": 10,
+  "slot": 5,
+  "ko": "급성",
+  "roman": "geupseong",
+  "en": "acute (condition)",
+  "pos": "noun",
+  "ko_meaning": "병이 갑자기 생기고 빠르게 진행되는 성질",
+  "ko_meaning_en": "An illness appearing suddenly and progressing fast",
+  "example": {
+   "ko": "삼촌은 급성 맹장염으로 응급 수술을 받았다.",
+   "roman": "Samchoneun geupseong maengjangyeomeuro eunggeup susureul badatda.",
+   "en": "My uncle had emergency surgery for acute appendicitis.",
+   "tokens": [
+    {
+     "t": "삼촌은",
+     "r": "samchoneun",
+     "base": "삼촌 + 은",
+     "en": "my uncle"
+    },
+    {
+     "t": "급성",
+     "r": "geupseong",
+     "base": "급성",
+     "en": "acute",
+     "note": "급성 is pronounced [급썽]"
+    },
+    {
+     "t": "맹장염으로",
+     "r": "maengjangyeomeuro",
+     "base": "맹장염 + 으로",
+     "en": "for appendicitis",
+     "note": "(으)로 gives the cause"
+    },
+    {
+     "t": "응급",
+     "r": "eunggeup",
+     "base": "응급",
+     "en": "emergency"
+    },
+    {
+     "t": "수술을",
+     "r": "susureul",
+     "base": "수술 + 을",
+     "en": "surgery"
+    },
+    {
+     "t": "받았다",
+     "r": "badatda",
+     "base": "받다",
+     "en": "had (received)",
+     "note": "수술을 받다 = to have surgery"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "급성",
+   "만성",
+   "국내",
+   "고유"
+  ],
+  "form": {
+   "q_en": "Pick the noun form that can be the subject of 특징이다.",
+   "ko": "급성 질환은 증상이 갑자기 나타나는 ___ 특징이다.",
+   "options": [
+    "것이",
+    "데가",
+    "바가",
+    "탓이"
+   ],
+   "answer": 0,
+   "why": "-는 것이 특징이다 = 'its characteristic is that...'. 데, 바 and 탓 cannot fill this subject slot."
+  }
+ },
+ {
+  "id": "L6-051",
+  "day": 11,
+  "slot": 1,
+  "ko": "질환",
+  "roman": "jilhwan",
+  "en": "disease; disorder",
+  "pos": "noun",
+  "ko_meaning": "몸이나 마음에 생기는 여러 가지 병",
+  "ko_meaning_en": "Various illnesses of the body or mind",
+  "example": {
+   "ko": "고령화와 함께 심혈관 질환을 앓는 환자가 늘고 있다.",
+   "roman": "Goryeonghwawa hamkke simhyeolgwan jilhwaneul alleun hwanjaga neulgo itda.",
+   "en": "With population aging, the number of patients with cardiovascular disease is increasing.",
+   "tokens": [
+    {
+     "t": "고령화와",
+     "r": "goryeonghwawa",
+     "base": "고령화 + 와",
+     "en": "population aging"
+    },
+    {
+     "t": "함께",
+     "r": "hamkke",
+     "base": "함께",
+     "en": "together with"
+    },
+    {
+     "t": "심혈관",
+     "r": "simhyeolgwan",
+     "base": "심혈관",
+     "en": "cardiovascular"
+    },
+    {
+     "t": "질환을",
+     "r": "jilhwaneul",
+     "base": "질환 + 을",
+     "en": "disease"
+    },
+    {
+     "t": "앓는",
+     "r": "alleun",
+     "base": "앓다",
+     "en": "suffering from",
+     "note": "앓는 is pronounced [알른]"
+    },
+    {
+     "t": "환자가",
+     "r": "hwanjaga",
+     "base": "환자 + 가",
+     "en": "patients"
+    },
+    {
+     "t": "늘고",
+     "r": "neulgo",
+     "base": "늘다",
+     "en": "increasing"
+    },
+    {
+     "t": "있다",
+     "r": "itda",
+     "base": "있다",
+     "en": "are",
+     "note": "-고 있다 = ongoing"
+    }
+   ],
+   "target": 3
+  },
+  "cloze_options": [
+   "질환을",
+   "처분을",
+   "경력을",
+   "장학금을"
+  ],
+  "form": {
+   "q_en": "Which verb goes with 질환 ('to suffer from')?",
+   "ko": "그는 오랫동안 피부 질환을 ___ 왔다.",
+   "options": [
+    "앓아",
+    "끼쳐",
+    "차려",
+    "걸어"
+   ],
+   "answer": 0,
+   "why": "질환/병을 앓다 = 'to suffer from an illness'. 걸리다 would need 에 (질환에 걸리다), and 걸다 means 'to hang'."
+  }
+ },
+ {
+  "id": "L6-052",
+  "day": 11,
+  "slot": 2,
+  "ko": "합병증",
+  "roman": "hapbyeongjeung",
+  "en": "complication (medical)",
+  "pos": "noun",
+  "ko_meaning": "어떤 병 때문에 함께 생기는 다른 병",
+  "ko_meaning_en": "Another illness that arises because of a disease",
+  "example": {
+   "ko": "당뇨병은 관리하지 않으면 심각한 합병증을 일으킬 수 있다.",
+   "roman": "Dangnyobyeongeun gwallihaji aneumyeon simgakan hapbyeongjeungeul ireukil su itda.",
+   "en": "If not managed, diabetes can cause serious complications.",
+   "tokens": [
+    {
+     "t": "당뇨병은",
+     "r": "dangnyobyeongeun",
+     "base": "당뇨병 + 은",
+     "en": "diabetes"
+    },
+    {
+     "t": "관리하지",
+     "r": "gwallihaji",
+     "base": "관리하다",
+     "en": "manage",
+     "note": "관리 is pronounced [괄리]"
+    },
+    {
+     "t": "않으면",
+     "r": "aneumyeon",
+     "base": "않다",
+     "en": "if not",
+     "note": "-지 않으면 = if (you) don't"
+    },
+    {
+     "t": "심각한",
+     "r": "simgakan",
+     "base": "심각하다",
+     "en": "serious"
+    },
+    {
+     "t": "합병증을",
+     "r": "hapbyeongjeungeul",
+     "base": "합병증 + 을",
+     "en": "complications"
+    },
+    {
+     "t": "일으킬",
+     "r": "ireukil",
+     "base": "일으키다",
+     "en": "cause",
+     "note": "-(으)ㄹ 수 있다 = can"
+    },
+    {
+     "t": "수",
+     "r": "su",
+     "base": "수",
+     "en": "(possibility)"
+    },
+    {
+     "t": "있다",
+     "r": "itda",
+     "base": "있다",
+     "en": "can"
+    }
+   ],
+   "target": 4
+  },
+  "cloze_options": [
+   "합병증을",
+   "열등감을",
+   "성취감을",
+   "고정관념을"
+  ],
+  "form": {
+   "q_en": "Pick the ending that gives the aim of the care.",
+   "ko": "수술 후 합병증이 생기지 않___ 주의해야 한다.",
+   "options": [
+    "도록",
+    "든지",
+    "느라",
+    "자마자"
+   ],
+   "answer": 0,
+   "why": "-도록 states the aim: 'be careful so that complications do not arise'."
+  }
+ },
+ {
+  "id": "L6-053",
+  "day": 11,
+  "slot": 3,
+  "ko": "투여하다",
+  "roman": "tuyeohada",
+  "en": "to administer (a drug)",
+  "pos": "verb",
+  "ko_meaning": "환자에게 약을 먹이거나 주사하다",
+  "ko_meaning_en": "To give a patient medicine by mouth or by injection",
+  "example": {
+   "ko": "의료진은 환자에게 진통제를 투여했다.",
+   "roman": "Uiryojineun hwanjaege jintongjereul tuyeohaetda.",
+   "en": "The medical staff administered painkillers to the patient.",
+   "tokens": [
+    {
+     "t": "의료진은",
+     "r": "uiryojineun",
+     "base": "의료진 + 은",
+     "en": "the medical staff"
+    },
+    {
+     "t": "환자에게",
+     "r": "hwanjaege",
+     "base": "환자 + 에게",
+     "en": "to the patient"
+    },
+    {
+     "t": "진통제를",
+     "r": "jintongjereul",
+     "base": "진통제 + 를",
+     "en": "painkillers"
+    },
+    {
+     "t": "투여했다",
+     "r": "tuyeohaetda",
+     "base": "투여하다",
+     "en": "administered"
+    }
+   ],
+   "target": 3
+  },
+  "cloze_options": [
+   "투여했다",
+   "상환했다",
+   "의결했다",
+   "관측했다"
+  ],
+  "form": {
+   "q_en": "Pick the particle meaning 'as (instructed)'.",
+   "ko": "이 약은 반드시 의사의 지시___ 투여해야 한다.",
+   "options": [
+    "대로",
+    "처럼",
+    "만큼",
+    "보다"
+   ],
+   "answer": 0,
+   "why": "N대로 = 'according to N, as N says': 지시대로 'as instructed'."
+  }
+ },
+ {
+  "id": "L6-054",
+  "day": 11,
+  "slot": 4,
+  "ko": "재활",
+  "roman": "jaehwal",
+  "en": "rehabilitation",
+  "pos": "noun",
+  "ko_meaning": "다치거나 아팠던 사람이 다시 정상적인 생활을 할 수 있게 됨",
+  "ko_meaning_en": "Someone who was hurt or ill becoming able to live normally again",
+  "example": {
+   "ko": "그 선수는 수술 후 꾸준한 재활 치료로 경기에 복귀했다.",
+   "roman": "Geu seonsuneun susul hu kkujunhan jaehwal chiryoro gyeonggie bokgwihaetda.",
+   "en": "The player returned to competition thanks to steady rehabilitation therapy after surgery.",
+   "tokens": [
+    {
+     "t": "그",
+     "r": "geu",
+     "base": "그",
+     "en": "the"
+    },
+    {
+     "t": "선수는",
+     "r": "seonsuneun",
+     "base": "선수 + 는",
+     "en": "player"
+    },
+    {
+     "t": "수술",
+     "r": "susul",
+     "base": "수술",
+     "en": "surgery"
+    },
+    {
+     "t": "후",
+     "r": "hu",
+     "base": "후",
+     "en": "after"
+    },
+    {
+     "t": "꾸준한",
+     "r": "kkujunhan",
+     "base": "꾸준하다",
+     "en": "steady"
+    },
+    {
+     "t": "재활",
+     "r": "jaehwal",
+     "base": "재활",
+     "en": "rehabilitation"
+    },
+    {
+     "t": "치료로",
+     "r": "chiryoro",
+     "base": "치료 + 로",
+     "en": "thanks to therapy",
+     "note": "(으)로 gives the means"
+    },
+    {
+     "t": "경기에",
+     "r": "gyeonggie",
+     "base": "경기 + 에",
+     "en": "to competition"
+    },
+    {
+     "t": "복귀했다",
+     "r": "bokgwihaetda",
+     "base": "복귀하다",
+     "en": "returned"
+    }
+   ],
+   "target": 5
+  },
+  "cloze_options": [
+   "재활",
+   "합병",
+   "배당",
+   "궤도"
+  ],
+  "form": {
+   "q_en": "Pick the expression for a good cause ('thanks to').",
+   "ko": "꾸준히 재활 치료를 받은 ___ 그는 다시 걸을 수 있게 되었다.",
+   "options": [
+    "덕분에",
+    "탓에",
+    "김에",
+    "채로"
+   ],
+   "answer": 0,
+   "why": "-(으)ㄴ 덕분에 = 'thanks to' (good result). -(으)ㄴ 탓에 is for bad results, -는 김에 means 'while at it', -(으)ㄴ 채로 'in the state of'."
+  }
+ },
+ {
+  "id": "L6-055",
+  "day": 11,
+  "slot": 5,
+  "ko": "완치",
+  "roman": "wanchi",
+  "en": "complete cure",
+  "pos": "noun",
+  "ko_meaning": "병을 완전히 고침",
+  "ko_meaning_en": "Healing an illness completely",
+  "example": {
+   "ko": "암은 조기에 발견하면 완치 가능성이 높다.",
+   "roman": "Ameun jogie balgyeonhamyeon wanchi ganeungseongi nopda.",
+   "en": "If cancer is detected early, the chance of a complete cure is high.",
+   "tokens": [
+    {
+     "t": "암은",
+     "r": "ameun",
+     "base": "암 + 은",
+     "en": "cancer"
+    },
+    {
+     "t": "조기에",
+     "r": "jogie",
+     "base": "조기 + 에",
+     "en": "early"
+    },
+    {
+     "t": "발견하면",
+     "r": "balgyeonhamyeon",
+     "base": "발견하다",
+     "en": "if (it) is detected",
+     "note": "-(으)면 = if"
+    },
+    {
+     "t": "완치",
+     "r": "wanchi",
+     "base": "완치",
+     "en": "complete cure"
+    },
+    {
+     "t": "가능성이",
+     "r": "ganeungseongi",
+     "base": "가능성 + 이",
+     "en": "chance"
+    },
+    {
+     "t": "높다",
+     "r": "nopda",
+     "base": "높다",
+     "en": "is high"
+    }
+   ],
+   "target": 3
+  },
+  "cloze_options": [
+   "완치",
+   "파산",
+   "위헌",
+   "합병"
+  ],
+  "form": {
+   "q_en": "Pick the expression meaning 'after (a long N), finally'.",
+   "ko": "그는 오랜 치료 ___ 마침내 완치되었다.",
+   "options": [
+    "끝에",
+    "끝으로",
+    "끝을",
+    "끝이"
+   ],
+   "answer": 0,
+   "why": "N 끝에 = 'at the end of a long N': 오랜 치료 끝에. 끝으로 means 'lastly'."
+  }
+ },
+ {
+  "id": "L6-056",
+  "day": 12,
+  "slot": 1,
+  "ko": "관념",
+  "roman": "gwannyeom",
+  "en": "idea; notion; sense (of)",
+  "pos": "noun",
+  "ko_meaning": "어떤 일이나 대상에 대해 가지고 있는 생각",
+  "ko_meaning_en": "The idea one holds about something",
+  "example": {
+   "ko": "그는 시간 관념이 부족해 약속에 자주 늦는다.",
+   "roman": "Geuneun sigan gwannyeomi bujokae yaksoge jaju neunneunda.",
+   "en": "He has little sense of time, so he is often late for appointments.",
+   "tokens": [
+    {
+     "t": "그는",
+     "r": "geuneun",
+     "base": "그 + 는",
+     "en": "he"
+    },
+    {
+     "t": "시간",
+     "r": "sigan",
+     "base": "시간",
+     "en": "time"
+    },
+    {
+     "t": "관념이",
+     "r": "gwannyeomi",
+     "base": "관념 + 이",
+     "en": "sense",
+     "note": "시간 관념 = sense of time"
+    },
+    {
+     "t": "부족해",
+     "r": "bujokae",
+     "base": "부족하다",
+     "en": "lacking",
+     "note": "-아/어 gives the reason"
+    },
+    {
+     "t": "약속에",
+     "r": "yaksoge",
+     "base": "약속 + 에",
+     "en": "for appointments"
+    },
+    {
+     "t": "자주",
+     "r": "jaju",
+     "base": "자주",
+     "en": "often"
+    },
+    {
+     "t": "늦는다",
+     "r": "neunneunda",
+     "base": "늦다",
+     "en": "is late",
+     "note": "늦는다 is pronounced [는는다]"
+    }
+   ],
+   "target": 2
+  },
+  "cloze_options": [
+   "관념이",
+   "모순이",
+   "판결이",
+   "장학금이"
+  ],
+  "form": {
+   "q_en": "Which verb goes with 관념에서 ('to break free from')?",
+   "ko": "전통적인 성 역할 관념에서 ___ 남성의 육아 참여가 늘고 있다.",
+   "options": [
+    "벗어나",
+    "미쳐",
+    "끼쳐",
+    "차려"
+   ],
+   "answer": 0,
+   "why": "관념에서 벗어나다 = 'to break free from a notion'. The other verbs do not take -에서 this way."
+  }
+ },
+ {
+  "id": "L6-057",
+  "day": 12,
+  "slot": 2,
+  "ko": "인식",
+  "roman": "insik",
+  "en": "perception; awareness; recognition",
+  "pos": "noun",
+  "ko_meaning": "어떤 사실이나 문제를 분명히 알고 판단함",
+  "ko_meaning_en": "Clearly knowing and judging a fact or problem",
+  "example": {
+   "ko": "환경 문제에 대한 시민들의 인식이 크게 달라졌다.",
+   "roman": "Hwangyeong munjee daehan simindeurui insigi keuge dallajeotda.",
+   "en": "Citizens' awareness of environmental problems has changed greatly.",
+   "tokens": [
+    {
+     "t": "환경",
+     "r": "hwangyeong",
+     "base": "환경",
+     "en": "environmental"
+    },
+    {
+     "t": "문제에",
+     "r": "munjee",
+     "base": "문제 + 에",
+     "en": "problems"
+    },
+    {
+     "t": "대한",
+     "r": "daehan",
+     "base": "대하다",
+     "en": "of, about",
+     "note": "-에 대한 = about"
+    },
+    {
+     "t": "시민들의",
+     "r": "simindeurui",
+     "base": "시민 + 들 + 의",
+     "en": "citizens'"
+    },
+    {
+     "t": "인식이",
+     "r": "insigi",
+     "base": "인식 + 이",
+     "en": "awareness"
+    },
+    {
+     "t": "크게",
+     "r": "keuge",
+     "base": "크다",
+     "en": "greatly"
+    },
+    {
+     "t": "달라졌다",
+     "r": "dallajeotda",
+     "base": "달라지다",
+     "en": "has changed"
+    }
+   ],
+   "target": 4
+  },
+  "cloze_options": [
+   "인식이",
+   "합병증이",
+   "진동이",
+   "점유율이"
+  ],
+  "form": {
+   "q_en": "The government is the one perceiving. Pick the right form.",
+   "ko": "정부는 이 문제를 단순한 갈등으로 인식___ 있다.",
+   "options": [
+    "하고",
+    "되고",
+    "시키고",
+    "당하고"
+   ],
+   "answer": 0,
+   "why": "The government perceives, so active 인식하다 is used with 문제를 as object. 인식되다 would make the issue the subject."
+  }
+ },
+ {
+  "id": "L6-058",
+  "day": 12,
+  "slot": 3,
+  "ko": "존재",
+  "roman": "jonjae",
+  "en": "existence; being",
+  "pos": "noun",
+  "ko_meaning": "실제로 있음. 또는 그런 대상",
+  "ko_meaning_en": "Actually being there; or such a being",
+  "example": {
+   "ko": "우주에 다른 생명체가 존재하는지는 아직 밝혀지지 않았다.",
+   "roman": "Ujue dareun saengmyeongchega jonjaehaneunjineun ajik balkyeojiji anatda.",
+   "en": "Whether other life forms exist in the universe has not yet been revealed.",
+   "tokens": [
+    {
+     "t": "우주에",
+     "r": "ujue",
+     "base": "우주 + 에",
+     "en": "in the universe"
+    },
+    {
+     "t": "다른",
+     "r": "dareun",
+     "base": "다르다",
+     "en": "other"
+    },
+    {
+     "t": "생명체가",
+     "r": "saengmyeongchega",
+     "base": "생명체 + 가",
+     "en": "life forms"
+    },
+    {
+     "t": "존재하는지는",
+     "r": "jonjaehaneunjineun",
+     "base": "존재하다",
+     "en": "whether (they) exist",
+     "note": "-는지 = whether; 는 marks the topic"
+    },
+    {
+     "t": "아직",
+     "r": "ajik",
+     "base": "아직",
+     "en": "yet"
+    },
+    {
+     "t": "밝혀지지",
+     "r": "balkyeojiji",
+     "base": "밝혀지다",
+     "en": "been revealed"
+    },
+    {
+     "t": "않았다",
+     "r": "anatda",
+     "base": "않다",
+     "en": "has not"
+    }
+   ],
+   "target": 3
+  },
+  "cloze_options": [
+   "존재하는지는",
+   "상환하는지는",
+   "투여하는지는",
+   "위임하는지는"
+  ],
+  "form": {
+   "q_en": "Pick the ending meaning 'whether'.",
+   "ko": "우주에 다른 생명체가 존재하는___ 아직 밝혀지지 않았다.",
+   "options": [
+    "지는",
+    "데는",
+    "김에",
+    "바람에"
+   ],
+   "answer": 0,
+   "why": "-는지 turns a question into a noun clause: 'whether ... exist'. -는 김에 and -는 바람에 do not fit."
+  }
+ },
+ {
+  "id": "L6-059",
+  "day": 12,
+  "slot": 4,
+  "ko": "모순",
+  "roman": "mosun",
+  "en": "contradiction",
+  "pos": "noun",
+  "ko_meaning": "앞뒤의 말이나 사실이 서로 맞지 않음",
+  "ko_meaning_en": "Words or facts that do not fit together",
+  "example": {
+   "ko": "그의 진술에는 앞뒤가 맞지 않는 모순이 많았다.",
+   "roman": "Geuui jinsureneun apdwiga matji anneun mosuni manatda.",
+   "en": "His statement contained many contradictions that did not add up.",
+   "tokens": [
+    {
+     "t": "그의",
+     "r": "geuui",
+     "base": "그 + 의",
+     "en": "his"
+    },
+    {
+     "t": "진술에는",
+     "r": "jinsureneun",
+     "base": "진술 + 에 + 는",
+     "en": "in (his) statement"
+    },
+    {
+     "t": "앞뒤가",
+     "r": "apdwiga",
+     "base": "앞뒤 + 가",
+     "en": "front and back",
+     "note": "앞뒤가 맞다 = to be consistent"
+    },
+    {
+     "t": "맞지",
+     "r": "matji",
+     "base": "맞다",
+     "en": "match"
+    },
+    {
+     "t": "않는",
+     "r": "anneun",
+     "base": "않다",
+     "en": "not"
+    },
+    {
+     "t": "모순이",
+     "r": "mosuni",
+     "base": "모순 + 이",
+     "en": "contradictions"
+    },
+    {
+     "t": "많았다",
+     "r": "manatda",
+     "base": "많다",
+     "en": "were many"
+    }
+   ],
+   "target": 5
+  },
+  "cloze_options": [
+   "모순이",
+   "장학금이",
+   "기념품이",
+   "배당이"
+  ],
+  "form": {
+   "q_en": "모순 becomes a verb with which suffix?",
+   "ko": "그 정책은 성장과 분배라는 두 목표가 서로 모순___ 비판을 받았다.",
+   "options": [
+    "된다는",
+    "한다는",
+    "시킨다는",
+    "당한다는"
+   ],
+   "answer": 0,
+   "why": "모순 takes -되다 (모순되다 'to contradict'), not -하다. -다는 links the quoted content to 비판."
+  }
+ },
+ {
+  "id": "L6-060",
+  "day": 12,
+  "slot": 5,
+  "ko": "역설",
+  "roman": "yeokseol",
+  "en": "paradox",
+  "pos": "noun",
+  "ko_meaning": "겉으로는 틀린 말 같지만 그 속에 진리가 담긴 말이나 현상",
+  "ko_meaning_en": "A statement or situation that seems wrong but holds a truth",
+  "example": {
+   "ko": "기술이 발전할수록 사람들이 더 외로워지는 역설이 나타나고 있다.",
+   "roman": "Gisuri baljeonhalsurok saramdeuri deo oerowojineun yeokseori natanago itda.",
+   "en": "A paradox is appearing in which people grow lonelier as technology advances.",
+   "tokens": [
+    {
+     "t": "기술이",
+     "r": "gisuri",
+     "base": "기술 + 이",
+     "en": "technology"
+    },
+    {
+     "t": "발전할수록",
+     "r": "baljeonhalsurok",
+     "base": "발전하다",
+     "en": "the more (it) advances",
+     "note": "-(으)ㄹ수록 = the more ..., the more"
+    },
+    {
+     "t": "사람들이",
+     "r": "saramdeuri",
+     "base": "사람 + 들 + 이",
+     "en": "people"
+    },
+    {
+     "t": "더",
+     "r": "deo",
+     "base": "더",
+     "en": "more"
+    },
+    {
+     "t": "외로워지는",
+     "r": "oerowojineun",
+     "base": "외로워지다",
+     "en": "growing lonely",
+     "note": "외롭다 + -어지다 (ㅂ irregular)"
+    },
+    {
+     "t": "역설이",
+     "r": "yeokseori",
+     "base": "역설 + 이",
+     "en": "paradox"
+    },
+    {
+     "t": "나타나고",
+     "r": "natanago",
+     "base": "나타나다",
+     "en": "appearing"
+    },
+    {
+     "t": "있다",
+     "r": "itda",
+     "base": "있다",
+     "en": "is"
+    }
+   ],
+   "target": 5
+  },
+  "cloze_options": [
+   "역설이",
+   "판결이",
+   "합병이",
+   "처분이"
+  ],
+  "form": {
+   "q_en": "Pick the ending meaning 'the more ..., the more'.",
+   "ko": "기술이 발전___ 사람들이 더 외로워지는 역설이 나타나고 있다.",
+   "options": [
+    "할수록",
+    "하도록",
+    "하느라",
+    "하자면"
+   ],
+   "answer": 0,
+   "why": "-(으)ㄹ수록 = 'the more ...': the more technology advances, the lonelier people get."
+  }
+ },
+ {
+  "id": "L6-061",
+  "day": 13,
+  "slot": 1,
+  "ko": "전제",
+  "roman": "jeonje",
+  "en": "premise; precondition",
+  "pos": "noun",
+  "ko_meaning": "어떤 일이나 생각을 이루기 위해 먼저 내세우는 조건",
+  "ko_meaning_en": "A condition set up first for something to happen or hold true",
+  "example": {
+   "ko": "이 연구는 모든 소비자가 합리적이라는 전제에서 출발한다.",
+   "roman": "I yeonguneun modeun sobijaga hamnijeogiraneun jeonjeeseo chulbalhanda.",
+   "en": "This study starts from the premise that all consumers are rational.",
+   "tokens": [
+    {
+     "t": "이",
+     "r": "i",
+     "base": "이",
+     "en": "this"
+    },
+    {
+     "t": "연구는",
+     "r": "yeonguneun",
+     "base": "연구 + 는",
+     "en": "study"
+    },
+    {
+     "t": "모든",
+     "r": "modeun",
+     "base": "모든",
+     "en": "all"
+    },
+    {
+     "t": "소비자가",
+     "r": "sobijaga",
+     "base": "소비자 + 가",
+     "en": "consumers"
+    },
+    {
+     "t": "합리적이라는",
+     "r": "hamnijeogiraneun",
+     "base": "합리적 + 이다",
+     "en": "(that they) are rational",
+     "note": "-(이)라는 = 'that ...' before a noun; 합리 is pronounced [함니]"
+    },
+    {
+     "t": "전제에서",
+     "r": "jeonjeeseo",
+     "base": "전제 + 에서",
+     "en": "from the premise"
+    },
+    {
+     "t": "출발한다",
+     "r": "chulbalhanda",
+     "base": "출발하다",
+     "en": "starts"
+    }
+   ],
+   "target": 5
+  },
+  "cloze_options": [
+   "전제에서",
+   "오류에서",
+   "촉매에서",
+   "궤도에서"
+  ],
+  "form": {
+   "q_en": "Pick the particle in 'on the precondition of'.",
+   "ko": "두 나라는 협력을 전제___ 대화를 다시 시작하기로 했다.",
+   "options": [
+    "로",
+    "에",
+    "를",
+    "와"
+   ],
+   "answer": 0,
+   "why": "N을 전제로 (하여) = 'on the precondition of N'."
+  }
+ },
+ {
+  "id": "L6-062",
+  "day": 13,
+  "slot": 2,
+  "ko": "귀납",
+  "roman": "gwinap",
+  "en": "induction (logic)",
+  "pos": "noun",
+  "ko_meaning": "여러 개별적인 사실에서 일반적인 원리를 이끌어 내는 방법",
+  "ko_meaning_en": "A method of drawing a general principle from many individual facts",
+  "example": {
+   "ko": "귀납은 여러 관찰 결과에서 일반 원리를 도출하는 방법이다.",
+   "roman": "Gwinabeun yeoreo gwanchal gyeolgwaeseo ilban wollireul dochulhaneun bangbeobida.",
+   "en": "Induction is a method of deriving general principles from many observations.",
+   "tokens": [
+    {
+     "t": "귀납은",
+     "r": "gwinabeun",
+     "base": "귀납 + 은",
+     "en": "induction"
+    },
+    {
+     "t": "여러",
+     "r": "yeoreo",
+     "base": "여러",
+     "en": "many"
+    },
+    {
+     "t": "관찰",
+     "r": "gwanchal",
+     "base": "관찰",
+     "en": "observation"
+    },
+    {
+     "t": "결과에서",
+     "r": "gyeolgwaeseo",
+     "base": "결과 + 에서",
+     "en": "from results"
+    },
+    {
+     "t": "일반",
+     "r": "ilban",
+     "base": "일반",
+     "en": "general"
+    },
+    {
+     "t": "원리를",
+     "r": "wollireul",
+     "base": "원리 + 를",
+     "en": "principles",
+     "note": "원리 is pronounced [월리]"
+    },
+    {
+     "t": "도출하는",
+     "r": "dochulhaneun",
+     "base": "도출하다",
+     "en": "deriving"
+    },
+    {
+     "t": "방법이다",
+     "r": "bangbeobida",
+     "base": "방법 + 이다",
+     "en": "is a method"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "귀납은",
+   "연역은",
+   "판결은",
+   "합병은"
+  ],
+  "form": {
+   "q_en": "Pick the pattern meaning 'cannot'.",
+   "ko": "귀납법은 연역법과 달리 결론이 반드시 참이라고 ___ 없다.",
+   "options": [
+    "할 수",
+    "할 뻔",
+    "할 만",
+    "할 겸"
+   ],
+   "answer": 0,
+   "why": "-(으)ㄹ 수 없다 = 'cannot': an inductive conclusion cannot be called certainly true. 뻔, 만 and 겸 do not combine with 없다."
+  }
+ },
+ {
+  "id": "L6-063",
+  "day": 13,
+  "slot": 3,
+  "ko": "연역",
+  "roman": "yeonyeok",
+  "en": "deduction (logic)",
+  "pos": "noun",
+  "ko_meaning": "일반적인 원리에서 개별적인 사실을 이끌어 내는 방법",
+  "ko_meaning_en": "A method of drawing particular facts from a general principle",
+  "example": {
+   "ko": "연역에서는 전제가 참이면 결론도 반드시 참이 된다.",
+   "roman": "Yeonyeogeseoneun jeonjega chamimyeon gyeollondo bandeusi chami doenda.",
+   "en": "In deduction, if the premises are true, the conclusion is necessarily true as well.",
+   "tokens": [
+    {
+     "t": "연역에서는",
+     "r": "yeonyeogeseoneun",
+     "base": "연역 + 에서 + 는",
+     "en": "in deduction"
+    },
+    {
+     "t": "전제가",
+     "r": "jeonjega",
+     "base": "전제 + 가",
+     "en": "the premises"
+    },
+    {
+     "t": "참이면",
+     "r": "chamimyeon",
+     "base": "참 + 이다",
+     "en": "if (they) are true",
+     "note": "-(이)면 = if"
+    },
+    {
+     "t": "결론도",
+     "r": "gyeollondo",
+     "base": "결론 + 도",
+     "en": "the conclusion too"
+    },
+    {
+     "t": "반드시",
+     "r": "bandeusi",
+     "base": "반드시",
+     "en": "necessarily"
+    },
+    {
+     "t": "참이",
+     "r": "chami",
+     "base": "참 + 이",
+     "en": "true",
+     "note": "N이/가 되다 = to become N"
+    },
+    {
+     "t": "된다",
+     "r": "doenda",
+     "base": "되다",
+     "en": "becomes"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "연역에서는",
+   "귀납에서는",
+   "풍자에서는",
+   "관측에서는"
+  ],
+  "form": {
+   "q_en": "Pick the verb in 'N이 되다' ('to become N').",
+   "ko": "전제가 참이면 결론도 반드시 참이 ___.",
+   "options": [
+    "된다",
+    "한다",
+    "있다",
+    "난다"
+   ],
+   "answer": 0,
+   "why": "N이/가 되다 = 'to become N': 참이 되다. 한다, 있다 and 난다 do not take 참이 this way."
+  }
+ },
+ {
+  "id": "L6-064",
+  "day": 13,
+  "slot": 4,
+  "ko": "논증",
+  "roman": "nonjeung",
+  "en": "argumentation; proof",
+  "pos": "noun",
+  "ko_meaning": "어떤 주장이 옳은지 그른지를 근거를 들어 밝힘",
+  "ko_meaning_en": "Showing with reasons whether a claim is right or wrong",
+  "example": {
+   "ko": "좋은 논증은 타당한 근거와 명확한 결론을 갖추어야 한다.",
+   "roman": "Joeun nonjeungeun tadanghan geungeowa myeonghwakan gyeolloneul gachueoya handa.",
+   "en": "A good argument must have valid grounds and a clear conclusion.",
+   "tokens": [
+    {
+     "t": "좋은",
+     "r": "joeun",
+     "base": "좋다",
+     "en": "good"
+    },
+    {
+     "t": "논증은",
+     "r": "nonjeungeun",
+     "base": "논증 + 은",
+     "en": "argument"
+    },
+    {
+     "t": "타당한",
+     "r": "tadanghan",
+     "base": "타당하다",
+     "en": "valid"
+    },
+    {
+     "t": "근거와",
+     "r": "geungeowa",
+     "base": "근거 + 와",
+     "en": "grounds and"
+    },
+    {
+     "t": "명확한",
+     "r": "myeonghwakan",
+     "base": "명확하다",
+     "en": "clear"
+    },
+    {
+     "t": "결론을",
+     "r": "gyeolloneul",
+     "base": "결론 + 을",
+     "en": "a conclusion"
+    },
+    {
+     "t": "갖추어야",
+     "r": "gachueoya",
+     "base": "갖추다",
+     "en": "must have",
+     "note": "-아/어야 하다 = must"
+    },
+    {
+     "t": "한다",
+     "r": "handa",
+     "base": "하다",
+     "en": "must"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "논증은",
+   "합병증은",
+   "부양책은",
+   "유동성은"
+  ],
+  "form": {
+   "q_en": "Pick the particle that marks a means ('by means of').",
+   "ko": "그는 통계 자료___ 자신의 주장을 논증했다.",
+   "options": [
+    "로써",
+    "로서",
+    "에게",
+    "처럼"
+   ],
+   "answer": 0,
+   "why": "(으)로써 marks the means: 'by means of statistics'. (으)로서 marks a role or status."
+  }
+ },
+ {
+  "id": "L6-065",
+  "day": 13,
+  "slot": 5,
+  "ko": "오류",
+  "roman": "oryu",
+  "en": "error; fallacy",
+  "pos": "noun",
+  "ko_meaning": "생각이나 지식, 계산 등이 사실과 다르게 틀림",
+  "ko_meaning_en": "Thinking, knowledge, or calculation being wrong",
+  "example": {
+   "ko": "보고서의 통계 수치에서 심각한 오류가 발견되었다.",
+   "roman": "Bogoseoui tonggye suchieseo simgakan oryuga balgyeondoeeotda.",
+   "en": "A serious error was found in the statistical figures of the report.",
+   "tokens": [
+    {
+     "t": "보고서의",
+     "r": "bogoseoui",
+     "base": "보고서 + 의",
+     "en": "of the report"
+    },
+    {
+     "t": "통계",
+     "r": "tonggye",
+     "base": "통계",
+     "en": "statistical"
+    },
+    {
+     "t": "수치에서",
+     "r": "suchieseo",
+     "base": "수치 + 에서",
+     "en": "in the figures"
+    },
+    {
+     "t": "심각한",
+     "r": "simgakan",
+     "base": "심각하다",
+     "en": "serious"
+    },
+    {
+     "t": "오류가",
+     "r": "oryuga",
+     "base": "오류 + 가",
+     "en": "error"
+    },
+    {
+     "t": "발견되었다",
+     "r": "balgyeondoeeotda",
+     "base": "발견되다",
+     "en": "was found"
+    }
+   ],
+   "target": 4
+  },
+  "cloze_options": [
+   "오류가",
+   "촉매가",
+   "담보가",
+   "주주가"
+  ],
+  "form": {
+   "q_en": "Which verb goes with 오류 ('to commit a fallacy')?",
+   "ko": "논리적 오류를 ___ 위해 전제를 다시 검토했다.",
+   "options": [
+    "범하지 않기",
+    "끼치지 않기",
+    "미치지 않기",
+    "차지하지 않기"
+   ],
+   "answer": 0,
+   "why": "오류를 범하다 = 'to commit an error/fallacy'. 끼치다/미치다 go with 영향."
+  }
+ },
+ {
+  "id": "L6-066",
+  "day": 14,
+  "slot": 1,
+  "ko": "서술하다",
+  "roman": "seosulhada",
+  "en": "to describe; to narrate",
+  "pos": "verb",
+  "ko_meaning": "사건이나 생각 등을 차례대로 말하거나 적다",
+  "ko_meaning_en": "To tell or write events or thoughts in order",
+  "example": {
+   "ko": "이 책은 조선 시대의 생활상을 생생하게 서술하고 있다.",
+   "roman": "I chaegeun joseon sidaeui saenghwalsangeul saengsaenghage seosulhago itda.",
+   "en": "This book vividly describes daily life in the Joseon era.",
+   "tokens": [
+    {
+     "t": "이",
+     "r": "i",
+     "base": "이",
+     "en": "this"
+    },
+    {
+     "t": "책은",
+     "r": "chaegeun",
+     "base": "책 + 은",
+     "en": "book"
+    },
+    {
+     "t": "조선",
+     "r": "joseon",
+     "base": "조선",
+     "en": "Joseon"
+    },
+    {
+     "t": "시대의",
+     "r": "sidaeui",
+     "base": "시대 + 의",
+     "en": "era's"
+    },
+    {
+     "t": "생활상을",
+     "r": "saenghwalsangeul",
+     "base": "생활상 + 을",
+     "en": "daily life"
+    },
+    {
+     "t": "생생하게",
+     "r": "saengsaenghage",
+     "base": "생생하다",
+     "en": "vividly"
+    },
+    {
+     "t": "서술하고",
+     "r": "seosulhago",
+     "base": "서술하다",
+     "en": "describing"
+    },
+    {
+     "t": "있다",
+     "r": "itda",
+     "base": "있다",
+     "en": "is",
+     "note": "-고 있다 = ongoing"
+    }
+   ],
+   "target": 6
+  },
+  "cloze_options": [
+   "서술하고",
+   "상환하고",
+   "투여하고",
+   "배양하고"
+  ],
+  "form": {
+   "q_en": "Pick the formal written command used in exam instructions.",
+   "ko": "다음 질문에 대한 답을 500자 이내로 서술___.",
+   "options": [
+    "하시오",
+    "하던지",
+    "하자고",
+    "하더라"
+   ],
+   "answer": 0,
+   "why": "-(으)시오 is the formal written command in exams and notices: 서술하시오 'Describe ...'."
+  }
+ },
+ {
+  "id": "L6-067",
+  "day": 14,
+  "slot": 2,
+  "ko": "논하다",
+  "roman": "nonhada",
+  "en": "to discuss; to argue",
+  "pos": "verb",
+  "ko_meaning": "어떤 문제에 대해 의견을 조리 있게 말하다",
+  "ko_meaning_en": "To present one's views on an issue logically",
+  "example": {
+   "ko": "정책의 효과를 논하기에는 아직 이르다.",
+   "roman": "Jeongchaegui hyogwareul nonhagieneun ajik ireuda.",
+   "en": "It is still too early to discuss the effects of the policy.",
+   "tokens": [
+    {
+     "t": "정책의",
+     "r": "jeongchaegui",
+     "base": "정책 + 의",
+     "en": "of the policy"
+    },
+    {
+     "t": "효과를",
+     "r": "hyogwareul",
+     "base": "효과 + 를",
+     "en": "effects"
+    },
+    {
+     "t": "논하기에는",
+     "r": "nonhagieneun",
+     "base": "논하다",
+     "en": "to discuss",
+     "note": "-기에는 이르다 = too early to"
+    },
+    {
+     "t": "아직",
+     "r": "ajik",
+     "base": "아직",
+     "en": "still"
+    },
+    {
+     "t": "이르다",
+     "r": "ireuda",
+     "base": "이르다",
+     "en": "is early"
+    }
+   ],
+   "target": 2
+  },
+  "cloze_options": [
+   "논하기에는",
+   "상환하기에는",
+   "투여하기에는",
+   "배양하기에는"
+  ],
+  "form": {
+   "q_en": "Pick the pattern for 'too early to'.",
+   "ko": "정책의 효과를 논하___ 아직 이르다.",
+   "options": [
+    "기에는",
+    "는데도",
+    "자마자",
+    "느라고"
+   ],
+   "answer": 0,
+   "why": "-기에는 이르다 = 'it is too early to ...'. The other endings do not combine with 이르다 this way."
+  }
+ },
+ {
+  "id": "L6-068",
+  "day": 14,
+  "slot": 3,
+  "ko": "피력하다",
+  "roman": "piryeokada",
+  "en": "to express (one's view)",
+  "pos": "verb",
+  "ko_meaning": "생각이나 의견을 숨김없이 드러내어 말하다",
+  "ko_meaning_en": "To state one's thoughts or opinions openly",
+  "example": {
+   "ko": "후보는 토론회에서 개헌에 대한 소신을 피력했다.",
+   "roman": "Huboneun toronhoeeseo gaeheone daehan sosineul piryeokaetda.",
+   "en": "At the debate, the candidate expressed his firm belief on constitutional amendment.",
+   "tokens": [
+    {
+     "t": "후보는",
+     "r": "huboneun",
+     "base": "후보 + 는",
+     "en": "the candidate"
+    },
+    {
+     "t": "토론회에서",
+     "r": "toronhoeeseo",
+     "base": "토론회 + 에서",
+     "en": "at the debate"
+    },
+    {
+     "t": "개헌에",
+     "r": "gaeheone",
+     "base": "개헌 + 에",
+     "en": "constitutional amendment"
+    },
+    {
+     "t": "대한",
+     "r": "daehan",
+     "base": "대하다",
+     "en": "on",
+     "note": "-에 대한 = about"
+    },
+    {
+     "t": "소신을",
+     "r": "sosineul",
+     "base": "소신 + 을",
+     "en": "firm belief"
+    },
+    {
+     "t": "피력했다",
+     "r": "piryeokaetda",
+     "base": "피력하다",
+     "en": "expressed",
+     "note": "피력했다 is pronounced [피려캗따]"
+    }
+   ],
+   "target": 5
+  },
+  "cloze_options": [
+   "피력했다",
+   "투여했다",
+   "배양했다",
+   "합성했다"
+  ],
+  "form": {
+   "q_en": "What can be the object of 피력하다?",
+   "ko": "그는 기자회견에서 자신의 ___을 피력했다.",
+   "options": [
+    "입장",
+    "장학금",
+    "영수증",
+    "통장"
+   ],
+   "answer": 0,
+   "why": "피력하다 means stating a view openly, so its object is a view such as 입장, 의견 or 소신."
+  }
+ },
+ {
+  "id": "L6-069",
+  "day": 14,
+  "slot": 4,
+  "ko": "천명하다",
+  "roman": "cheonmyeonghada",
+  "en": "to declare; to proclaim",
+  "pos": "verb",
+  "ko_meaning": "어떤 입장이나 뜻을 분명하게 드러내어 밝히다",
+  "ko_meaning_en": "To clearly make known a position or intention",
+  "example": {
+   "ko": "정부는 탄소중립을 국가 목표로 천명했다.",
+   "roman": "Jeongbuneun tansojungnibeul gukga mokpyoro cheonmyeonghaetda.",
+   "en": "The government declared carbon neutrality a national goal.",
+   "tokens": [
+    {
+     "t": "정부는",
+     "r": "jeongbuneun",
+     "base": "정부 + 는",
+     "en": "the government"
+    },
+    {
+     "t": "탄소중립을",
+     "r": "tansojungnibeul",
+     "base": "탄소중립 + 을",
+     "en": "carbon neutrality",
+     "note": "중립 is pronounced [중닙]"
+    },
+    {
+     "t": "국가",
+     "r": "gukga",
+     "base": "국가",
+     "en": "national"
+    },
+    {
+     "t": "목표로",
+     "r": "mokpyoro",
+     "base": "목표 + 로",
+     "en": "as a goal",
+     "note": "(으)로 = as"
+    },
+    {
+     "t": "천명했다",
+     "r": "cheonmyeonghaetda",
+     "base": "천명하다",
+     "en": "declared"
+    }
+   ],
+   "target": 4
+  },
+  "cloze_options": [
+   "천명했다",
+   "상환했다",
+   "관측했다",
+   "합성했다"
+  ],
+  "form": {
+   "q_en": "Pick the particle in 'declare A (as) B'.",
+   "ko": "정부는 탄소중립을 국가 목표___ 천명했다.",
+   "options": [
+    "로",
+    "를",
+    "에",
+    "와"
+   ],
+   "answer": 0,
+   "why": "A를 B(으)로 천명하다 = 'to declare A (to be) B': (으)로 marks what A is declared as."
+  }
+ },
+ {
+  "id": "L6-070",
+  "day": 14,
+  "slot": 5,
+  "ko": "단언하다",
+  "roman": "daneonhada",
+  "en": "to assert; to say for certain",
+  "pos": "verb",
+  "ko_meaning": "망설이지 않고 딱 잘라 말하다",
+  "ko_meaning_en": "To state firmly without hesitation",
+  "example": {
+   "ko": "현재로서는 경기가 회복될 것이라고 단언하기 어렵다.",
+   "roman": "Hyeonjaeroseoneun gyeonggiga hoebokdoel geosirago daneonhagi eoryeopda.",
+   "en": "At this point, it is hard to say for certain that the economy will recover.",
+   "tokens": [
+    {
+     "t": "현재로서는",
+     "r": "hyeonjaeroseoneun",
+     "base": "현재 + 로서 + 는",
+     "en": "at this point",
+     "note": "현재로서는 = as things stand now"
+    },
+    {
+     "t": "경기가",
+     "r": "gyeonggiga",
+     "base": "경기 + 가",
+     "en": "the economy"
+    },
+    {
+     "t": "회복될",
+     "r": "hoebokdoel",
+     "base": "회복되다",
+     "en": "will recover"
+    },
+    {
+     "t": "것이라고",
+     "r": "geosirago",
+     "base": "것 + 이라고",
+     "en": "that (it) will",
+     "note": "-(으)ㄹ 것이라고 quotes a prediction"
+    },
+    {
+     "t": "단언하기",
+     "r": "daneonhagi",
+     "base": "단언하다",
+     "en": "to say for certain",
+     "note": "-기 어렵다 = hard to"
+    },
+    {
+     "t": "어렵다",
+     "r": "eoryeopda",
+     "base": "어렵다",
+     "en": "is hard"
+    }
+   ],
+   "target": 4
+  },
+  "cloze_options": [
+   "단언하기",
+   "상환하기",
+   "배양하기",
+   "투여하기"
+  ],
+  "form": {
+   "q_en": "Pick the quoting form that marks what is asserted.",
+   "ko": "경기가 회복될 것___ 단언하기 어렵다.",
+   "options": [
+    "이라고",
+    "이라서",
+    "이면서",
+    "이든지"
+   ],
+   "answer": 0,
+   "why": "-(이)라고 marks the content of what is said or asserted. -이라서 gives a reason, -이면서 'while', -이든지 'whether'."
+  }
+ },
+ {
+  "id": "L6-071",
+  "day": 15,
+  "slot": 1,
+  "ko": "선정성",
+  "roman": "seonjeongseong",
+  "en": "sensationalism",
+  "pos": "noun",
+  "ko_meaning": "사람의 감정이나 욕구를 자극하여 관심을 끌려는 성질",
+  "ko_meaning_en": "The quality of stirring up emotions or desires to attract attention",
+  "example": {
+   "ko": "그 프로그램은 선정성 논란으로 시청자들의 비판을 받았다.",
+   "roman": "Geu peurogeuraemeun seonjeongseong nollaneuro sicheongjadeurui bipaneul badatda.",
+   "en": "The program drew criticism from viewers amid controversy over its sensationalism.",
+   "tokens": [
+    {
+     "t": "그",
+     "r": "geu",
+     "base": "그",
+     "en": "that"
+    },
+    {
+     "t": "프로그램은",
+     "r": "peurogeuraemeun",
+     "base": "프로그램 + 은",
+     "en": "program"
+    },
+    {
+     "t": "선정성",
+     "r": "seonjeongseong",
+     "base": "선정성",
+     "en": "sensationalism"
+    },
+    {
+     "t": "논란으로",
+     "r": "nollaneuro",
+     "base": "논란 + 으로",
+     "en": "due to controversy",
+     "note": "논란 is pronounced [놀란]"
+    },
+    {
+     "t": "시청자들의",
+     "r": "sicheongjadeurui",
+     "base": "시청자 + 들 + 의",
+     "en": "viewers'"
+    },
+    {
+     "t": "비판을",
+     "r": "bipaneul",
+     "base": "비판 + 을",
+     "en": "criticism"
+    },
+    {
+     "t": "받았다",
+     "r": "badatda",
+     "base": "받다",
+     "en": "received"
+    }
+   ],
+   "target": 2
+  },
+  "cloze_options": [
+   "선정성",
+   "유동성",
+   "경쟁력",
+   "합병증"
+  ],
+  "form": {
+   "q_en": "Pick the form that links the quoted content to the noun 비판.",
+   "ko": "그 드라마는 선정성이 지나치다___ 비판을 받았다.",
+   "options": [
+    "는",
+    "니까",
+    "거나",
+    "더니"
+   ],
+   "answer": 0,
+   "why": "-다는 + noun = 'the N that ...': 지나치다는 비판 'criticism that it is excessive'."
+  }
+ },
+ {
+  "id": "L6-072",
+  "day": 15,
+  "slot": 2,
+  "ko": "파급",
+  "roman": "pageup",
+  "en": "ripple effect; spread",
+  "pos": "noun",
+  "ko_meaning": "어떤 일의 영향이 차차 다른 데로 퍼짐",
+  "ko_meaning_en": "The effect of something gradually spreading elsewhere",
+  "example": {
+   "ko": "금리 인상의 파급 효과는 부동산 시장까지 미쳤다.",
+   "roman": "Geumni insangui pageup hyogwaneun budongsan sijangkkaji michyeotda.",
+   "en": "The ripple effects of the interest rate hike reached even the real estate market.",
+   "tokens": [
+    {
+     "t": "금리",
+     "r": "geumni",
+     "base": "금리",
+     "en": "interest rate"
+    },
+    {
+     "t": "인상의",
+     "r": "insangui",
+     "base": "인상 + 의",
+     "en": "hike's"
+    },
+    {
+     "t": "파급",
+     "r": "pageup",
+     "base": "파급",
+     "en": "ripple"
+    },
+    {
+     "t": "효과는",
+     "r": "hyogwaneun",
+     "base": "효과 + 는",
+     "en": "effects"
+    },
+    {
+     "t": "부동산",
+     "r": "budongsan",
+     "base": "부동산",
+     "en": "real estate"
+    },
+    {
+     "t": "시장까지",
+     "r": "sijangkkaji",
+     "base": "시장 + 까지",
+     "en": "even the market",
+     "note": "까지 = as far as, even"
+    },
+    {
+     "t": "미쳤다",
+     "r": "michyeotda",
+     "base": "미치다",
+     "en": "reached",
+     "note": "미치다 = to reach, extend to"
+    }
+   ],
+   "target": 2
+  },
+  "cloze_options": [
+   "파급",
+   "합성",
+   "촉매",
+   "모순"
+  ],
+  "form": {
+   "q_en": "Pick the noun form needed before 어렵다.",
+   "ko": "이번 사태가 경제 전반에 미칠 파급 효과는 ___ 어렵다.",
+   "options": [
+    "예측하기",
+    "예측하자",
+    "예측해서",
+    "예측하러"
+   ],
+   "answer": 0,
+   "why": "-기 어렵다 = 'hard to ...' needs the -기 noun form."
+  }
+ },
+ {
+  "id": "L6-073",
+  "day": 15,
+  "slot": 3,
+  "ko": "검열",
+  "roman": "geomyeol",
+  "en": "censorship; inspection",
+  "pos": "noun",
+  "ko_meaning": "국가 기관 등이 책, 영화, 방송 등의 내용을 미리 살펴 발표를 통제함",
+  "ko_meaning_en": "A state body checking books, films, or broadcasts in advance and controlling their release",
+  "example": {
+   "ko": "독재 정권은 언론 검열을 통해 비판적인 보도를 막았다.",
+   "roman": "Dokjae jeonggwoneun eollon geomyeoreul tonghae bipanjeogin bodoreul magatda.",
+   "en": "The dictatorship blocked critical reporting through press censorship.",
+   "tokens": [
+    {
+     "t": "독재",
+     "r": "dokjae",
+     "base": "독재",
+     "en": "dictatorial"
+    },
+    {
+     "t": "정권은",
+     "r": "jeonggwoneun",
+     "base": "정권 + 은",
+     "en": "regime"
+    },
+    {
+     "t": "언론",
+     "r": "eollon",
+     "base": "언론",
+     "en": "press",
+     "note": "언론 is pronounced [얼론]"
+    },
+    {
+     "t": "검열을",
+     "r": "geomyeoreul",
+     "base": "검열 + 을",
+     "en": "censorship",
+     "note": "검열 is pronounced [거멸]"
+    },
+    {
+     "t": "통해",
+     "r": "tonghae",
+     "base": "통하다",
+     "en": "through"
+    },
+    {
+     "t": "비판적인",
+     "r": "bipanjeogin",
+     "base": "비판적 + 이다",
+     "en": "critical"
+    },
+    {
+     "t": "보도를",
+     "r": "bodoreul",
+     "base": "보도 + 를",
+     "en": "reporting"
+    },
+    {
+     "t": "막았다",
+     "r": "magatda",
+     "base": "막다",
+     "en": "blocked"
+    }
+   ],
+   "target": 3
+  },
+  "cloze_options": [
+   "검열을",
+   "합성을",
+   "재활을",
+   "진동을"
+  ],
+  "form": {
+   "q_en": "Which verb goes with 검열에 ('to be caught by the censors')?",
+   "ko": "그 영화는 정부의 검열에 ___ 일부 장면이 삭제되었다.",
+   "options": [
+    "걸려",
+    "끼쳐",
+    "미쳐",
+    "차려"
+   ],
+   "answer": 0,
+   "why": "검열에 걸리다 = 'to be caught by the censors'."
+  }
+ },
+ {
+  "id": "L6-074",
+  "day": 15,
+  "slot": 4,
+  "ko": "오보",
+  "roman": "obo",
+  "en": "false report; misreport",
+  "pos": "noun",
+  "ko_meaning": "사실과 다르게 잘못 알림. 또는 그런 보도",
+  "ko_meaning_en": "Reporting something incorrectly; or such a report",
+  "example": {
+   "ko": "그 신문사는 오보를 낸 것에 대해 공식적으로 사과했다.",
+   "roman": "Geu sinmunsaneun oboreul naen geose daehae gongsikjeogeuro sagwahaetda.",
+   "en": "The newspaper officially apologized for publishing a false report.",
+   "tokens": [
+    {
+     "t": "그",
+     "r": "geu",
+     "base": "그",
+     "en": "the"
+    },
+    {
+     "t": "신문사는",
+     "r": "sinmunsaneun",
+     "base": "신문사 + 는",
+     "en": "newspaper (company)"
+    },
+    {
+     "t": "오보를",
+     "r": "oboreul",
+     "base": "오보 + 를",
+     "en": "a false report"
+    },
+    {
+     "t": "낸",
+     "r": "naen",
+     "base": "내다",
+     "en": "published",
+     "note": "-(으)ㄴ = past modifier"
+    },
+    {
+     "t": "것에",
+     "r": "geose",
+     "base": "것 + 에",
+     "en": "for (the fact)"
+    },
+    {
+     "t": "대해",
+     "r": "daehae",
+     "base": "대하다",
+     "en": "regarding",
+     "note": "-에 대해 = about"
+    },
+    {
+     "t": "공식적으로",
+     "r": "gongsikjeogeuro",
+     "base": "공식적 + 으로",
+     "en": "officially"
+    },
+    {
+     "t": "사과했다",
+     "r": "sagwahaetda",
+     "base": "사과하다",
+     "en": "apologized"
+    }
+   ],
+   "target": 2
+  },
+  "cloze_options": [
+   "오보를",
+   "배려를",
+   "담보를",
+   "취미를"
+  ],
+  "form": {
+   "q_en": "Which verb means 'to lead to'?",
+   "ko": "확인되지 않은 정보를 보도하면 오보로 ___ 수 있다.",
+   "options": [
+    "이어질",
+    "끼칠",
+    "미칠",
+    "차릴"
+   ],
+   "answer": 0,
+   "why": "N(으)로 이어지다 = 'to lead to N'. 끼치다/미치다 need 영향 or 피해 as object."
+  }
+ },
+ {
+  "id": "L6-075",
+  "day": 15,
+  "slot": 5,
+  "ko": "논조",
+  "roman": "nonjo",
+  "en": "tone (of an argument or article)",
+  "pos": "noun",
+  "ko_meaning": "글이나 말에서 주장을 펴 나가는 방식이나 경향",
+  "ko_meaning_en": "The way or tendency in which an argument is presented in writing or speech",
+  "example": {
+   "ko": "두 신문은 같은 사건을 전혀 다른 논조로 보도했다.",
+   "roman": "Du sinmuneun gateun sageoneul jeonhyeo dareun nonjoro bodohaetda.",
+   "en": "The two newspapers reported the same incident in completely different tones.",
+   "tokens": [
+    {
+     "t": "두",
+     "r": "du",
+     "base": "두",
+     "en": "two"
+    },
+    {
+     "t": "신문은",
+     "r": "sinmuneun",
+     "base": "신문 + 은",
+     "en": "newspapers"
+    },
+    {
+     "t": "같은",
+     "r": "gateun",
+     "base": "같다",
+     "en": "same"
+    },
+    {
+     "t": "사건을",
+     "r": "sageoneul",
+     "base": "사건 + 을",
+     "en": "incident"
+    },
+    {
+     "t": "전혀",
+     "r": "jeonhyeo",
+     "base": "전혀",
+     "en": "completely"
+    },
+    {
+     "t": "다른",
+     "r": "dareun",
+     "base": "다르다",
+     "en": "different"
+    },
+    {
+     "t": "논조로",
+     "r": "nonjoro",
+     "base": "논조 + 로",
+     "en": "in a tone",
+     "note": "(으)로 marks the manner"
+    },
+    {
+     "t": "보도했다",
+     "r": "bodohaetda",
+     "base": "보도하다",
+     "en": "reported"
+    }
+   ],
+   "target": 6
+  },
+  "cloze_options": [
+   "논조로",
+   "담보로",
+   "촉매로",
+   "궤도로"
+  ],
+  "form": {
+   "q_en": "Which verb goes with 논조 ('to keep a tone')?",
+   "ko": "그 신문은 오랫동안 정부에 비판적인 논조를 ___.",
+   "options": [
+    "유지해 왔다",
+    "끼쳐 왔다",
+    "미쳐 왔다",
+    "섭취해 왔다"
+   ],
+   "answer": 0,
+   "why": "논조를 유지하다 (or 견지하다) = 'to keep a tone'. -아/어 오다 shows it has continued until now."
+  }
+ },
+ {
+  "id": "L6-076",
+  "day": 16,
+  "slot": 1,
+  "ko": "감안하다",
+  "roman": "gamanhada",
+  "en": "to take into account",
+  "pos": "verb",
+  "ko_meaning": "여러 사정을 함께 생각하다",
+  "ko_meaning_en": "To think about various circumstances together",
+  "example": {
+   "ko": "물가 상승률을 감안하면 실질 임금은 오히려 줄었다.",
+   "roman": "Mulga sangseungnyureul gamanhamyeon siljil imgeumeun ohiryeo jureotda.",
+   "en": "Taking inflation into account, real wages actually fell.",
+   "tokens": [
+    {
+     "t": "물가",
+     "r": "mulga",
+     "base": "물가",
+     "en": "price"
+    },
+    {
+     "t": "상승률을",
+     "r": "sangseungnyureul",
+     "base": "상승률 + 을",
+     "en": "rise rate",
+     "note": "상승률 is pronounced [상승뉼]"
+    },
+    {
+     "t": "감안하면",
+     "r": "gamanhamyeon",
+     "base": "감안하다",
+     "en": "if (we) take into account",
+     "note": "-(으)면 = if"
+    },
+    {
+     "t": "실질",
+     "r": "siljil",
+     "base": "실질",
+     "en": "real"
+    },
+    {
+     "t": "임금은",
+     "r": "imgeumeun",
+     "base": "임금 + 은",
+     "en": "wages"
+    },
+    {
+     "t": "오히려",
+     "r": "ohiryeo",
+     "base": "오히려",
+     "en": "actually, on the contrary"
+    },
+    {
+     "t": "줄었다",
+     "r": "jureotda",
+     "base": "줄다",
+     "en": "fell"
+    }
+   ],
+   "target": 2
+  },
+  "cloze_options": [
+   "감안하면",
+   "상환하면",
+   "배양하면",
+   "투여하면"
+  ],
+  "form": {
+   "q_en": "Pick the formal pattern 'when one considers'.",
+   "ko": "그의 나이를 감안___ 이번 기록은 매우 놀랍다.",
+   "options": [
+    "할 때",
+    "할 겸",
+    "할 뻔",
+    "할 리"
+   ],
+   "answer": 0,
+   "why": "N을 감안할 때 = 'considering N'. -(으)ㄹ 겸 'also to', -(으)ㄹ 뻔 'nearly', -(으)ㄹ 리 'no way' do not fit."
+  }
+ },
+ {
+  "id": "L6-077",
+  "day": 16,
+  "slot": 2,
+  "ko": "상쇄하다",
+  "roman": "sangswaehada",
+  "en": "to offset; to cancel out",
+  "pos": "verb",
+  "ko_meaning": "반대되는 것이 서로 영향을 주어 효과를 없애다",
+  "ko_meaning_en": "For an opposing thing to cancel out another's effect",
+  "example": {
+   "ko": "수출 증가가 내수 부진을 상쇄하지는 못했다.",
+   "roman": "Suchul jeunggaga naesu bujineul sangswaehajineun motaetda.",
+   "en": "The rise in exports was not enough to offset weak domestic demand.",
+   "tokens": [
+    {
+     "t": "수출",
+     "r": "suchul",
+     "base": "수출",
+     "en": "export"
+    },
+    {
+     "t": "증가가",
+     "r": "jeunggaga",
+     "base": "증가 + 가",
+     "en": "the rise"
+    },
+    {
+     "t": "내수",
+     "r": "naesu",
+     "base": "내수",
+     "en": "domestic demand"
+    },
+    {
+     "t": "부진을",
+     "r": "bujineul",
+     "base": "부진 + 을",
+     "en": "weakness"
+    },
+    {
+     "t": "상쇄하지는",
+     "r": "sangswaehajineun",
+     "base": "상쇄하다",
+     "en": "offset",
+     "note": "-지는 못하다 = not able (enough) to"
+    },
+    {
+     "t": "못했다",
+     "r": "motaetda",
+     "base": "못하다",
+     "en": "could not"
+    }
+   ],
+   "target": 4
+  },
+  "cloze_options": [
+   "상쇄하지는",
+   "배양하지는",
+   "위임하지는",
+   "관측하지는"
+  ],
+  "form": {
+   "q_en": "Pick the form used with 못하다 (long negation).",
+   "ko": "수출 증가가 내수 부진을 상쇄하___ 못했다.",
+   "options": [
+    "지는",
+    "고는",
+    "기는",
+    "게는"
+   ],
+   "answer": 0,
+   "why": "Long negation is -지 못하다; adding 는 (-지는 못하다) stresses 'not enough to'."
+  }
+ },
+ {
+  "id": "L6-078",
+  "day": 16,
+  "slot": 3,
+  "ko": "수렴하다",
+  "roman": "suryeomhada",
+  "en": "to gather (opinions); to converge",
+  "pos": "verb",
+  "ko_meaning": "여러 사람의 의견이나 생각을 모아 하나로 정리하다",
+  "ko_meaning_en": "To collect various people's opinions and bring them together",
+  "example": {
+   "ko": "시는 주민 의견을 수렴하여 공원 조성 계획을 수정했다.",
+   "roman": "Sineun jumin uigyeoneul suryeomhayeo gongwon joseong gyehoegeul sujeonghaetda.",
+   "en": "The city revised its park development plan after gathering residents' opinions.",
+   "tokens": [
+    {
+     "t": "시는",
+     "r": "sineun",
+     "base": "시 + 는",
+     "en": "the city"
+    },
+    {
+     "t": "주민",
+     "r": "jumin",
+     "base": "주민",
+     "en": "residents'"
+    },
+    {
+     "t": "의견을",
+     "r": "uigyeoneul",
+     "base": "의견 + 을",
+     "en": "opinions"
+    },
+    {
+     "t": "수렴하여",
+     "r": "suryeomhayeo",
+     "base": "수렴하다",
+     "en": "gathering",
+     "note": "-여 = written form of -아/어 ('and then')"
+    },
+    {
+     "t": "공원",
+     "r": "gongwon",
+     "base": "공원",
+     "en": "park"
+    },
+    {
+     "t": "조성",
+     "r": "joseong",
+     "base": "조성",
+     "en": "development"
+    },
+    {
+     "t": "계획을",
+     "r": "gyehoegeul",
+     "base": "계획 + 을",
+     "en": "plan"
+    },
+    {
+     "t": "수정했다",
+     "r": "sujeonghaetda",
+     "base": "수정하다",
+     "en": "revised"
+    }
+   ],
+   "target": 3
+  },
+  "cloze_options": [
+   "수렴하여",
+   "배양하여",
+   "투여하여",
+   "상환하여"
+  ],
+  "form": {
+   "q_en": "Pick the form meaning 'for (the purpose of)' before a noun.",
+   "ko": "공청회는 정책에 대한 시민의 의견을 수렴하___ 자리이다.",
+   "options": [
+    "기 위한",
+    "기 때문인",
+    "는 바람에",
+    "자마자"
+   ],
+   "answer": 0,
+   "why": "-기 위한 + noun = 'a ... for doing': 'a forum for gathering opinions'."
+  }
+ },
+ {
+  "id": "L6-079",
+  "day": 16,
+  "slot": 4,
+  "ko": "표방하다",
+  "roman": "pyobanghada",
+  "en": "to profess; to advocate (publicly)",
+  "pos": "verb",
+  "ko_meaning": "어떤 생각이나 주장을 겉으로 내세우다",
+  "ko_meaning_en": "To put forward a principle or claim publicly",
+  "example": {
+   "ko": "그 정당은 친환경 경제를 표방하며 창당되었다.",
+   "roman": "Geu jeongdangeun chinhwangyeong gyeongjereul pyobanghamyeo changdangdoeeotda.",
+   "en": "The party was founded on a platform of an eco-friendly economy.",
+   "tokens": [
+    {
+     "t": "그",
+     "r": "geu",
+     "base": "그",
+     "en": "that"
+    },
+    {
+     "t": "정당은",
+     "r": "jeongdangeun",
+     "base": "정당 + 은",
+     "en": "party"
+    },
+    {
+     "t": "친환경",
+     "r": "chinhwangyeong",
+     "base": "친환경",
+     "en": "eco-friendly"
+    },
+    {
+     "t": "경제를",
+     "r": "gyeongjereul",
+     "base": "경제 + 를",
+     "en": "economy"
+    },
+    {
+     "t": "표방하며",
+     "r": "pyobanghamyeo",
+     "base": "표방하다",
+     "en": "advocating",
+     "note": "-(으)며 = and, while (written)"
+    },
+    {
+     "t": "창당되었다",
+     "r": "changdangdoeeotda",
+     "base": "창당되다",
+     "en": "was founded"
+    }
+   ],
+   "target": 4
+  },
+  "cloze_options": [
+   "표방하며",
+   "섭취하며",
+   "배출하며",
+   "측정하며"
+  ],
+  "form": {
+   "q_en": "Pick the connector that shows contrast.",
+   "ko": "그 기업은 고객 중심 경영을 표방하___ 실제로는 고객의 불만이 많다.",
+   "options": [
+    "지만",
+    "니까",
+    "려고",
+    "도록"
+   ],
+   "answer": 0,
+   "why": "-지만 shows contrast: it professes customer focus, but complaints are many."
+  }
+ },
+ {
+  "id": "L6-080",
+  "day": 16,
+  "slot": 5,
+  "ko": "견지하다",
+  "roman": "gyeonjihada",
+  "en": "to maintain (a position)",
+  "pos": "verb",
+  "ko_meaning": "어떤 의견이나 입장을 굳게 지키다",
+  "ko_meaning_en": "To hold firmly to an opinion or position",
+  "example": {
+   "ko": "정부는 이 문제에 대해 신중한 입장을 견지하고 있다.",
+   "roman": "Jeongbuneun i munjee daehae sinjunghan ipjangeul gyeonjihago itda.",
+   "en": "The government maintains a cautious stance on this issue.",
+   "tokens": [
+    {
+     "t": "정부는",
+     "r": "jeongbuneun",
+     "base": "정부 + 는",
+     "en": "the government"
+    },
+    {
+     "t": "이",
+     "r": "i",
+     "base": "이",
+     "en": "this"
+    },
+    {
+     "t": "문제에",
+     "r": "munjee",
+     "base": "문제 + 에",
+     "en": "issue"
+    },
+    {
+     "t": "대해",
+     "r": "daehae",
+     "base": "대하다",
+     "en": "on",
+     "note": "-에 대해 = about"
+    },
+    {
+     "t": "신중한",
+     "r": "sinjunghan",
+     "base": "신중하다",
+     "en": "cautious"
+    },
+    {
+     "t": "입장을",
+     "r": "ipjangeul",
+     "base": "입장 + 을",
+     "en": "stance"
+    },
+    {
+     "t": "견지하고",
+     "r": "gyeonjihago",
+     "base": "견지하다",
+     "en": "maintaining"
+    },
+    {
+     "t": "있다",
+     "r": "itda",
+     "base": "있다",
+     "en": "is",
+     "note": "-고 있다 = ongoing"
+    }
+   ],
+   "target": 6
+  },
+  "cloze_options": [
+   "견지하고",
+   "배양하고",
+   "투여하고",
+   "섭취하고"
+  ],
+  "form": {
+   "q_en": "Pick the form that can modify the noun 입장.",
+   "ko": "정부는 이 문제에 대해 ___ 입장을 견지하고 있다.",
+   "options": [
+    "신중한",
+    "신중히",
+    "신중하게",
+    "신중함"
+   ],
+   "answer": 0,
+   "why": "A noun needs the modifier form -(으)ㄴ: 신중한 입장. 신중히/신중하게 are adverbs and 신중함 is a noun."
+  }
+ },
+ {
+  "id": "L6-081",
+  "day": 17,
+  "slot": 1,
+  "ko": "도모하다",
+  "roman": "domohada",
+  "en": "to seek; to promote",
+  "pos": "verb",
+  "ko_meaning": "어떤 일을 이루기 위해 방법을 찾고 노력하다",
+  "ko_meaning_en": "To look for ways and work to achieve something",
+  "example": {
+   "ko": "두 나라는 경제 협력을 통해 공동 번영을 도모하기로 했다.",
+   "roman": "Du naraneun gyeongje hyeomnyeogeul tonghae gongdong beonyeongeul domohagiro haetda.",
+   "en": "The two countries agreed to pursue common prosperity through economic cooperation.",
+   "tokens": [
+    {
+     "t": "두",
+     "r": "du",
+     "base": "두",
+     "en": "two"
+    },
+    {
+     "t": "나라는",
+     "r": "naraneun",
+     "base": "나라 + 는",
+     "en": "countries"
+    },
+    {
+     "t": "경제",
+     "r": "gyeongje",
+     "base": "경제",
+     "en": "economic"
+    },
+    {
+     "t": "협력을",
+     "r": "hyeomnyeogeul",
+     "base": "협력 + 을",
+     "en": "cooperation",
+     "note": "협력 is pronounced [혐녁]"
+    },
+    {
+     "t": "통해",
+     "r": "tonghae",
+     "base": "통하다",
+     "en": "through"
+    },
+    {
+     "t": "공동",
+     "r": "gongdong",
+     "base": "공동",
+     "en": "common"
+    },
+    {
+     "t": "번영을",
+     "r": "beonyeongeul",
+     "base": "번영 + 을",
+     "en": "prosperity"
+    },
+    {
+     "t": "도모하기로",
+     "r": "domohagiro",
+     "base": "도모하다",
+     "en": "to pursue",
+     "note": "-기로 하다 = to decide to"
+    },
+    {
+     "t": "했다",
+     "r": "haetda",
+     "base": "하다",
+     "en": "agreed"
+    }
+   ],
+   "target": 7
+  },
+  "cloze_options": [
+   "도모하기로",
+   "저해하기로",
+   "훼손하기로",
+   "박탈하기로"
+  ],
+  "form": {
+   "q_en": "Pick the formal written ending of purpose.",
+   "ko": "두 기관은 상호 발전을 도모하___ 협약을 맺었다.",
+   "options": [
+    "고자",
+    "느라",
+    "더니",
+    "거든"
+   ],
+   "answer": 0,
+   "why": "-고자 is a formal written ending meaning 'in order to'."
+  }
+ },
+ {
+  "id": "L6-082",
+  "day": 17,
+  "slot": 2,
+  "ko": "저해하다",
+  "roman": "jeohaehada",
+  "en": "to hinder",
+  "pos": "verb",
+  "ko_meaning": "어떤 일이 잘되지 못하게 막아 해를 끼치다",
+  "ko_meaning_en": "To keep something from going well and cause harm",
+  "example": {
+   "ko": "과도한 규제는 기업의 혁신을 저해할 수 있다.",
+   "roman": "Gwadohan gyujeneun gieobui hyeoksineul jeohaehal su itda.",
+   "en": "Excessive regulation can hinder corporate innovation.",
+   "tokens": [
+    {
+     "t": "과도한",
+     "r": "gwadohan",
+     "base": "과도하다",
+     "en": "excessive"
+    },
+    {
+     "t": "규제는",
+     "r": "gyujeneun",
+     "base": "규제 + 는",
+     "en": "regulation"
+    },
+    {
+     "t": "기업의",
+     "r": "gieobui",
+     "base": "기업 + 의",
+     "en": "corporate"
+    },
+    {
+     "t": "혁신을",
+     "r": "hyeoksineul",
+     "base": "혁신 + 을",
+     "en": "innovation"
+    },
+    {
+     "t": "저해할",
+     "r": "jeohaehal",
+     "base": "저해하다",
+     "en": "hinder",
+     "note": "-(으)ㄹ 수 있다 = can"
+    },
+    {
+     "t": "수",
+     "r": "su",
+     "base": "수",
+     "en": "(possibility)"
+    },
+    {
+     "t": "있다",
+     "r": "itda",
+     "base": "있다",
+     "en": "can"
+    }
+   ],
+   "target": 4
+  },
+  "cloze_options": [
+   "저해할",
+   "도모할",
+   "증진할",
+   "육성할"
+  ],
+  "form": {
+   "q_en": "Pick the noun in the pattern for possibility.",
+   "ko": "과도한 규제는 혁신을 저해할 ___ 있다.",
+   "options": [
+    "수",
+    "리",
+    "줄",
+    "뿐"
+   ],
+   "answer": 0,
+   "why": "-(으)ㄹ 수 있다 = 'can, may'. -(으)ㄹ 리 is used with 없다, and -(으)ㄹ 줄 with 알다/모르다."
+  }
+ },
+ {
+  "id": "L6-083",
+  "day": 17,
+  "slot": 3,
+  "ko": "훼손하다",
+  "roman": "hwesonhada",
+  "en": "to damage; to impair",
+  "pos": "verb",
+  "ko_meaning": "가치나 명예를 떨어뜨리거나 물건, 자연 등을 망가뜨리다",
+  "ko_meaning_en": "To lower value or honor, or to ruin objects or nature",
+  "example": {
+   "ko": "무분별한 개발은 자연환경을 훼손한다.",
+   "roman": "Mubunbyeolhan gaebareun jayeonhwangyeongeul hwesonhanda.",
+   "en": "Reckless development damages the natural environment.",
+   "tokens": [
+    {
+     "t": "무분별한",
+     "r": "mubunbyeolhan",
+     "base": "무분별하다",
+     "en": "reckless"
+    },
+    {
+     "t": "개발은",
+     "r": "gaebareun",
+     "base": "개발 + 은",
+     "en": "development"
+    },
+    {
+     "t": "자연환경을",
+     "r": "jayeonhwangyeongeul",
+     "base": "자연환경 + 을",
+     "en": "the natural environment"
+    },
+    {
+     "t": "훼손한다",
+     "r": "hwesonhanda",
+     "base": "훼손하다",
+     "en": "damages",
+     "note": "written present -ㄴ다"
+    }
+   ],
+   "target": 3
+  },
+  "cloze_options": [
+   "훼손한다",
+   "보호한다",
+   "보존한다",
+   "복원한다"
+  ],
+  "form": {
+   "q_en": "Honor is the thing damaged. Pick the right form.",
+   "ko": "허위 보도로 그의 명예가 크게 훼손___.",
+   "options": [
+    "되었다",
+    "하였다",
+    "시켰다",
+    "주었다"
+   ],
+   "answer": 0,
+   "why": "명예 is what is damaged, so the passive 훼손되다 is needed. 훼손하다 needs an agent as subject."
+  }
+ },
+ {
+  "id": "L6-084",
+  "day": 17,
+  "slot": 4,
+  "ko": "침해하다",
+  "roman": "chimhaehada",
+  "en": "to infringe; to violate",
+  "pos": "verb",
+  "ko_meaning": "남의 권리나 재산 등을 함부로 해치다",
+  "ko_meaning_en": "To harm another's rights or property without regard",
+  "example": {
+   "ko": "그 앱은 이용자의 사생활을 침해한다는 논란에 휩싸였다.",
+   "roman": "Geu aebeun iyongjaui sasaenghwareul chimhaehandaneun nollane hwipssayeotda.",
+   "en": "The app became embroiled in controversy over claims that it infringes on users' privacy.",
+   "tokens": [
+    {
+     "t": "그",
+     "r": "geu",
+     "base": "그",
+     "en": "that"
+    },
+    {
+     "t": "앱은",
+     "r": "aebeun",
+     "base": "앱 + 은",
+     "en": "app"
+    },
+    {
+     "t": "이용자의",
+     "r": "iyongjaui",
+     "base": "이용자 + 의",
+     "en": "users'"
+    },
+    {
+     "t": "사생활을",
+     "r": "sasaenghwareul",
+     "base": "사생활 + 을",
+     "en": "privacy"
+    },
+    {
+     "t": "침해한다는",
+     "r": "chimhaehandaneun",
+     "base": "침해하다",
+     "en": "that (it) infringes",
+     "note": "-ㄴ다는 = 'that ...' before a noun"
+    },
+    {
+     "t": "논란에",
+     "r": "nollane",
+     "base": "논란 + 에",
+     "en": "in controversy"
+    },
+    {
+     "t": "휩싸였다",
+     "r": "hwipssayeotda",
+     "base": "휩싸이다",
+     "en": "became embroiled"
+    }
+   ],
+   "target": 4
+  },
+  "cloze_options": [
+   "침해한다는",
+   "존중한다는",
+   "보호한다는",
+   "배려한다는"
+  ],
+  "form": {
+   "q_en": "Pick the expression for 'there is a (risk/possibility) of'.",
+   "ko": "이 법은 표현의 자유를 침해할 ___ 있다.",
+   "options": [
+    "소지가",
+    "탓이",
+    "김이",
+    "덕이"
+   ],
+   "answer": 0,
+   "why": "-(으)ㄹ 소지가 있다 = 'there is a risk that it may ...'."
+  }
+ },
+ {
+  "id": "L6-085",
+  "day": 17,
+  "slot": 5,
+  "ko": "박탈하다",
+  "roman": "baktalhada",
+  "en": "to deprive; to strip of",
+  "pos": "verb",
+  "ko_meaning": "남의 재산이나 권리, 자격 등을 강제로 빼앗다",
+  "ko_meaning_en": "To forcibly take away another's property, rights, or qualifications",
+  "example": {
+   "ko": "전쟁은 수많은 아이들의 교육 기회를 박탈했다.",
+   "roman": "Jeonjaengeun sumaneun aideurui gyoyuk gihoereul baktalhaetda.",
+   "en": "The war deprived countless children of the chance to get an education.",
+   "tokens": [
+    {
+     "t": "전쟁은",
+     "r": "jeonjaengeun",
+     "base": "전쟁 + 은",
+     "en": "the war"
+    },
+    {
+     "t": "수많은",
+     "r": "sumaneun",
+     "base": "수많다",
+     "en": "countless"
+    },
+    {
+     "t": "아이들의",
+     "r": "aideurui",
+     "base": "아이 + 들 + 의",
+     "en": "children's"
+    },
+    {
+     "t": "교육",
+     "r": "gyoyuk",
+     "base": "교육",
+     "en": "education"
+    },
+    {
+     "t": "기회를",
+     "r": "gihoereul",
+     "base": "기회 + 를",
+     "en": "chance"
+    },
+    {
+     "t": "박탈했다",
+     "r": "baktalhaetda",
+     "base": "박탈하다",
+     "en": "took away"
+    }
+   ],
+   "target": 5
+  },
+  "cloze_options": [
+   "박탈했다",
+   "제공했다",
+   "확보했다",
+   "확대했다"
+  ],
+  "form": {
+   "q_en": "The athlete lost the medal. Pick the right form.",
+   "ko": "그 선수는 규정 위반으로 메달을 박탈___.",
+   "options": [
+    "당했다",
+    "했다",
+    "시켰다",
+    "되었다"
+   ],
+   "answer": 0,
+   "why": "With the person as subject and the lost thing as object, use -당하다: 메달을 박탈당하다. 박탈되다 would need 메달이."
+  }
+ },
+ {
+  "id": "L6-086",
+  "day": 18,
+  "slot": 1,
+  "ko": "억제하다",
+  "roman": "eokjehada",
+  "en": "to restrain; to curb",
+  "pos": "verb",
+  "ko_meaning": "정도를 넘어 커지지 못하도록 눌러 막다",
+  "ko_meaning_en": "To hold something down so it does not grow beyond a limit",
+  "example": {
+   "ko": "중앙은행은 물가 상승을 억제하기 위해 금리를 올렸다.",
+   "roman": "Jungangeunhaengeun mulga sangseungeul eokjehagi wihae geumnireul ollyeotda.",
+   "en": "The central bank raised interest rates to curb rising prices.",
+   "tokens": [
+    {
+     "t": "중앙은행은",
+     "r": "jungangeunhaengeun",
+     "base": "중앙은행 + 은",
+     "en": "the central bank"
+    },
+    {
+     "t": "물가",
+     "r": "mulga",
+     "base": "물가",
+     "en": "price"
+    },
+    {
+     "t": "상승을",
+     "r": "sangseungeul",
+     "base": "상승 + 을",
+     "en": "rise"
+    },
+    {
+     "t": "억제하기",
+     "r": "eokjehagi",
+     "base": "억제하다",
+     "en": "to curb",
+     "note": "-기 위해 = in order to"
+    },
+    {
+     "t": "위해",
+     "r": "wihae",
+     "base": "위하다",
+     "en": "in order"
+    },
+    {
+     "t": "금리를",
+     "r": "geumnireul",
+     "base": "금리 + 를",
+     "en": "interest rates"
+    },
+    {
+     "t": "올렸다",
+     "r": "ollyeotda",
+     "base": "올리다",
+     "en": "raised"
+    }
+   ],
+   "target": 3
+  },
+  "cloze_options": [
+   "억제하기",
+   "촉진하기",
+   "증진하기",
+   "도모하기"
+  ],
+  "form": {
+   "q_en": "Pick the expression of purpose.",
+   "ko": "중앙은행은 물가 상승을 억제하___ 금리를 올렸다.",
+   "options": [
+    "기 위해",
+    "기 때문에",
+    "는 바람에",
+    "느라고"
+   ],
+   "answer": 0,
+   "why": "-기 위해 gives the purpose: 'raised rates in order to curb'. -기 때문에 gives a reason, -는 바람에 an unexpected cause."
+  }
+ },
+ {
+  "id": "L6-087",
+  "day": 18,
+  "slot": 2,
+  "ko": "근절하다",
+  "roman": "geunjeolhada",
+  "en": "to eradicate; to root out",
+  "pos": "verb",
+  "ko_meaning": "나쁜 것을 뿌리째 없애 버리다",
+  "ko_meaning_en": "To get rid of something bad down to its roots",
+  "example": {
+   "ko": "정부는 공직 사회의 부패를 근절하겠다고 약속했다.",
+   "roman": "Jeongbuneun gongjik sahoeui bupaereul geunjeolhagetdago yaksokaetda.",
+   "en": "The government promised to root out corruption in the public service.",
+   "tokens": [
+    {
+     "t": "정부는",
+     "r": "jeongbuneun",
+     "base": "정부 + 는",
+     "en": "the government"
+    },
+    {
+     "t": "공직",
+     "r": "gongjik",
+     "base": "공직",
+     "en": "public service"
+    },
+    {
+     "t": "사회의",
+     "r": "sahoeui",
+     "base": "사회 + 의",
+     "en": "of the community"
+    },
+    {
+     "t": "부패를",
+     "r": "bupaereul",
+     "base": "부패 + 를",
+     "en": "corruption"
+    },
+    {
+     "t": "근절하겠다고",
+     "r": "geunjeolhagetdago",
+     "base": "근절하다",
+     "en": "that (it) would root out",
+     "note": "-겠다고 quotes a promise"
+    },
+    {
+     "t": "약속했다",
+     "r": "yaksokaetda",
+     "base": "약속하다",
+     "en": "promised"
+    }
+   ],
+   "target": 4
+  },
+  "cloze_options": [
+   "근절하겠다고",
+   "육성하겠다고",
+   "증진하겠다고",
+   "도모하겠다고"
+  ],
+  "form": {
+   "q_en": "Pick the suffix meaning 'entirely, (root) and all'.",
+   "ko": "학교 폭력을 뿌리___ 근절해야 한다.",
+   "options": [
+    "째",
+    "마다",
+    "조차",
+    "처럼"
+   ],
+   "answer": 0,
+   "why": "-째 means 'together with all of it': 뿌리째 'root and all'."
+  }
+ },
+ {
+  "id": "L6-088",
+  "day": 18,
+  "slot": 3,
+  "ko": "엄수하다",
+  "roman": "eomsuhada",
+  "en": "to strictly observe",
+  "pos": "verb",
+  "ko_meaning": "규칙이나 명령, 시간 등을 어기지 않고 꼭 지키다",
+  "ko_meaning_en": "To keep rules, orders, or times without fail",
+  "example": {
+   "ko": "응시자는 시험 시작 시간을 반드시 엄수해야 한다.",
+   "roman": "Eungsijaneun siheom sijak siganeul bandeusi eomsuhaeya handa.",
+   "en": "Test takers must strictly observe the exam start time.",
+   "tokens": [
+    {
+     "t": "응시자는",
+     "r": "eungsijaneun",
+     "base": "응시자 + 는",
+     "en": "test takers"
+    },
+    {
+     "t": "시험",
+     "r": "siheom",
+     "base": "시험",
+     "en": "exam"
+    },
+    {
+     "t": "시작",
+     "r": "sijak",
+     "base": "시작",
+     "en": "start"
+    },
+    {
+     "t": "시간을",
+     "r": "siganeul",
+     "base": "시간 + 을",
+     "en": "time"
+    },
+    {
+     "t": "반드시",
+     "r": "bandeusi",
+     "base": "반드시",
+     "en": "without fail"
+    },
+    {
+     "t": "엄수해야",
+     "r": "eomsuhaeya",
+     "base": "엄수하다",
+     "en": "must strictly observe",
+     "note": "-아/어야 하다 = must"
+    },
+    {
+     "t": "한다",
+     "r": "handa",
+     "base": "하다",
+     "en": "must"
+    }
+   ],
+   "target": 5
+  },
+  "cloze_options": [
+   "엄수해야",
+   "상쇄해야",
+   "배양해야",
+   "추출해야"
+  ],
+  "form": {
+   "q_en": "Pick the formal written request used in notices.",
+   "ko": "회의 시간을 엄수하여 ___.",
+   "options": [
+    "주시기 바랍니다",
+    "주시기 바래요",
+    "주었구나",
+    "주던데"
+   ],
+   "answer": 0,
+   "why": "-아/어 주시기 바랍니다 is the formal request in notices. 바래요 is nonstandard (바라요), and the others are not requests."
+  }
+ },
+ {
+  "id": "L6-089",
+  "day": 18,
+  "slot": 4,
+  "ko": "준수하다",
+  "roman": "junsuhada",
+  "en": "to comply with; to observe",
+  "pos": "verb",
+  "ko_meaning": "법이나 규칙 등을 그대로 따라 지키다",
+  "ko_meaning_en": "To follow and keep laws or rules as they are",
+  "example": {
+   "ko": "이 공장은 안전 수칙을 철저히 준수하고 있다.",
+   "roman": "I gongjangeun anjeon suchigeul cheoljeohi junsuhago itda.",
+   "en": "This factory strictly complies with safety rules.",
+   "tokens": [
+    {
+     "t": "이",
+     "r": "i",
+     "base": "이",
+     "en": "this"
+    },
+    {
+     "t": "공장은",
+     "r": "gongjangeun",
+     "base": "공장 + 은",
+     "en": "factory"
+    },
+    {
+     "t": "안전",
+     "r": "anjeon",
+     "base": "안전",
+     "en": "safety"
+    },
+    {
+     "t": "수칙을",
+     "r": "suchigeul",
+     "base": "수칙 + 을",
+     "en": "rules"
+    },
+    {
+     "t": "철저히",
+     "r": "cheoljeohi",
+     "base": "철저히",
+     "en": "strictly"
+    },
+    {
+     "t": "준수하고",
+     "r": "junsuhago",
+     "base": "준수하다",
+     "en": "complying with"
+    },
+    {
+     "t": "있다",
+     "r": "itda",
+     "base": "있다",
+     "en": "is",
+     "note": "-고 있다 = ongoing"
+    }
+   ],
+   "target": 5
+  },
+  "cloze_options": [
+   "준수하고",
+   "위반하고",
+   "훼손하고",
+   "침해하고"
+  ],
+  "form": {
+   "q_en": "Pick the particle that 준수하다 takes.",
+   "ko": "모든 직원은 회사의 보안 규정___ 준수해야 한다.",
+   "options": [
+    "을",
+    "에",
+    "이",
+    "와"
+   ],
+   "answer": 0,
+   "why": "준수하다 is transitive: 규정을 준수하다. (Compare 규정에 따르다, which takes 에.)"
+  }
+ },
+ {
+  "id": "L6-090",
+  "day": 18,
+  "slot": 5,
+  "ko": "이행하다",
+  "roman": "ihaenghada",
+  "en": "to fulfill; to carry out",
+  "pos": "verb",
+  "ko_meaning": "약속이나 계약, 의무 등을 실제로 행하다",
+  "ko_meaning_en": "To actually carry out a promise, contract, or duty",
+  "example": {
+   "ko": "시민들은 대통령이 선거 공약을 제대로 이행하기를 바란다.",
+   "roman": "Simindeureun daetongnyeongi seongeo gongyageul jedaero ihaenghagireul baranda.",
+   "en": "Citizens hope that the president will properly fulfill his campaign promises.",
+   "tokens": [
+    {
+     "t": "시민들은",
+     "r": "simindeureun",
+     "base": "시민 + 들 + 은",
+     "en": "citizens"
+    },
+    {
+     "t": "대통령이",
+     "r": "daetongnyeongi",
+     "base": "대통령 + 이",
+     "en": "the president",
+     "note": "대통령 is pronounced [대통녕]"
+    },
+    {
+     "t": "선거",
+     "r": "seongeo",
+     "base": "선거",
+     "en": "campaign"
+    },
+    {
+     "t": "공약을",
+     "r": "gongyageul",
+     "base": "공약 + 을",
+     "en": "promises"
+    },
+    {
+     "t": "제대로",
+     "r": "jedaero",
+     "base": "제대로",
+     "en": "properly"
+    },
+    {
+     "t": "이행하기를",
+     "r": "ihaenghagireul",
+     "base": "이행하다",
+     "en": "to fulfill",
+     "note": "-기를 바라다 = to hope that"
+    },
+    {
+     "t": "바란다",
+     "r": "baranda",
+     "base": "바라다",
+     "en": "hope"
+    }
+   ],
+   "target": 5
+  },
+  "cloze_options": [
+   "이행하기를",
+   "위반하기를",
+   "훼손하기를",
+   "저해하기를"
+  ],
+  "form": {
+   "q_en": "Pick the right negation for a statement.",
+   "ko": "그 회사는 계약 내용을 이행하지 ___ 손해를 배상하게 되었다.",
+   "options": [
+    "않아",
+    "말아",
+    "마라",
+    "않자고"
+   ],
+   "answer": 0,
+   "why": "-지 않다 is the normal negation in statements. -지 말다 is only for commands and suggestions."
+  }
+ },
+ {
+  "id": "L6-091",
+  "day": 19,
+  "slot": 1,
+  "ko": "직시하다",
+  "roman": "jiksihada",
+  "en": "to face squarely",
+  "pos": "verb",
+  "ko_meaning": "어떤 일이나 현실을 피하지 않고 똑바로 보다",
+  "ko_meaning_en": "To look straight at a situation or reality without avoiding it",
+  "example": {
+   "ko": "우리는 저출산이라는 현실을 직시해야 한다.",
+   "roman": "Urineun jeochulsaniraneun hyeonsireul jiksihaeya handa.",
+   "en": "We must squarely face the reality of the low birth rate.",
+   "tokens": [
+    {
+     "t": "우리는",
+     "r": "urineun",
+     "base": "우리 + 는",
+     "en": "we"
+    },
+    {
+     "t": "저출산이라는",
+     "r": "jeochulsaniraneun",
+     "base": "저출산 + 이라는",
+     "en": "of the low birth rate",
+     "note": "N(이)라는 N = 'the N called ...'"
+    },
+    {
+     "t": "현실을",
+     "r": "hyeonsireul",
+     "base": "현실 + 을",
+     "en": "reality"
+    },
+    {
+     "t": "직시해야",
+     "r": "jiksihaeya",
+     "base": "직시하다",
+     "en": "must face squarely",
+     "note": "직시 is pronounced [직씨]"
+    },
+    {
+     "t": "한다",
+     "r": "handa",
+     "base": "하다",
+     "en": "must"
+    }
+   ],
+   "target": 3
+  },
+  "cloze_options": [
+   "직시해야",
+   "간과해야",
+   "경시해야",
+   "등한시해야"
+  ],
+  "form": {
+   "q_en": "Pick the ending meaning 'only if / only by'.",
+   "ko": "현실을 직시하___ 문제를 해결할 수 있다.",
+   "options": [
+    "여야만",
+    "느라고",
+    "더니",
+    "던데"
+   ],
+   "answer": 0,
+   "why": "-아/어야만 = 'only if': only by facing reality can the problem be solved."
+  }
+ },
+ {
+  "id": "L6-092",
+  "day": 19,
+  "slot": 2,
+  "ko": "간과하다",
+  "roman": "gangwahada",
+  "en": "to overlook",
+  "pos": "verb",
+  "ko_meaning": "대충 보아 넘기거나 중요한 것을 알아차리지 못하다",
+  "ko_meaning_en": "To pass over something carelessly or fail to notice something important",
+  "example": {
+   "ko": "이 연구는 문화적 차이라는 중요한 변수를 간과했다.",
+   "roman": "I yeonguneun munhwajeok chairaneun jungyohan byeonsureul gangwahaetda.",
+   "en": "This study overlooked an important variable: cultural differences.",
+   "tokens": [
+    {
+     "t": "이",
+     "r": "i",
+     "base": "이",
+     "en": "this"
+    },
+    {
+     "t": "연구는",
+     "r": "yeonguneun",
+     "base": "연구 + 는",
+     "en": "study"
+    },
+    {
+     "t": "문화적",
+     "r": "munhwajeok",
+     "base": "문화적",
+     "en": "cultural"
+    },
+    {
+     "t": "차이라는",
+     "r": "chairaneun",
+     "base": "차이 + 이라는",
+     "en": "(called) differences",
+     "note": "-(이)라는 shortens to -라는 after a vowel"
+    },
+    {
+     "t": "중요한",
+     "r": "jungyohan",
+     "base": "중요하다",
+     "en": "important"
+    },
+    {
+     "t": "변수를",
+     "r": "byeonsureul",
+     "base": "변수 + 를",
+     "en": "variable"
+    },
+    {
+     "t": "간과했다",
+     "r": "gangwahaetda",
+     "base": "간과하다",
+     "en": "overlooked"
+    }
+   ],
+   "target": 6
+  },
+  "cloze_options": [
+   "간과했다",
+   "중시했다",
+   "고려했다",
+   "반영했다"
+  ],
+  "form": {
+   "q_en": "Pick the pattern meaning 'must not'.",
+   "ko": "이 문제는 결코 간과___ 안 될 사안이다.",
+   "options": [
+    "해서는",
+    "해야",
+    "하고는",
+    "하면서"
+   ],
+   "answer": 0,
+   "why": "-아서는/어서는 안 되다 = 'must not': this must never be overlooked."
+  }
+ },
+ {
+  "id": "L6-093",
+  "day": 19,
+  "slot": 3,
+  "ko": "등한시하다",
+  "roman": "deunghansihada",
+  "en": "to neglect",
+  "pos": "verb",
+  "ko_meaning": "관심을 두지 않고 소홀하게 대하다",
+  "ko_meaning_en": "To pay little attention to something and treat it carelessly",
+  "example": {
+   "ko": "성적만 중시하는 교육은 인성 교육을 등한시하기 쉽다.",
+   "roman": "Seongjeongman jungsihaneun gyoyugeun inseong gyoyugeul deunghansihagi swipda.",
+   "en": "Education that values only grades tends to neglect character education.",
+   "tokens": [
+    {
+     "t": "성적만",
+     "r": "seongjeongman",
+     "base": "성적 + 만",
+     "en": "only grades",
+     "note": "성적만 is pronounced [성정만]"
+    },
+    {
+     "t": "중시하는",
+     "r": "jungsihaneun",
+     "base": "중시하다",
+     "en": "valuing"
+    },
+    {
+     "t": "교육은",
+     "r": "gyoyugeun",
+     "base": "교육 + 은",
+     "en": "education"
+    },
+    {
+     "t": "인성",
+     "r": "inseong",
+     "base": "인성",
+     "en": "character"
+    },
+    {
+     "t": "교육을",
+     "r": "gyoyugeul",
+     "base": "교육 + 을",
+     "en": "education"
+    },
+    {
+     "t": "등한시하기",
+     "r": "deunghansihagi",
+     "base": "등한시하다",
+     "en": "to neglect",
+     "note": "-기 쉽다 = tends to, easily"
+    },
+    {
+     "t": "쉽다",
+     "r": "swipda",
+     "base": "쉽다",
+     "en": "is easy"
+    }
+   ],
+   "target": 5
+  },
+  "cloze_options": [
+   "등한시하기",
+   "중시하기",
+   "직시하기",
+   "육성하기"
+  ],
+  "form": {
+   "q_en": "Pick the ending that warns of a bad result.",
+   "ko": "건강 관리를 등한시하___ 결국 큰 병을 얻을 수 있다.",
+   "options": [
+    "다가는",
+    "느라고",
+    "고자",
+    "건만"
+   ],
+   "answer": 0,
+   "why": "-다가는 warns that if an action continues, something bad will follow."
+  }
+ },
+ {
+  "id": "L6-094",
+  "day": 19,
+  "slot": 4,
+  "ko": "경시하다",
+  "roman": "gyeongsihada",
+  "en": "to make light of; to disregard",
+  "pos": "verb",
+  "ko_meaning": "대수롭지 않게 보거나 가볍게 여기다",
+  "ko_meaning_en": "To regard something as unimportant or treat it lightly",
+  "example": {
+   "ko": "안전을 경시하는 태도가 결국 대형 사고로 이어졌다.",
+   "roman": "Anjeoneul gyeongsihaneun taedoga gyeolguk daehyeong sagoro ieojeotda.",
+   "en": "An attitude of making light of safety eventually led to a major accident.",
+   "tokens": [
+    {
+     "t": "안전을",
+     "r": "anjeoneul",
+     "base": "안전 + 을",
+     "en": "safety"
+    },
+    {
+     "t": "경시하는",
+     "r": "gyeongsihaneun",
+     "base": "경시하다",
+     "en": "making light of"
+    },
+    {
+     "t": "태도가",
+     "r": "taedoga",
+     "base": "태도 + 가",
+     "en": "attitude"
+    },
+    {
+     "t": "결국",
+     "r": "gyeolguk",
+     "base": "결국",
+     "en": "eventually"
+    },
+    {
+     "t": "대형",
+     "r": "daehyeong",
+     "base": "대형",
+     "en": "major"
+    },
+    {
+     "t": "사고로",
+     "r": "sagoro",
+     "base": "사고 + 로",
+     "en": "to an accident",
+     "note": "N(으)로 이어지다 = to lead to N"
+    },
+    {
+     "t": "이어졌다",
+     "r": "ieojeotda",
+     "base": "이어지다",
+     "en": "led"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "경시하는",
+   "중시하는",
+   "존중하는",
+   "준수하는"
+  ],
+  "form": {
+   "q_en": "Pick the ending for an action that turned out badly.",
+   "ko": "그는 상대 팀을 경시하___ 결국 경기에서 패하고 말았다.",
+   "options": [
+    "다가",
+    "고자",
+    "려면",
+    "도록"
+   ],
+   "answer": 0,
+   "why": "-다가 shows an ongoing action that led to an unexpected result: 'underestimated the team and ended up losing'."
+  }
+ },
+ {
+  "id": "L6-095",
+  "day": 19,
+  "slot": 5,
+  "ko": "중시하다",
+  "roman": "jungsihada",
+  "en": "to value; to place importance on",
+  "pos": "verb",
+  "ko_meaning": "가볍게 여기지 않고 매우 중요하게 여기다",
+  "ko_meaning_en": "To regard something as very important",
+  "example": {
+   "ko": "최근 기업들은 지원자의 경력보다 잠재력을 더 중시한다.",
+   "roman": "Choegeun gieopdeureun jiwonjaui gyeongnyeokboda jamjaeryeogeul deo jungsihanda.",
+   "en": "These days, companies value applicants' potential more than their experience.",
+   "tokens": [
+    {
+     "t": "최근",
+     "r": "choegeun",
+     "base": "최근",
+     "en": "these days"
+    },
+    {
+     "t": "기업들은",
+     "r": "gieopdeureun",
+     "base": "기업 + 들 + 은",
+     "en": "companies"
+    },
+    {
+     "t": "지원자의",
+     "r": "jiwonjaui",
+     "base": "지원자 + 의",
+     "en": "applicants'"
+    },
+    {
+     "t": "경력보다",
+     "r": "gyeongnyeokboda",
+     "base": "경력 + 보다",
+     "en": "than experience",
+     "note": "경력 is pronounced [경녁]"
+    },
+    {
+     "t": "잠재력을",
+     "r": "jamjaeryeogeul",
+     "base": "잠재력 + 을",
+     "en": "potential"
+    },
+    {
+     "t": "더",
+     "r": "deo",
+     "base": "더",
+     "en": "more"
+    },
+    {
+     "t": "중시한다",
+     "r": "jungsihanda",
+     "base": "중시하다",
+     "en": "value"
+    }
+   ],
+   "target": 6
+  },
+  "cloze_options": [
+   "중시한다",
+   "경시한다",
+   "간과한다",
+   "박탈한다"
+  ],
+  "form": {
+   "q_en": "Pick the particle meaning 'than'.",
+   "ko": "기업들은 지원자의 경력___ 잠재력을 더 중시한다.",
+   "options": [
+    "보다",
+    "만큼",
+    "처럼",
+    "마다"
+   ],
+   "answer": 0,
+   "why": "보다 marks what is compared against: 'more than experience'."
+  }
+ },
+ {
+  "id": "L6-096",
+  "day": 20,
+  "slot": 1,
+  "ko": "고취하다",
+  "roman": "gochwihada",
+  "en": "to inspire; to instill",
+  "pos": "verb",
+  "ko_meaning": "어떤 생각이나 의욕 등을 북돋아 일으키다",
+  "ko_meaning_en": "To stir up and encourage ideas or motivation",
+  "example": {
+   "ko": "이번 캠페인은 국민들의 애국심을 고취하는 데 목적이 있다.",
+   "roman": "Ibeon kaempeineun gungmindeurui aeguksimeul gochwihaneun de mokjeogi itda.",
+   "en": "This campaign aims to instill patriotism in the people.",
+   "tokens": [
+    {
+     "t": "이번",
+     "r": "ibeon",
+     "base": "이번",
+     "en": "this"
+    },
+    {
+     "t": "캠페인은",
+     "r": "kaempeineun",
+     "base": "캠페인 + 은",
+     "en": "campaign"
+    },
+    {
+     "t": "국민들의",
+     "r": "gungmindeurui",
+     "base": "국민 + 들 + 의",
+     "en": "the people's",
+     "note": "국민 is pronounced [궁민]"
+    },
+    {
+     "t": "애국심을",
+     "r": "aeguksimeul",
+     "base": "애국심 + 을",
+     "en": "patriotism"
+    },
+    {
+     "t": "고취하는",
+     "r": "gochwihaneun",
+     "base": "고취하다",
+     "en": "instilling"
+    },
+    {
+     "t": "데",
+     "r": "de",
+     "base": "데",
+     "en": "in",
+     "note": "-는 데 목적이 있다 = its aim lies in"
+    },
+    {
+     "t": "목적이",
+     "r": "mokjeogi",
+     "base": "목적 + 이",
+     "en": "aim"
+    },
+    {
+     "t": "있다",
+     "r": "itda",
+     "base": "있다",
+     "en": "lies"
+    }
+   ],
+   "target": 4
+  },
+  "cloze_options": [
+   "고취하는",
+   "억제하는",
+   "근절하는",
+   "경시하는"
+  ],
+  "form": {
+   "q_en": "Pick the particle before 위한 ('for N').",
+   "ko": "애국심 고취___ 위한 행사가 열렸다.",
+   "options": [
+    "를",
+    "에",
+    "이",
+    "와"
+   ],
+   "answer": 0,
+   "why": "N을/를 위한 = 'for N': 고취를 위한 행사 'an event to instill'."
+  }
+ },
+ {
+  "id": "L6-097",
+  "day": 20,
+  "slot": 2,
+  "ko": "함양하다",
+  "roman": "hamyanghada",
+  "en": "to cultivate (character, skills)",
+  "pos": "verb",
+  "ko_meaning": "능력이나 품성 등을 기르고 닦다",
+  "ko_meaning_en": "To build up and refine abilities or character",
+  "example": {
+   "ko": "독서는 비판적 사고력을 함양하는 데 도움이 된다.",
+   "roman": "Dokseoneun bipanjeok sagoryeogeul hamyanghaneun de doumi doenda.",
+   "en": "Reading helps cultivate critical thinking skills.",
+   "tokens": [
+    {
+     "t": "독서는",
+     "r": "dokseoneun",
+     "base": "독서 + 는",
+     "en": "reading"
+    },
+    {
+     "t": "비판적",
+     "r": "bipanjeok",
+     "base": "비판적",
+     "en": "critical"
+    },
+    {
+     "t": "사고력을",
+     "r": "sagoryeogeul",
+     "base": "사고력 + 을",
+     "en": "thinking skills"
+    },
+    {
+     "t": "함양하는",
+     "r": "hamyanghaneun",
+     "base": "함양하다",
+     "en": "cultivating"
+    },
+    {
+     "t": "데",
+     "r": "de",
+     "base": "데",
+     "en": "in",
+     "note": "-는 데 도움이 되다 = to help in doing"
+    },
+    {
+     "t": "도움이",
+     "r": "doumi",
+     "base": "도움 + 이",
+     "en": "help"
+    },
+    {
+     "t": "된다",
+     "r": "doenda",
+     "base": "되다",
+     "en": "is"
+    }
+   ],
+   "target": 3
+  },
+  "cloze_options": [
+   "함양하는",
+   "박탈하는",
+   "훼손하는",
+   "저해하는"
+  ],
+  "form": {
+   "q_en": "Pick the particle in 'aim at N'.",
+   "ko": "학교 교육은 학생들의 시민 의식 함양___ 목표로 한다.",
+   "options": [
+    "을",
+    "이",
+    "에",
+    "과"
+   ],
+   "answer": 0,
+   "why": "N을 목표로 하다 = 'to aim at N': the aim takes 을."
+  }
+ },
+ {
+  "id": "L6-098",
+  "day": 20,
+  "slot": 3,
+  "ko": "계발하다",
+  "roman": "gyebalhada",
+  "en": "to develop (abilities, talents)",
+  "pos": "verb",
+  "ko_meaning": "숨어 있는 재능이나 능력 등을 일깨워 키우다",
+  "ko_meaning_en": "To awaken and develop hidden talents or abilities",
+  "example": {
+   "ko": "아이들의 창의력을 계발하기 위해서는 다양한 경험이 필요하다.",
+   "roman": "Aideurui changuiryeogeul gyebalhagi wihaeseoneun dayanghan gyeongheomi piryohada.",
+   "en": "Children need a variety of experiences to develop their creativity.",
+   "tokens": [
+    {
+     "t": "아이들의",
+     "r": "aideurui",
+     "base": "아이 + 들 + 의",
+     "en": "children's"
+    },
+    {
+     "t": "창의력을",
+     "r": "changuiryeogeul",
+     "base": "창의력 + 을",
+     "en": "creativity"
+    },
+    {
+     "t": "계발하기",
+     "r": "gyebalhagi",
+     "base": "계발하다",
+     "en": "to develop",
+     "note": "-기 위해서 = in order to"
+    },
+    {
+     "t": "위해서는",
+     "r": "wihaeseoneun",
+     "base": "위하다",
+     "en": "in order",
+     "note": "는 adds contrast/emphasis"
+    },
+    {
+     "t": "다양한",
+     "r": "dayanghan",
+     "base": "다양하다",
+     "en": "various"
+    },
+    {
+     "t": "경험이",
+     "r": "gyeongheomi",
+     "base": "경험 + 이",
+     "en": "experiences"
+    },
+    {
+     "t": "필요하다",
+     "r": "piryohada",
+     "base": "필요하다",
+     "en": "are needed"
+    }
+   ],
+   "target": 2
+  },
+  "cloze_options": [
+   "계발하기",
+   "경시하기",
+   "억제하기",
+   "박탈하기"
+  ],
+  "form": {
+   "q_en": "계발 or 개발? Pick the word for making a new product.",
+   "ko": "그 제약 회사는 새로운 치료제를 ___했다.",
+   "options": [
+    "개발",
+    "계발",
+    "함양",
+    "고취"
+   ],
+   "answer": 0,
+   "why": "개발 is used for creating products or technology. 계발 is for drawing out abilities and talents."
+  }
+ },
+ {
+  "id": "L6-099",
+  "day": 20,
+  "slot": 4,
+  "ko": "증진하다",
+  "roman": "jeungjinhada",
+  "en": "to enhance; to promote",
+  "pos": "verb",
+  "ko_meaning": "건강이나 이익, 이해 등을 점점 더 좋게 하다",
+  "ko_meaning_en": "To gradually improve health, benefits, understanding, etc.",
+  "example": {
+   "ko": "규칙적인 운동은 건강을 증진하는 가장 좋은 방법이다.",
+   "roman": "Gyuchikjeogin undongeun geongangeul jeungjinhaneun gajang joeun bangbeobida.",
+   "en": "Regular exercise is the best way to promote health.",
+   "tokens": [
+    {
+     "t": "규칙적인",
+     "r": "gyuchikjeogin",
+     "base": "규칙적 + 이다",
+     "en": "regular"
+    },
+    {
+     "t": "운동은",
+     "r": "undongeun",
+     "base": "운동 + 은",
+     "en": "exercise"
+    },
+    {
+     "t": "건강을",
+     "r": "geongangeul",
+     "base": "건강 + 을",
+     "en": "health"
+    },
+    {
+     "t": "증진하는",
+     "r": "jeungjinhaneun",
+     "base": "증진하다",
+     "en": "promoting"
+    },
+    {
+     "t": "가장",
+     "r": "gajang",
+     "base": "가장",
+     "en": "the most"
+    },
+    {
+     "t": "좋은",
+     "r": "joeun",
+     "base": "좋다",
+     "en": "good"
+    },
+    {
+     "t": "방법이다",
+     "r": "bangbeobida",
+     "base": "방법 + 이다",
+     "en": "is the way"
+    }
+   ],
+   "target": 3
+  },
+  "cloze_options": [
+   "증진하는",
+   "훼손하는",
+   "박탈하는",
+   "경시하는"
+  ],
+  "form": {
+   "q_en": "Which verb goes with 상호 이해 ('to promote understanding')?",
+   "ko": "두 나라는 상호 이해를 ___ 위해 문화 교류를 확대했다.",
+   "options": [
+    "증진하기",
+    "섭취하기",
+    "배출하기",
+    "발급하기"
+   ],
+   "answer": 0,
+   "why": "이해, 건강 and 복지 go with 증진하다 'to promote'."
+  }
+ },
+ {
+  "id": "L6-100",
+  "day": 20,
+  "slot": 5,
+  "ko": "육성하다",
+  "roman": "yukseonghada",
+  "en": "to foster; to nurture",
+  "pos": "verb",
+  "ko_meaning": "사람이나 산업 등을 길러 키우다",
+  "ko_meaning_en": "To raise and develop people or industries",
+  "example": {
+   "ko": "그 대학은 인공지능 분야의 전문 인력을 육성하고 있다.",
+   "roman": "Geu daehageun ingongjineung bunyaui jeonmun illyeogeul yukseonghago itda.",
+   "en": "The university is training specialists in the field of artificial intelligence.",
+   "tokens": [
+    {
+     "t": "그",
+     "r": "geu",
+     "base": "그",
+     "en": "that"
+    },
+    {
+     "t": "대학은",
+     "r": "daehageun",
+     "base": "대학 + 은",
+     "en": "university"
+    },
+    {
+     "t": "인공지능",
+     "r": "ingongjineung",
+     "base": "인공지능",
+     "en": "artificial intelligence"
+    },
+    {
+     "t": "분야의",
+     "r": "bunyaui",
+     "base": "분야 + 의",
+     "en": "field's"
+    },
+    {
+     "t": "전문",
+     "r": "jeonmun",
+     "base": "전문",
+     "en": "specialist"
+    },
+    {
+     "t": "인력을",
+     "r": "illyeogeul",
+     "base": "인력 + 을",
+     "en": "workforce",
+     "note": "인력 is pronounced [일력]"
+    },
+    {
+     "t": "육성하고",
+     "r": "yukseonghago",
+     "base": "육성하다",
+     "en": "fostering",
+     "note": "육성 is pronounced [육썽]"
+    },
+    {
+     "t": "있다",
+     "r": "itda",
+     "base": "있다",
+     "en": "is",
+     "note": "-고 있다 = ongoing"
+    }
+   ],
+   "target": 6
+  },
+  "cloze_options": [
+   "육성하고",
+   "억제하고",
+   "경시하고",
+   "근절하고"
+  ],
+  "form": {
+   "q_en": "Pick the particle in 'develop A into B'.",
+   "ko": "정부는 반도체를 미래 핵심 산업___ 육성할 방침이다.",
+   "options": [
+    "으로",
+    "에",
+    "을",
+    "과"
+   ],
+   "answer": 0,
+   "why": "A를 B(으)로 육성하다 = 'to develop A into B': (으)로 marks the result."
+  }
+ }
+]

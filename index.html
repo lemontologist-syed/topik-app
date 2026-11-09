@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>TOPIK Daily Five</title>
+  <meta name="description" content="Five Korean words a day, one at a time, with games, level exams and practice.">
+  <meta name="theme-color" content="#f6f3ee" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#16181d" media="(prefers-color-scheme: dark)">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="TOPIK 5">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/png" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <button class="back" id="backBtn" data-action="back" hidden aria-label="Back">‹</button>
+    <h1 id="title">TOPIK Daily Five</h1>
+    <span class="streak" id="streak" title="Days in a row"></span>
+  </header>
+
+  <main id="main" aria-live="polite"></main>
+
+  <nav class="tabs" aria-label="Sections">
+    <button data-tab="today" class="on"><span class="ico">☀︎</span><span>Today</span></button>
+    <button data-tab="words"><span class="ico">가</span><span>Words</span></button>
+    <button data-tab="practice"><span class="ico">◎</span><span>Practice</span></button>
+    <button data-tab="exam"><span class="ico">✎</span><span>Exam</span></button>
+    <button data-tab="me"><span class="ico">☺︎</span><span>Me</span></button>
+  </nav>
+
+  <div class="toast" id="toast" role="status" hidden></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

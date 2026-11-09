@@ -1,0 +1,2888 @@
+[
+ {
+  "id": "L1-151",
+  "day": 31,
+  "slot": 1,
+  "ko": "봄",
+  "roman": "bom",
+  "en": "spring",
+  "pos": "noun",
+  "ko_meaning": "겨울 다음에 오는 따뜻한 계절",
+  "ko_meaning_en": "The warm season that comes after winter",
+  "example": {
+   "ko": "봄에 꽃이 많아요.",
+   "roman": "Bome kkochi manayo.",
+   "en": "There are a lot of flowers in spring.",
+   "tokens": [
+    {
+     "t": "봄에",
+     "r": "bome",
+     "base": "봄 + 에",
+     "en": "in spring",
+     "note": "에 marks the time"
+    },
+    {
+     "t": "꽃이",
+     "r": "kkochi",
+     "base": "꽃 + 이",
+     "en": "flowers",
+     "note": "이 marks the subject after a consonant"
+    },
+    {
+     "t": "많아요",
+     "r": "manayo",
+     "base": "많다",
+     "en": "there are a lot",
+     "note": "the ㅎ in 많 is silent here"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "봄에",
+   "겨울에",
+   "바다에",
+   "컵에"
+  ],
+  "form": {
+   "q_en": "Pick the particle that means 'in (a time)'.",
+   "ko": "봄___ 꽃이 많아요.",
+   "options": [
+    "에",
+    "을",
+    "가",
+    "에서"
+   ],
+   "answer": 0,
+   "why": "에 marks the time when something happens. 에서 is for the place of an action, and 을/가 do not fit here."
+  }
+ },
+ {
+  "id": "L1-152",
+  "day": 31,
+  "slot": 2,
+  "ko": "여름",
+  "roman": "yeoreum",
+  "en": "summer",
+  "pos": "noun",
+  "ko_meaning": "봄 다음에 오는 아주 더운 계절",
+  "ko_meaning_en": "The very hot season that comes after spring",
+  "example": {
+   "ko": "여름에는 수박이 맛있어요.",
+   "roman": "Yeoreumeneun subagi masisseoyo.",
+   "en": "Watermelon is delicious in summer.",
+   "tokens": [
+    {
+     "t": "여름에는",
+     "r": "yeoreumeneun",
+     "base": "여름 + 에 + 는",
+     "en": "in summer",
+     "note": "에 marks a time, 는 makes it the topic"
+    },
+    {
+     "t": "수박이",
+     "r": "subagi",
+     "base": "수박 + 이",
+     "en": "watermelon",
+     "note": "이 marks the subject"
+    },
+    {
+     "t": "맛있어요",
+     "r": "masisseoyo",
+     "base": "맛있다",
+     "en": "is delicious",
+     "note": "present tense, polite"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "여름에는",
+   "귀에는",
+   "컵에는",
+   "침대에는"
+  ],
+  "form": {
+   "q_en": "Pick the ending for 'in summer' (a time).",
+   "ko": "여름___ 수박이 맛있어요.",
+   "options": [
+    "에는",
+    "에서는",
+    "을",
+    "이"
+   ],
+   "answer": 0,
+   "why": "에 marks a time such as a season, and 는 makes it the topic. 에서 marks where an action happens, not when."
+  }
+ },
+ {
+  "id": "L1-153",
+  "day": 31,
+  "slot": 3,
+  "ko": "가을",
+  "roman": "gaeul",
+  "en": "autumn; fall",
+  "pos": "noun",
+  "ko_meaning": "여름 다음에 오는 시원한 계절",
+  "ko_meaning_en": "The cool season that comes after summer",
+  "example": {
+   "ko": "가을에 산에 가고 싶어요.",
+   "roman": "Gaeure sane gago sipeoyo.",
+   "en": "I want to go to the mountains in autumn.",
+   "tokens": [
+    {
+     "t": "가을에",
+     "r": "gaeure",
+     "base": "가을 + 에",
+     "en": "in autumn",
+     "note": "에 marks the time"
+    },
+    {
+     "t": "산에",
+     "r": "sane",
+     "base": "산 + 에",
+     "en": "to the mountains",
+     "note": "에 marks where you go"
+    },
+    {
+     "t": "가고",
+     "r": "gago",
+     "base": "가다",
+     "en": "go",
+     "note": "-고 싶어요 = want to"
+    },
+    {
+     "t": "싶어요",
+     "r": "sipeoyo",
+     "base": "싶다",
+     "en": "want"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "가을에",
+   "귀에",
+   "컵에",
+   "침대에"
+  ],
+  "form": {
+   "q_en": "Pick the form that completes 'want to go'.",
+   "ko": "가을에 산에 ___ 싶어요.",
+   "options": [
+    "가고",
+    "가요",
+    "가서",
+    "갔고"
+   ],
+   "answer": 0,
+   "why": "To say 'want to', add -고 to the verb stem and then 싶어요: 가다 → 가고 싶어요."
+  }
+ },
+ {
+  "id": "L1-154",
+  "day": 31,
+  "slot": 4,
+  "ko": "겨울",
+  "roman": "gyeoul",
+  "en": "winter",
+  "pos": "noun",
+  "ko_meaning": "가을 다음에 오는 아주 추운 계절",
+  "ko_meaning_en": "The very cold season that comes after autumn",
+  "example": {
+   "ko": "겨울에 눈이 와요.",
+   "roman": "Gyeoure nuni wayo.",
+   "en": "It snows in winter.",
+   "tokens": [
+    {
+     "t": "겨울에",
+     "r": "gyeoure",
+     "base": "겨울 + 에",
+     "en": "in winter",
+     "note": "에 marks the time"
+    },
+    {
+     "t": "눈이",
+     "r": "nuni",
+     "base": "눈 + 이",
+     "en": "snow",
+     "note": "눈 also means 'eye'; here it means snow"
+    },
+    {
+     "t": "와요",
+     "r": "wayo",
+     "base": "오다",
+     "en": "comes (falls)",
+     "note": "오 + 아요 → 와요"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "겨울에",
+   "여름에",
+   "입에",
+   "방에"
+  ],
+  "form": {
+   "q_en": "Pick the correct polite form of 오다 (to come).",
+   "ko": "겨울에 눈이 ___.",
+   "options": [
+    "와요",
+    "오아요",
+    "왔요",
+    "오요"
+   ],
+   "answer": 0,
+   "why": "오다 + -아요 shortens to 와요. 'Snow comes' is how Korean says 'it snows'."
+  }
+ },
+ {
+  "id": "L1-155",
+  "day": 31,
+  "slot": 5,
+  "ko": "계절",
+  "roman": "gyejeol",
+  "en": "season",
+  "pos": "noun",
+  "ko_meaning": "봄, 여름, 가을, 겨울 중 하나",
+  "ko_meaning_en": "One of spring, summer, autumn, and winter",
+  "example": {
+   "ko": "무슨 계절을 좋아해요?",
+   "roman": "Museun gyejeoreul joahaeyo?",
+   "en": "What season do you like?",
+   "tokens": [
+    {
+     "t": "무슨",
+     "r": "museun",
+     "base": "무슨",
+     "en": "what (kind of)"
+    },
+    {
+     "t": "계절을",
+     "r": "gyejeoreul",
+     "base": "계절 + 을",
+     "en": "season",
+     "note": "을 marks the object after a consonant"
+    },
+    {
+     "t": "좋아해요",
+     "r": "joahaeyo",
+     "base": "좋아하다",
+     "en": "like",
+     "note": "하다 → 해요"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "계절을",
+   "젓가락을",
+   "그릇을",
+   "창문을"
+  ],
+  "form": {
+   "q_en": "Pick the object marker for 계절.",
+   "ko": "무슨 계절___ 좋아해요?",
+   "options": [
+    "을",
+    "를",
+    "이",
+    "에"
+   ],
+   "answer": 0,
+   "why": "좋아하다 takes an object. 계절 ends in a consonant (ㄹ), so use 을; 를 follows a vowel."
+  }
+ },
+ {
+  "id": "L1-156",
+  "day": 32,
+  "slot": 1,
+  "ko": "빨간색",
+  "roman": "ppalgansaek",
+  "en": "red",
+  "pos": "noun",
+  "ko_meaning": "잘 익은 사과 같은 색",
+  "ko_meaning_en": "The color of a ripe apple",
+  "example": {
+   "ko": "빨간색 꽃이 예뻐요.",
+   "roman": "Ppalgansaek kkochi yeppeoyo.",
+   "en": "The red flowers are pretty.",
+   "tokens": [
+    {
+     "t": "빨간색",
+     "r": "ppalgansaek",
+     "base": "빨간색",
+     "en": "red",
+     "note": "a color noun can come right before another noun"
+    },
+    {
+     "t": "꽃이",
+     "r": "kkochi",
+     "base": "꽃 + 이",
+     "en": "flowers",
+     "note": "이 marks the subject after a consonant"
+    },
+    {
+     "t": "예뻐요",
+     "r": "yeppeoyo",
+     "base": "예쁘다",
+     "en": "are pretty",
+     "note": "예쁘다 drops ㅡ: 예뻐요"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "빨간색",
+   "파란색",
+   "노란색",
+   "검은색"
+  ],
+  "form": {
+   "q_en": "Pick the correct polite form of 예쁘다 (to be pretty).",
+   "ko": "빨간색 꽃이 ___.",
+   "options": [
+    "예뻐요",
+    "예쁘어요",
+    "예빠요",
+    "예뻐어요"
+   ],
+   "answer": 0,
+   "why": "예쁘다 drops ㅡ before -어요, so it becomes 예뻐요."
+  }
+ },
+ {
+  "id": "L1-157",
+  "day": 32,
+  "slot": 2,
+  "ko": "파란색",
+  "roman": "paransaek",
+  "en": "blue",
+  "pos": "noun",
+  "ko_meaning": "하늘이나 바다 같은 색",
+  "ko_meaning_en": "A color like the sky or the sea",
+  "example": {
+   "ko": "하늘이 파란색이에요.",
+   "roman": "Haneuri paransaegieyo.",
+   "en": "The sky is blue.",
+   "tokens": [
+    {
+     "t": "하늘이",
+     "r": "haneuri",
+     "base": "하늘 + 이",
+     "en": "the sky",
+     "note": "이 marks the subject after a consonant"
+    },
+    {
+     "t": "파란색이에요",
+     "r": "paransaegieyo",
+     "base": "파란색 + 이에요",
+     "en": "is blue",
+     "note": "이에요 follows a consonant"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "파란색이에요",
+   "빨간색이에요",
+   "라면이에요",
+   "젓가락이에요"
+  ],
+  "form": {
+   "q_en": "Pick the right ending for 'is blue'.",
+   "ko": "하늘이 파란색___.",
+   "options": [
+    "이에요",
+    "예요",
+    "이요",
+    "을요"
+   ],
+   "answer": 0,
+   "why": "파란색 ends in a consonant (ㄱ), so use 이에요. 예요 follows a vowel."
+  }
+ },
+ {
+  "id": "L1-158",
+  "day": 32,
+  "slot": 3,
+  "ko": "노란색",
+  "roman": "noransaek",
+  "en": "yellow",
+  "pos": "noun",
+  "ko_meaning": "바나나 같은 색",
+  "ko_meaning_en": "A color like a banana",
+  "example": {
+   "ko": "동생이 노란색을 좋아해요.",
+   "roman": "Dongsaeng-i noransaegeul joahaeyo.",
+   "en": "My younger sibling likes yellow.",
+   "tokens": [
+    {
+     "t": "동생이",
+     "r": "dongsaeng-i",
+     "base": "동생 + 이",
+     "en": "my younger sibling",
+     "note": "이 marks the subject after a consonant"
+    },
+    {
+     "t": "노란색을",
+     "r": "noransaegeul",
+     "base": "노란색 + 을",
+     "en": "yellow",
+     "note": "을 marks the object"
+    },
+    {
+     "t": "좋아해요",
+     "r": "joahaeyo",
+     "base": "좋아하다",
+     "en": "likes",
+     "note": "하다 → 해요"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "노란색을",
+   "파란색을",
+   "하얀색을",
+   "빨간색을"
+  ],
+  "form": {
+   "q_en": "Pick the object marker for 노란색.",
+   "ko": "동생이 노란색___ 좋아해요.",
+   "options": [
+    "을",
+    "를",
+    "이",
+    "에서"
+   ],
+   "answer": 0,
+   "why": "좋아하다 takes an object marker. 노란색 ends in a consonant, so use 을, not 를."
+  }
+ },
+ {
+  "id": "L1-159",
+  "day": 32,
+  "slot": 4,
+  "ko": "하얀색",
+  "roman": "hayansaek",
+  "en": "white",
+  "pos": "noun",
+  "ko_meaning": "눈이나 우유 같은 색",
+  "ko_meaning_en": "A color like snow or milk",
+  "example": {
+   "ko": "언니가 하얀색 옷을 입었어요.",
+   "roman": "Eonni-ga hayansaek oseul ibeosseoyo.",
+   "en": "My older sister wore white clothes.",
+   "tokens": [
+    {
+     "t": "언니가",
+     "r": "eonni-ga",
+     "base": "언니 + 가",
+     "en": "my older sister",
+     "note": "가 marks the subject after a vowel"
+    },
+    {
+     "t": "하얀색",
+     "r": "hayansaek",
+     "base": "하얀색",
+     "en": "white"
+    },
+    {
+     "t": "옷을",
+     "r": "oseul",
+     "base": "옷 + 을",
+     "en": "clothes",
+     "note": "을 marks the object"
+    },
+    {
+     "t": "입었어요",
+     "r": "ibeosseoyo",
+     "base": "입다",
+     "en": "wore",
+     "note": "past tense, polite (-었어요)"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "하얀색",
+   "검은색",
+   "노란색",
+   "파란색"
+  ],
+  "form": {
+   "q_en": "Pick the verb form that fits 'yesterday'.",
+   "ko": "어제 하얀색 옷을 ___.",
+   "options": [
+    "입었어요",
+    "입어요",
+    "입었아요",
+    "입았어요"
+   ],
+   "answer": 0,
+   "why": "어제 (yesterday) needs the past tense. 입다 has the vowel ㅣ, so it takes -었어요: 입었어요."
+  }
+ },
+ {
+  "id": "L1-160",
+  "day": 32,
+  "slot": 5,
+  "ko": "검은색",
+  "roman": "geomeunsaek",
+  "en": "black",
+  "pos": "noun",
+  "ko_meaning": "밤하늘 같은 아주 어두운 색",
+  "ko_meaning_en": "A very dark color like the night sky",
+  "example": {
+   "ko": "검은색 가방이 없어요.",
+   "roman": "Geomeunsaek gabang-i eopseoyo.",
+   "en": "I don't have a black bag.",
+   "tokens": [
+    {
+     "t": "검은색",
+     "r": "geomeunsaek",
+     "base": "검은색",
+     "en": "black"
+    },
+    {
+     "t": "가방이",
+     "r": "gabang-i",
+     "base": "가방 + 이",
+     "en": "bag",
+     "note": "이 marks the subject after a consonant"
+    },
+    {
+     "t": "없어요",
+     "r": "eopseoyo",
+     "base": "없다",
+     "en": "don't have"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "검은색",
+   "빨간색",
+   "노란색",
+   "하얀색"
+  ],
+  "form": {
+   "q_en": "Pick the particle that goes with 없어요.",
+   "ko": "검은색 가방___ 없어요.",
+   "options": [
+    "이",
+    "가",
+    "을",
+    "에서"
+   ],
+   "answer": 0,
+   "why": "With 없다, the thing you don't have takes 이/가. 가방 ends in a consonant, so use 이."
+  }
+ },
+ {
+  "id": "L1-161",
+  "day": 33,
+  "slot": 1,
+  "ko": "생선",
+  "roman": "saengseon",
+  "en": "fish (as food)",
+  "pos": "noun",
+  "ko_meaning": "음식으로 먹는 물고기",
+  "ko_meaning_en": "A fish that is eaten as food",
+  "example": {
+   "ko": "시장에서 생선을 샀어요.",
+   "roman": "Sijang-eseo saengseoneul sasseoyo.",
+   "en": "I bought fish at the market.",
+   "tokens": [
+    {
+     "t": "시장에서",
+     "r": "sijang-eseo",
+     "base": "시장 + 에서",
+     "en": "at the market",
+     "note": "에서 marks where an action happens"
+    },
+    {
+     "t": "생선을",
+     "r": "saengseoneul",
+     "base": "생선 + 을",
+     "en": "fish",
+     "note": "을 marks the object"
+    },
+    {
+     "t": "샀어요",
+     "r": "sasseoyo",
+     "base": "사다",
+     "en": "bought",
+     "note": "사 + 았어요 → 샀어요"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "생선을",
+   "책상을",
+   "창문을",
+   "시험을"
+  ],
+  "form": {
+   "q_en": "Pick the particle for the place where you bought it.",
+   "ko": "시장___ 생선을 샀어요.",
+   "options": [
+    "에서",
+    "에",
+    "을",
+    "이"
+   ],
+   "answer": 0,
+   "why": "에서 marks the place where an action (buying) happens. 에 is for where you go or where something is."
+  }
+ },
+ {
+  "id": "L1-162",
+  "day": 33,
+  "slot": 2,
+  "ko": "과일",
+  "roman": "gwail",
+  "en": "fruit",
+  "pos": "noun",
+  "ko_meaning": "사과처럼 나무에 열리는 달고 맛있는 것",
+  "ko_meaning_en": "Something sweet and tasty that grows on trees, like an apple",
+  "example": {
+   "ko": "할머니가 과일을 좋아하세요.",
+   "roman": "Halmeoni-ga gwaireul joahaseyo.",
+   "en": "Grandma likes fruit.",
+   "tokens": [
+    {
+     "t": "할머니가",
+     "r": "halmeoni-ga",
+     "base": "할머니 + 가",
+     "en": "grandma",
+     "note": "가 marks the subject after a vowel"
+    },
+    {
+     "t": "과일을",
+     "r": "gwaireul",
+     "base": "과일 + 을",
+     "en": "fruit",
+     "note": "을 marks the object"
+    },
+    {
+     "t": "좋아하세요",
+     "r": "joahaseyo",
+     "base": "좋아하다",
+     "en": "likes",
+     "note": "-세요 shows respect for grandma"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "과일을",
+   "젓가락을",
+   "창문을",
+   "신발을"
+  ],
+  "form": {
+   "q_en": "Pick the object marker for 과일.",
+   "ko": "할머니가 과일___ 좋아하세요.",
+   "options": [
+    "을",
+    "를",
+    "이",
+    "에"
+   ],
+   "answer": 0,
+   "why": "과일 ends in a consonant (ㄹ), so the object marker is 을. 를 follows a vowel."
+  }
+ },
+ {
+  "id": "L1-163",
+  "day": 33,
+  "slot": 3,
+  "ko": "사과",
+  "roman": "sagwa",
+  "en": "apple",
+  "pos": "noun",
+  "ko_meaning": "빨갛고 둥근 과일",
+  "ko_meaning_en": "A red, round fruit",
+  "example": {
+   "ko": "사과가 아주 맛있어요.",
+   "roman": "Sagwa-ga aju masisseoyo.",
+   "en": "The apple is very delicious.",
+   "tokens": [
+    {
+     "t": "사과가",
+     "r": "sagwa-ga",
+     "base": "사과 + 가",
+     "en": "the apple",
+     "note": "가 marks the subject after a vowel"
+    },
+    {
+     "t": "아주",
+     "r": "aju",
+     "base": "아주",
+     "en": "very"
+    },
+    {
+     "t": "맛있어요",
+     "r": "masisseoyo",
+     "base": "맛있다",
+     "en": "is delicious"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "사과가",
+   "의자가",
+   "버스가",
+   "시계가"
+  ],
+  "form": {
+   "q_en": "Pick the subject marker for 사과.",
+   "ko": "사과___ 아주 맛있어요.",
+   "options": [
+    "가",
+    "이",
+    "를",
+    "에"
+   ],
+   "answer": 0,
+   "why": "사과 ends in a vowel, so the subject marker is 가. 이 follows a consonant."
+  }
+ },
+ {
+  "id": "L1-164",
+  "day": 33,
+  "slot": 4,
+  "ko": "채소",
+  "roman": "chaeso",
+  "en": "vegetable",
+  "pos": "noun",
+  "ko_meaning": "배추, 당근 같은 먹는 식물",
+  "ko_meaning_en": "Plants you eat, like cabbage and carrots",
+  "example": {
+   "ko": "아이가 채소를 안 먹어요.",
+   "roman": "Ai-ga chaesoreul an meogeoyo.",
+   "en": "The child doesn't eat vegetables.",
+   "tokens": [
+    {
+     "t": "아이가",
+     "r": "ai-ga",
+     "base": "아이 + 가",
+     "en": "the child",
+     "note": "가 marks the subject after a vowel"
+    },
+    {
+     "t": "채소를",
+     "r": "chaesoreul",
+     "base": "채소 + 를",
+     "en": "vegetables",
+     "note": "를 marks the object after a vowel"
+    },
+    {
+     "t": "안",
+     "r": "an",
+     "base": "안",
+     "en": "not",
+     "note": "안 before a verb makes it negative"
+    },
+    {
+     "t": "먹어요",
+     "r": "meogeoyo",
+     "base": "먹다",
+     "en": "eats"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "채소를",
+   "의자를",
+   "시계를",
+   "버스를"
+  ],
+  "form": {
+   "q_en": "Pick the word that makes the verb negative.",
+   "ko": "아이가 채소를 ___ 먹어요.",
+   "options": [
+    "안",
+    "않",
+    "아니",
+    "없"
+   ],
+   "answer": 0,
+   "why": "Put 안 right before the verb to say 'not'. 않 only works in -지 않아요, and 아니/없 do not fit here."
+  }
+ },
+ {
+  "id": "L1-165",
+  "day": 33,
+  "slot": 5,
+  "ko": "계란",
+  "roman": "gyeran",
+  "en": "egg",
+  "pos": "noun",
+  "ko_meaning": "닭이 낳은 알",
+  "ko_meaning_en": "An egg laid by a chicken",
+  "example": {
+   "ko": "아침에 계란을 먹었어요.",
+   "roman": "Achime gyeraneul meogeosseoyo.",
+   "en": "I ate eggs in the morning.",
+   "tokens": [
+    {
+     "t": "아침에",
+     "r": "achime",
+     "base": "아침 + 에",
+     "en": "in the morning",
+     "note": "에 marks the time"
+    },
+    {
+     "t": "계란을",
+     "r": "gyeraneul",
+     "base": "계란 + 을",
+     "en": "eggs",
+     "note": "을 marks the object"
+    },
+    {
+     "t": "먹었어요",
+     "r": "meogeosseoyo",
+     "base": "먹다",
+     "en": "ate",
+     "note": "past tense, polite (-었어요)"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "계란을",
+   "가방을",
+   "시험을",
+   "창문을"
+  ],
+  "form": {
+   "q_en": "Pick the correct past tense of 먹다 (to eat).",
+   "ko": "아침에 계란을 ___.",
+   "options": [
+    "먹었어요",
+    "먹았어요",
+    "먹었아요",
+    "먹어었요"
+   ],
+   "answer": 0,
+   "why": "먹다 has the vowel ㅓ, so the past ending is -었어요: 먹었어요."
+  }
+ },
+ {
+  "id": "L1-166",
+  "day": 34,
+  "slot": 1,
+  "ko": "라면",
+  "roman": "ramyeon",
+  "en": "ramen; instant noodles",
+  "pos": "noun",
+  "ko_meaning": "물에 끓여 먹는 꼬불꼬불한 국수",
+  "ko_meaning_en": "Curly noodles cooked in boiling water",
+  "example": {
+   "ko": "밤에 라면을 먹고 싶어요.",
+   "roman": "Bame ramyeoneul meokgo sipeoyo.",
+   "en": "I want to eat ramen at night.",
+   "tokens": [
+    {
+     "t": "밤에",
+     "r": "bame",
+     "base": "밤 + 에",
+     "en": "at night",
+     "note": "에 marks the time"
+    },
+    {
+     "t": "라면을",
+     "r": "ramyeoneul",
+     "base": "라면 + 을",
+     "en": "ramen",
+     "note": "을 marks the object"
+    },
+    {
+     "t": "먹고",
+     "r": "meokgo",
+     "base": "먹다",
+     "en": "eat",
+     "note": "-고 싶어요 = want to"
+    },
+    {
+     "t": "싶어요",
+     "r": "sipeoyo",
+     "base": "싶다",
+     "en": "want"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "라면을",
+   "신발을",
+   "창문을",
+   "책상을"
+  ],
+  "form": {
+   "q_en": "Pick the object marker for 라면.",
+   "ko": "밤에 라면___ 먹고 싶어요.",
+   "options": [
+    "을",
+    "를",
+    "에",
+    "의"
+   ],
+   "answer": 0,
+   "why": "라면 ends in a consonant (ㄴ), so the object marker is 을. 를 follows a vowel."
+  }
+ },
+ {
+  "id": "L1-167",
+  "day": 34,
+  "slot": 2,
+  "ko": "커피",
+  "roman": "keopi",
+  "en": "coffee",
+  "pos": "noun",
+  "ko_meaning": "아침에 많이 마시는 쓰고 검은 음료",
+  "ko_meaning_en": "A bitter, dark drink that many people have in the morning",
+  "example": {
+   "ko": "오빠는 매일 커피를 마셔요.",
+   "roman": "Oppa-neun maeil keopireul masyeoyo.",
+   "en": "My older brother drinks coffee every day.",
+   "tokens": [
+    {
+     "t": "오빠는",
+     "r": "oppa-neun",
+     "base": "오빠 + 는",
+     "en": "my older brother",
+     "note": "는 marks the topic after a vowel"
+    },
+    {
+     "t": "매일",
+     "r": "maeil",
+     "base": "매일",
+     "en": "every day"
+    },
+    {
+     "t": "커피를",
+     "r": "keopireul",
+     "base": "커피 + 를",
+     "en": "coffee",
+     "note": "를 marks the object after a vowel"
+    },
+    {
+     "t": "마셔요",
+     "r": "masyeoyo",
+     "base": "마시다",
+     "en": "drinks",
+     "note": "시 + 어요 → 셔요"
+    }
+   ],
+   "target": 2
+  },
+  "cloze_options": [
+   "커피를",
+   "모자를",
+   "침대를",
+   "가게를"
+  ],
+  "form": {
+   "q_en": "Pick the correct polite form of 마시다 (to drink).",
+   "ko": "오빠는 매일 커피를 ___.",
+   "options": [
+    "마셔요",
+    "마사요",
+    "마시요",
+    "마셨요"
+   ],
+   "answer": 0,
+   "why": "In 마시다, 시 + -어요 combine into 셔요, so it becomes 마셔요."
+  }
+ },
+ {
+  "id": "L1-168",
+  "day": 34,
+  "slot": 3,
+  "ko": "주스",
+  "roman": "juseu",
+  "en": "juice",
+  "pos": "noun",
+  "ko_meaning": "과일로 만든 달고 시원한 음료",
+  "ko_meaning_en": "A sweet, cool drink made from fruit",
+  "example": {
+   "ko": "주스하고 빵을 샀어요.",
+   "roman": "Juseuhago ppang-eul sasseoyo.",
+   "en": "I bought juice and bread.",
+   "tokens": [
+    {
+     "t": "주스하고",
+     "r": "juseuhago",
+     "base": "주스 + 하고",
+     "en": "juice and",
+     "note": "하고 means 'and' between nouns"
+    },
+    {
+     "t": "빵을",
+     "r": "ppang-eul",
+     "base": "빵 + 을",
+     "en": "bread",
+     "note": "을 marks the object"
+    },
+    {
+     "t": "샀어요",
+     "r": "sasseoyo",
+     "base": "사다",
+     "en": "bought",
+     "note": "사 + 았어요 → 샀어요"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "주스하고",
+   "의자하고",
+   "시계하고",
+   "버스하고"
+  ],
+  "form": {
+   "q_en": "Pick the word that means 'and' here.",
+   "ko": "주스___ 빵을 샀어요.",
+   "options": [
+    "하고",
+    "과",
+    "을",
+    "에"
+   ],
+   "answer": 0,
+   "why": "하고 joins two nouns ('and'). 과 is only used after a consonant; after the vowel in 주스 it would be 와."
+  }
+ },
+ {
+  "id": "L1-169",
+  "day": 34,
+  "slot": 4,
+  "ko": "국",
+  "roman": "guk",
+  "en": "soup",
+  "pos": "noun",
+  "ko_meaning": "고기나 채소를 물에 넣고 끓인 음식",
+  "ko_meaning_en": "A dish made by boiling meat or vegetables in water",
+  "example": {
+   "ko": "국이 아주 뜨거워요.",
+   "roman": "Gugi aju tteugeowoyo.",
+   "en": "The soup is very hot.",
+   "tokens": [
+    {
+     "t": "국이",
+     "r": "gugi",
+     "base": "국 + 이",
+     "en": "the soup",
+     "note": "이 marks the subject after a consonant"
+    },
+    {
+     "t": "아주",
+     "r": "aju",
+     "base": "아주",
+     "en": "very"
+    },
+    {
+     "t": "뜨거워요",
+     "r": "tteugeowoyo",
+     "base": "뜨겁다",
+     "en": "is hot",
+     "note": "뜨겁다 is for hot things; ㅂ-irregular: 뜨거워요"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "국이",
+   "책이",
+   "창문이",
+   "신발이"
+  ],
+  "form": {
+   "q_en": "Pick the word for 'hot' that fits soup.",
+   "ko": "국이 아주 ___.",
+   "options": [
+    "뜨거워요",
+    "더워요",
+    "뜨겁어요",
+    "뜨거와요"
+   ],
+   "answer": 0,
+   "why": "For hot food and things use 뜨겁다 (ㅂ-irregular: 뜨거워요). 더워요 is for hot weather."
+  }
+ },
+ {
+  "id": "L1-170",
+  "day": 34,
+  "slot": 5,
+  "ko": "음식",
+  "roman": "eumsik",
+  "en": "food",
+  "pos": "noun",
+  "ko_meaning": "사람이 먹는 모든 것",
+  "ko_meaning_en": "Anything that people eat",
+  "example": {
+   "ko": "한국 음식을 좋아해요.",
+   "roman": "Hanguk eumsigeul joahaeyo.",
+   "en": "I like Korean food.",
+   "tokens": [
+    {
+     "t": "한국",
+     "r": "hanguk",
+     "base": "한국",
+     "en": "Korean (Korea)",
+     "note": "a noun before a noun works like 'Korean'"
+    },
+    {
+     "t": "음식을",
+     "r": "eumsigeul",
+     "base": "음식 + 을",
+     "en": "food",
+     "note": "을 marks the object"
+    },
+    {
+     "t": "좋아해요",
+     "r": "joahaeyo",
+     "base": "좋아하다",
+     "en": "like",
+     "note": "하다 → 해요"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "음식을",
+   "젓가락을",
+   "가방을",
+   "시험을"
+  ],
+  "form": {
+   "q_en": "Pick the particle that goes with 맛있어요.",
+   "ko": "한국 음식___ 맛있어요.",
+   "options": [
+    "이",
+    "을",
+    "가",
+    "에서"
+   ],
+   "answer": 0,
+   "why": "맛있다 describes the subject, so use 이/가. 음식 ends in a consonant, so use 이."
+  }
+ },
+ {
+  "id": "L1-171",
+  "day": 35,
+  "slot": 1,
+  "ko": "요리",
+  "roman": "yori",
+  "en": "cooking; dish",
+  "pos": "noun",
+  "ko_meaning": "음식을 만드는 일, 또는 만든 음식",
+  "ko_meaning_en": "Making food, or the food that is made",
+  "example": {
+   "ko": "형은 요리를 잘해요.",
+   "roman": "Hyeong-eun yorireul jalhaeyo.",
+   "en": "My older brother is good at cooking.",
+   "tokens": [
+    {
+     "t": "형은",
+     "r": "hyeong-eun",
+     "base": "형 + 은",
+     "en": "my older brother",
+     "note": "은 marks the topic after a consonant"
+    },
+    {
+     "t": "요리를",
+     "r": "yorireul",
+     "base": "요리 + 를",
+     "en": "cooking",
+     "note": "를 marks the object after a vowel"
+    },
+    {
+     "t": "잘해요",
+     "r": "jalhaeyo",
+     "base": "잘하다",
+     "en": "is good at",
+     "note": "잘하다 = to do well"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "요리를",
+   "침대를",
+   "의자를",
+   "시계를"
+  ],
+  "form": {
+   "q_en": "Pick the object marker for 요리.",
+   "ko": "형은 요리___ 잘해요.",
+   "options": [
+    "를",
+    "을",
+    "가",
+    "에"
+   ],
+   "answer": 0,
+   "why": "요리 ends in a vowel, so the object marker is 를. 을 follows a consonant."
+  }
+ },
+ {
+  "id": "L1-172",
+  "day": 35,
+  "slot": 2,
+  "ko": "숟가락",
+  "roman": "sutgarak",
+  "en": "spoon",
+  "pos": "noun",
+  "ko_meaning": "밥이나 국을 떠서 먹는 도구",
+  "ko_meaning_en": "A tool for scooping up rice or soup to eat",
+  "example": {
+   "ko": "숟가락을 주세요.",
+   "roman": "Sutgarageul juseyo.",
+   "en": "Please give me a spoon.",
+   "tokens": [
+    {
+     "t": "숟가락을",
+     "r": "sutgarageul",
+     "base": "숟가락 + 을",
+     "en": "a spoon",
+     "note": "을 marks the object"
+    },
+    {
+     "t": "주세요",
+     "r": "juseyo",
+     "base": "주다",
+     "en": "please give",
+     "note": "-(으)세요 makes a polite request"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "숟가락을",
+   "신발을",
+   "창문을",
+   "가방을"
+  ],
+  "form": {
+   "q_en": "Pick the object marker for 숟가락.",
+   "ko": "숟가락___ 주세요.",
+   "options": [
+    "을",
+    "를",
+    "이",
+    "에"
+   ],
+   "answer": 0,
+   "why": "숟가락 ends in a consonant (ㄱ), so the object marker is 을."
+  }
+ },
+ {
+  "id": "L1-173",
+  "day": 35,
+  "slot": 3,
+  "ko": "젓가락",
+  "roman": "jeotgarak",
+  "en": "chopsticks",
+  "pos": "noun",
+  "ko_meaning": "음식을 집어 먹는 긴 막대 두 개",
+  "ko_meaning_en": "Two long sticks for picking up food",
+  "example": {
+   "ko": "친구도 젓가락을 써요.",
+   "roman": "Chingu-do jeotgarageul sseoyo.",
+   "en": "My friend uses chopsticks too.",
+   "tokens": [
+    {
+     "t": "친구도",
+     "r": "chingu-do",
+     "base": "친구 + 도",
+     "en": "my friend too",
+     "note": "도 means 'too, also'"
+    },
+    {
+     "t": "젓가락을",
+     "r": "jeotgarageul",
+     "base": "젓가락 + 을",
+     "en": "chopsticks",
+     "note": "을 marks the object"
+    },
+    {
+     "t": "써요",
+     "r": "sseoyo",
+     "base": "쓰다",
+     "en": "uses",
+     "note": "here 쓰다 means 'to use'; it drops ㅡ: 써요"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "젓가락을",
+   "창문을",
+   "시험을",
+   "겨울을"
+  ],
+  "form": {
+   "q_en": "Pick the correct polite form of 쓰다 (to use).",
+   "ko": "친구도 젓가락을 ___.",
+   "options": [
+    "써요",
+    "쓰어요",
+    "쓰요",
+    "써어요"
+   ],
+   "answer": 0,
+   "why": "쓰다 drops ㅡ before -어요, so it becomes 써요."
+  }
+ },
+ {
+  "id": "L1-174",
+  "day": 35,
+  "slot": 4,
+  "ko": "그릇",
+  "roman": "geureut",
+  "en": "bowl; dish",
+  "pos": "noun",
+  "ko_meaning": "음식을 담는 것",
+  "ko_meaning_en": "Something you put food in",
+  "example": {
+   "ko": "그릇에 밥이 많아요.",
+   "roman": "Geureuse babi manayo.",
+   "en": "There is a lot of rice in the bowl.",
+   "tokens": [
+    {
+     "t": "그릇에",
+     "r": "geureuse",
+     "base": "그릇 + 에",
+     "en": "in the bowl",
+     "note": "final ㅅ sounds like s before a vowel"
+    },
+    {
+     "t": "밥이",
+     "r": "babi",
+     "base": "밥 + 이",
+     "en": "rice",
+     "note": "이 marks the subject after a consonant"
+    },
+    {
+     "t": "많아요",
+     "r": "manayo",
+     "base": "많다",
+     "en": "there is a lot"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "그릇에",
+   "신발에",
+   "귀에",
+   "침대에"
+  ],
+  "form": {
+   "q_en": "Pick the particle for where the rice is.",
+   "ko": "그릇___ 밥이 많아요.",
+   "options": [
+    "에",
+    "에서",
+    "을",
+    "가"
+   ],
+   "answer": 0,
+   "why": "에 marks the place where something is. 에서 is for the place where an action happens."
+  }
+ },
+ {
+  "id": "L1-175",
+  "day": 35,
+  "slot": 5,
+  "ko": "컵",
+  "roman": "keop",
+  "en": "cup",
+  "pos": "noun",
+  "ko_meaning": "물이나 우유를 마실 때 쓰는 것",
+  "ko_meaning_en": "Something you use when you drink water or milk",
+  "example": {
+   "ko": "누나가 컵을 줬어요.",
+   "roman": "Nuna-ga keobeul jwosseoyo.",
+   "en": "My older sister gave me a cup.",
+   "tokens": [
+    {
+     "t": "누나가",
+     "r": "nuna-ga",
+     "base": "누나 + 가",
+     "en": "my older sister",
+     "note": "가 marks the subject after a vowel"
+    },
+    {
+     "t": "컵을",
+     "r": "keobeul",
+     "base": "컵 + 을",
+     "en": "a cup",
+     "note": "을 marks the object"
+    },
+    {
+     "t": "줬어요",
+     "r": "jwosseoyo",
+     "base": "주다",
+     "en": "gave",
+     "note": "주 + 었어요 → 줬어요"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "컵을",
+   "겨울을",
+   "시험을",
+   "수업을"
+  ],
+  "form": {
+   "q_en": "Pick the object marker for 컵.",
+   "ko": "누나가 컵___ 줬어요.",
+   "options": [
+    "을",
+    "를",
+    "에서",
+    "가"
+   ],
+   "answer": 0,
+   "why": "컵 ends in a consonant (ㅂ), so the object marker is 을. 를 follows a vowel."
+  }
+ },
+ {
+  "id": "L1-176",
+  "day": 36,
+  "slot": 1,
+  "ko": "차",
+  "roman": "cha",
+  "en": "car",
+  "pos": "noun",
+  "ko_meaning": "사람이 타고 다니는, 바퀴가 있는 것",
+  "ko_meaning_en": "A thing with wheels that people ride in",
+  "example": {
+   "ko": "아빠의 차가 커요.",
+   "roman": "Appa-ui cha-ga keoyo.",
+   "en": "Dad's car is big.",
+   "tokens": [
+    {
+     "t": "아빠의",
+     "r": "appa-ui",
+     "base": "아빠 + 의",
+     "en": "dad's",
+     "note": "의 shows possession; often said like 에"
+    },
+    {
+     "t": "차가",
+     "r": "cha-ga",
+     "base": "차 + 가",
+     "en": "car",
+     "note": "가 marks the subject after a vowel"
+    },
+    {
+     "t": "커요",
+     "r": "keoyo",
+     "base": "크다",
+     "en": "is big",
+     "note": "크다 drops ㅡ: 커요"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "차가",
+   "우유가",
+   "주스가",
+   "시계가"
+  ],
+  "form": {
+   "q_en": "Pick the correct polite form of 크다 (to be big).",
+   "ko": "아빠의 차가 ___.",
+   "options": [
+    "커요",
+    "크어요",
+    "커어요",
+    "카요"
+   ],
+   "answer": 0,
+   "why": "크다 drops ㅡ before -어요, so it becomes 커요."
+  }
+ },
+ {
+  "id": "L1-177",
+  "day": 36,
+  "slot": 2,
+  "ko": "버스",
+  "roman": "beoseu",
+  "en": "bus",
+  "pos": "noun",
+  "ko_meaning": "많은 사람이 같이 타는 큰 차",
+  "ko_meaning_en": "A big vehicle that many people ride together",
+  "example": {
+   "ko": "버스가 안 와요.",
+   "roman": "Beoseu-ga an wayo.",
+   "en": "The bus isn't coming.",
+   "tokens": [
+    {
+     "t": "버스가",
+     "r": "beoseu-ga",
+     "base": "버스 + 가",
+     "en": "the bus",
+     "note": "가 marks the subject after a vowel"
+    },
+    {
+     "t": "안",
+     "r": "an",
+     "base": "안",
+     "en": "not",
+     "note": "안 before a verb makes it negative"
+    },
+    {
+     "t": "와요",
+     "r": "wayo",
+     "base": "오다",
+     "en": "comes",
+     "note": "오 + 아요 → 와요"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "버스가",
+   "의자가",
+   "시계가",
+   "사과가"
+  ],
+  "form": {
+   "q_en": "Pick the subject marker for 버스.",
+   "ko": "버스___ 안 와요.",
+   "options": [
+    "가",
+    "이",
+    "를",
+    "에서"
+   ],
+   "answer": 0,
+   "why": "버스 ends in a vowel, so the subject marker is 가. 이 follows a consonant."
+  }
+ },
+ {
+  "id": "L1-178",
+  "day": 36,
+  "slot": 3,
+  "ko": "지하철",
+  "roman": "jihacheol",
+  "en": "subway",
+  "pos": "noun",
+  "ko_meaning": "땅 밑으로 다니는 기차",
+  "ko_meaning_en": "A train that runs under the ground",
+  "example": {
+   "ko": "지하철에서 책을 읽어요.",
+   "roman": "Jihacheoreseo chaegeul ilgeoyo.",
+   "en": "I read a book on the subway.",
+   "tokens": [
+    {
+     "t": "지하철에서",
+     "r": "jihacheoreseo",
+     "base": "지하철 + 에서",
+     "en": "on the subway",
+     "note": "에서 marks where an action happens"
+    },
+    {
+     "t": "책을",
+     "r": "chaegeul",
+     "base": "책 + 을",
+     "en": "a book",
+     "note": "을 marks the object"
+    },
+    {
+     "t": "읽어요",
+     "r": "ilgeoyo",
+     "base": "읽다",
+     "en": "read",
+     "note": "sounds like 일거요"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "지하철에서",
+   "귀에서",
+   "컵에서",
+   "그릇에서"
+  ],
+  "form": {
+   "q_en": "Pick the particle for where you read.",
+   "ko": "지하철___ 책을 읽어요.",
+   "options": [
+    "에서",
+    "에",
+    "을",
+    "가"
+   ],
+   "answer": 0,
+   "why": "에서 marks the place where an action (reading) happens. 에 is for where something is or where you go."
+  }
+ },
+ {
+  "id": "L1-179",
+  "day": 36,
+  "slot": 4,
+  "ko": "택시",
+  "roman": "taeksi",
+  "en": "taxi",
+  "pos": "noun",
+  "ko_meaning": "돈을 내고 타는 차",
+  "ko_meaning_en": "A car you pay money to ride in",
+  "example": {
+   "ko": "택시를 타고 싶어요.",
+   "roman": "Taeksireul tago sipeoyo.",
+   "en": "I want to take a taxi.",
+   "tokens": [
+    {
+     "t": "택시를",
+     "r": "taeksireul",
+     "base": "택시 + 를",
+     "en": "a taxi",
+     "note": "를 marks the object after a vowel"
+    },
+    {
+     "t": "타고",
+     "r": "tago",
+     "base": "타다",
+     "en": "ride; take",
+     "note": "-고 싶어요 = want to"
+    },
+    {
+     "t": "싶어요",
+     "r": "sipeoyo",
+     "base": "싶다",
+     "en": "want"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "택시를",
+   "의자를",
+   "침대를",
+   "사과를"
+  ],
+  "form": {
+   "q_en": "Pick the object marker for 택시.",
+   "ko": "택시___ 타고 싶어요.",
+   "options": [
+    "를",
+    "을",
+    "의",
+    "에서"
+   ],
+   "answer": 0,
+   "why": "타다 takes the vehicle as its object. 택시 ends in a vowel, so use 를."
+  }
+ },
+ {
+  "id": "L1-180",
+  "day": 36,
+  "slot": 5,
+  "ko": "비행기",
+  "roman": "bihaenggi",
+  "en": "airplane",
+  "pos": "noun",
+  "ko_meaning": "하늘을 나는 큰 탈것",
+  "ko_meaning_en": "A big vehicle that flies in the sky",
+  "example": {
+   "ko": "비행기가 하늘에 있어요.",
+   "roman": "Bihaenggi-ga haneure isseoyo.",
+   "en": "There is an airplane in the sky.",
+   "tokens": [
+    {
+     "t": "비행기가",
+     "r": "bihaenggi-ga",
+     "base": "비행기 + 가",
+     "en": "an airplane",
+     "note": "가 marks the subject after a vowel"
+    },
+    {
+     "t": "하늘에",
+     "r": "haneure",
+     "base": "하늘 + 에",
+     "en": "in the sky",
+     "note": "에 marks where something is"
+    },
+    {
+     "t": "있어요",
+     "r": "isseoyo",
+     "base": "있다",
+     "en": "there is"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "비행기가",
+   "의자가",
+   "침대가",
+   "김치가"
+  ],
+  "form": {
+   "q_en": "Pick the particle for where the airplane is.",
+   "ko": "비행기가 하늘___ 있어요.",
+   "options": [
+    "에",
+    "에서",
+    "을",
+    "이"
+   ],
+   "answer": 0,
+   "why": "With 있다 (to be somewhere), the place takes 에, not 에서."
+  }
+ },
+ {
+  "id": "L1-181",
+  "day": 37,
+  "slot": 1,
+  "ko": "길",
+  "roman": "gil",
+  "en": "road; way",
+  "pos": "noun",
+  "ko_meaning": "사람이나 차가 다니는 곳",
+  "ko_meaning_en": "A place where people or cars go along",
+  "example": {
+   "ko": "길을 몰라요.",
+   "roman": "Gireul mollayo.",
+   "en": "I don't know the way.",
+   "tokens": [
+    {
+     "t": "길을",
+     "r": "gireul",
+     "base": "길 + 을",
+     "en": "the way",
+     "note": "을 marks the object"
+    },
+    {
+     "t": "몰라요",
+     "r": "mollayo",
+     "base": "모르다",
+     "en": "don't know",
+     "note": "모르다 is irregular: 몰라요"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "길을",
+   "책을",
+   "컵을",
+   "돈을"
+  ],
+  "form": {
+   "q_en": "Pick the correct polite form of 모르다 (to not know).",
+   "ko": "길을 ___.",
+   "options": [
+    "몰라요",
+    "모르아요",
+    "몰르어요",
+    "모라요"
+   ],
+   "answer": 0,
+   "why": "모르다 is 르-irregular: 르 becomes 라 and an extra ㄹ is added, so 몰라요."
+  }
+ },
+ {
+  "id": "L1-182",
+  "day": 37,
+  "slot": 2,
+  "ko": "역",
+  "roman": "yeok",
+  "en": "station",
+  "pos": "noun",
+  "ko_meaning": "기차나 지하철을 타고 내리는 곳",
+  "ko_meaning_en": "A place where you get on and off trains or the subway",
+  "example": {
+   "ko": "역에서 친구를 만나요.",
+   "roman": "Yeogeseo chingureul mannayo.",
+   "en": "I meet my friend at the station.",
+   "tokens": [
+    {
+     "t": "역에서",
+     "r": "yeogeseo",
+     "base": "역 + 에서",
+     "en": "at the station",
+     "note": "에서 marks where an action happens"
+    },
+    {
+     "t": "친구를",
+     "r": "chingureul",
+     "base": "친구 + 를",
+     "en": "my friend",
+     "note": "를 marks the object after a vowel"
+    },
+    {
+     "t": "만나요",
+     "r": "mannayo",
+     "base": "만나다",
+     "en": "meet"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "역에서",
+   "입에서",
+   "책에서",
+   "손에서"
+  ],
+  "form": {
+   "q_en": "Pick the particle for where you are.",
+   "ko": "지금 역___ 있어요.",
+   "options": [
+    "에",
+    "에서",
+    "를",
+    "가"
+   ],
+   "answer": 0,
+   "why": "With 있다 (to be somewhere), the place takes 에. 에서 is for actions like meeting or eating."
+  }
+ },
+ {
+  "id": "L1-183",
+  "day": 37,
+  "slot": 3,
+  "ko": "표",
+  "roman": "pyo",
+  "en": "ticket",
+  "pos": "noun",
+  "ko_meaning": "버스나 기차를 탈 때 사는 작은 종이",
+  "ko_meaning_en": "A small piece of paper you buy to ride a bus or train",
+  "example": {
+   "ko": "지금 표가 없어요.",
+   "roman": "Jigeum pyo-ga eopseoyo.",
+   "en": "There are no tickets now.",
+   "tokens": [
+    {
+     "t": "지금",
+     "r": "jigeum",
+     "base": "지금",
+     "en": "now"
+    },
+    {
+     "t": "표가",
+     "r": "pyo-ga",
+     "base": "표 + 가",
+     "en": "tickets",
+     "note": "가 marks the subject after a vowel"
+    },
+    {
+     "t": "없어요",
+     "r": "eopseoyo",
+     "base": "없다",
+     "en": "there aren't"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "표가",
+   "코가",
+   "귀가",
+   "나무가"
+  ],
+  "form": {
+   "q_en": "Pick the subject marker for 표.",
+   "ko": "지금 표___ 없어요.",
+   "options": [
+    "가",
+    "이",
+    "를",
+    "에서"
+   ],
+   "answer": 0,
+   "why": "표 ends in a vowel, so the subject marker is 가. 이 follows a consonant."
+  }
+ },
+ {
+  "id": "L1-184",
+  "day": 37,
+  "slot": 4,
+  "ko": "타다",
+  "roman": "tada",
+  "en": "to ride; to get on",
+  "pos": "verb",
+  "ko_meaning": "차나 버스 같은 것에 올라가다",
+  "ko_meaning_en": "To get on something like a car or bus",
+  "example": {
+   "ko": "매일 지하철을 타요.",
+   "roman": "Maeil jihacheoreul tayo.",
+   "en": "I take the subway every day.",
+   "tokens": [
+    {
+     "t": "매일",
+     "r": "maeil",
+     "base": "매일",
+     "en": "every day"
+    },
+    {
+     "t": "지하철을",
+     "r": "jihacheoreul",
+     "base": "지하철 + 을",
+     "en": "the subway",
+     "note": "을 marks the object"
+    },
+    {
+     "t": "타요",
+     "r": "tayo",
+     "base": "타다",
+     "en": "take; ride",
+     "note": "타 + 아요 → 타요"
+    }
+   ],
+   "target": 2
+  },
+  "cloze_options": [
+   "타요",
+   "자요",
+   "사요",
+   "만나요"
+  ],
+  "form": {
+   "q_en": "Pick the correct polite form of 타다 (to ride).",
+   "ko": "매일 지하철을 ___.",
+   "options": [
+    "타요",
+    "타아요",
+    "타어요",
+    "탔요"
+   ],
+   "answer": 0,
+   "why": "The stem 타 ends in ㅏ, so 타 + 아요 shortens to 타요."
+  }
+ },
+ {
+  "id": "L1-185",
+  "day": 37,
+  "slot": 5,
+  "ko": "내리다",
+  "roman": "naerida",
+  "en": "to get off",
+  "pos": "verb",
+  "ko_meaning": "차나 버스에서 밖으로 나오다",
+  "ko_meaning_en": "To come out of a car or bus",
+  "example": {
+   "ko": "다음 역에서 내려요.",
+   "roman": "Daeum yeogeseo naeryeoyo.",
+   "en": "I get off at the next station.",
+   "tokens": [
+    {
+     "t": "다음",
+     "r": "daeum",
+     "base": "다음",
+     "en": "next"
+    },
+    {
+     "t": "역에서",
+     "r": "yeogeseo",
+     "base": "역 + 에서",
+     "en": "at the station",
+     "note": "에서 marks where an action happens"
+    },
+    {
+     "t": "내려요",
+     "r": "naeryeoyo",
+     "base": "내리다",
+     "en": "get off",
+     "note": "리 + 어요 → 려요"
+    }
+   ],
+   "target": 2
+  },
+  "cloze_options": [
+   "내려요",
+   "마셔요",
+   "씻어요",
+   "입어요"
+  ],
+  "form": {
+   "q_en": "Pick the correct polite form of 내리다 (to get off).",
+   "ko": "다음 역에서 ___.",
+   "options": [
+    "내려요",
+    "내라요",
+    "내리요",
+    "내려어요"
+   ],
+   "answer": 0,
+   "why": "In 내리다, 리 + -어요 combine into 려요, so it becomes 내려요."
+  }
+ },
+ {
+  "id": "L1-186",
+  "day": 38,
+  "slot": 1,
+  "ko": "방",
+  "roman": "bang",
+  "en": "room",
+  "pos": "noun",
+  "ko_meaning": "집 안에서 자거나 쉬는 곳",
+  "ko_meaning_en": "A space in a house where you sleep or rest",
+  "example": {
+   "ko": "방에서 음악을 들어요.",
+   "roman": "Bang-eseo eumageul deureoyo.",
+   "en": "I listen to music in my room.",
+   "tokens": [
+    {
+     "t": "방에서",
+     "r": "bang-eseo",
+     "base": "방 + 에서",
+     "en": "in my room",
+     "note": "에서 marks where an action happens"
+    },
+    {
+     "t": "음악을",
+     "r": "eumageul",
+     "base": "음악 + 을",
+     "en": "music",
+     "note": "을 marks the object"
+    },
+    {
+     "t": "들어요",
+     "r": "deureoyo",
+     "base": "듣다",
+     "en": "listen",
+     "note": "듣다 is ㄷ-irregular: 들어요"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "방에서",
+   "컵에서",
+   "입에서",
+   "사과에서"
+  ],
+  "form": {
+   "q_en": "Pick the correct polite form of 듣다 (to listen).",
+   "ko": "방에서 음악을 ___.",
+   "options": [
+    "들어요",
+    "듣어요",
+    "들아요",
+    "듣아요"
+   ],
+   "answer": 0,
+   "why": "듣다 is ㄷ-irregular: ㄷ becomes ㄹ before a vowel, so it becomes 들어요."
+  }
+ },
+ {
+  "id": "L1-187",
+  "day": 38,
+  "slot": 2,
+  "ko": "문",
+  "roman": "mun",
+  "en": "door",
+  "pos": "noun",
+  "ko_meaning": "방이나 집에 들어가고 나가는 곳",
+  "ko_meaning_en": "The opening you go through to enter or leave a room or house",
+  "example": {
+   "ko": "문을 닫으세요.",
+   "roman": "Muneul dadeuseyo.",
+   "en": "Please close the door.",
+   "tokens": [
+    {
+     "t": "문을",
+     "r": "muneul",
+     "base": "문 + 을",
+     "en": "the door",
+     "note": "을 marks the object"
+    },
+    {
+     "t": "닫으세요",
+     "r": "dadeuseyo",
+     "base": "닫다",
+     "en": "please close",
+     "note": "-으세요 after a consonant: a polite request"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "문을",
+   "산을",
+   "물을",
+   "돈을"
+  ],
+  "form": {
+   "q_en": "Pick the correct polite request form of 닫다 (to close).",
+   "ko": "문을 ___.",
+   "options": [
+    "닫으세요",
+    "닫세요",
+    "닫아세요",
+    "닫으어요"
+   ],
+   "answer": 0,
+   "why": "After a stem ending in a consonant, use -으세요: 닫다 → 닫으세요."
+  }
+ },
+ {
+  "id": "L1-188",
+  "day": 38,
+  "slot": 3,
+  "ko": "창문",
+  "roman": "changmun",
+  "en": "window",
+  "pos": "noun",
+  "ko_meaning": "밖을 보거나 바람이 들어오게 벽에 만든 문",
+  "ko_meaning_en": "An opening in a wall to look outside or let wind in",
+  "example": {
+   "ko": "창문 밖에 비가 와요.",
+   "roman": "Changmun bakke biga wayo.",
+   "en": "It is raining outside the window.",
+   "tokens": [
+    {
+     "t": "창문",
+     "r": "changmun",
+     "base": "창문",
+     "en": "window"
+    },
+    {
+     "t": "밖에",
+     "r": "bakke",
+     "base": "밖 + 에",
+     "en": "outside",
+     "note": "에 marks where something happens or is"
+    },
+    {
+     "t": "비가",
+     "r": "biga",
+     "base": "비 + 가",
+     "en": "rain",
+     "note": "가 marks the subject after a vowel"
+    },
+    {
+     "t": "와요",
+     "r": "wayo",
+     "base": "오다",
+     "en": "comes (falls)",
+     "note": "오 + 아요 → 와요"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "창문",
+   "숟가락",
+   "라면",
+   "계란"
+  ],
+  "form": {
+   "q_en": "Pick the subject marker for 창문.",
+   "ko": "창문___ 커요.",
+   "options": [
+    "이",
+    "가",
+    "을",
+    "에서"
+   ],
+   "answer": 0,
+   "why": "창문 ends in a consonant (ㄴ), so the subject marker is 이. 가 follows a vowel."
+  }
+ },
+ {
+  "id": "L1-189",
+  "day": 38,
+  "slot": 4,
+  "ko": "침대",
+  "roman": "chimdae",
+  "en": "bed",
+  "pos": "noun",
+  "ko_meaning": "누워서 자는 가구",
+  "ko_meaning_en": "A piece of furniture you lie on to sleep",
+  "example": {
+   "ko": "제 방에 침대가 있어요.",
+   "roman": "Je bange chimdaega isseoyo.",
+   "en": "There is a bed in my room.",
+   "tokens": [
+    {
+     "t": "제",
+     "r": "je",
+     "base": "저 + 의",
+     "en": "my",
+     "note": "제 is the polite 'my'"
+    },
+    {
+     "t": "방에",
+     "r": "bange",
+     "base": "방 + 에",
+     "en": "in the room",
+     "note": "에 marks where something is"
+    },
+    {
+     "t": "침대가",
+     "r": "chimdaega",
+     "base": "침대 + 가",
+     "en": "bed",
+     "note": "가 marks the subject"
+    },
+    {
+     "t": "있어요",
+     "r": "isseoyo",
+     "base": "있다",
+     "en": "there is"
+    }
+   ],
+   "target": 2
+  },
+  "cloze_options": [
+   "침대가",
+   "버스가",
+   "비행기가",
+   "커피가"
+  ],
+  "form": {
+   "q_en": "Pick the particle for where the cat sleeps.",
+   "ko": "고양이가 침대___ 자요.",
+   "options": [
+    "에서",
+    "을",
+    "가",
+    "의"
+   ],
+   "answer": 0,
+   "why": "에서 marks the place where an action (sleeping) happens."
+  }
+ },
+ {
+  "id": "L1-190",
+  "day": 38,
+  "slot": 5,
+  "ko": "의자",
+  "roman": "uija",
+  "en": "chair",
+  "pos": "noun",
+  "ko_meaning": "사람이 앉는 가구",
+  "ko_meaning_en": "A piece of furniture that people sit on",
+  "example": {
+   "ko": "의자에 앉으세요.",
+   "roman": "Uija-e anjeuseyo.",
+   "en": "Please sit on the chair.",
+   "tokens": [
+    {
+     "t": "의자에",
+     "r": "uija-e",
+     "base": "의자 + 에",
+     "en": "on the chair",
+     "note": "with 앉다, the place takes 에"
+    },
+    {
+     "t": "앉으세요",
+     "r": "anjeuseyo",
+     "base": "앉다",
+     "en": "please sit",
+     "note": "-으세요 after a consonant: a polite request"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "의자에",
+   "우유에",
+   "주스에",
+   "라면에"
+  ],
+  "form": {
+   "q_en": "Pick the particle that goes with 앉다 (to sit).",
+   "ko": "의자___ 앉으세요.",
+   "options": [
+    "에",
+    "에서",
+    "를",
+    "가"
+   ],
+   "answer": 0,
+   "why": "With 앉다, the place you sit takes 에."
+  }
+ },
+ {
+  "id": "L1-191",
+  "day": 39,
+  "slot": 1,
+  "ko": "책상",
+  "roman": "chaeksang",
+  "en": "desk",
+  "pos": "noun",
+  "ko_meaning": "책을 읽거나 공부할 때 쓰는 상",
+  "ko_meaning_en": "A table you use to read or study",
+  "example": {
+   "ko": "책상 위에 책이 있어요.",
+   "roman": "Chaeksang wie chaegi isseoyo.",
+   "en": "There is a book on the desk.",
+   "tokens": [
+    {
+     "t": "책상",
+     "r": "chaeksang",
+     "base": "책상",
+     "en": "desk"
+    },
+    {
+     "t": "위에",
+     "r": "wie",
+     "base": "위 + 에",
+     "en": "on top of",
+     "note": "에 marks where something is"
+    },
+    {
+     "t": "책이",
+     "r": "chaegi",
+     "base": "책 + 이",
+     "en": "a book",
+     "note": "이 marks the subject after a consonant"
+    },
+    {
+     "t": "있어요",
+     "r": "isseoyo",
+     "base": "있다",
+     "en": "there is"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "책상",
+   "라면",
+   "귀",
+   "하늘"
+  ],
+  "form": {
+   "q_en": "Pick the particle for where the book is.",
+   "ko": "책상 위___ 책이 있어요.",
+   "options": [
+    "에",
+    "에서",
+    "를",
+    "가"
+   ],
+   "answer": 0,
+   "why": "With 있다, the place takes 에, so 위에 means 'on (top of)'."
+  }
+ },
+ {
+  "id": "L1-192",
+  "day": 39,
+  "slot": 2,
+  "ko": "책",
+  "roman": "chaek",
+  "en": "book",
+  "pos": "noun",
+  "ko_meaning": "글이나 그림이 있는 종이를 묶은 것",
+  "ko_meaning_en": "Pages with writing or pictures bound together",
+  "example": {
+   "ko": "도서관에서 책을 읽었어요.",
+   "roman": "Doseogwan-eseo chaegeul ilgeosseoyo.",
+   "en": "I read a book at the library.",
+   "tokens": [
+    {
+     "t": "도서관에서",
+     "r": "doseogwan-eseo",
+     "base": "도서관 + 에서",
+     "en": "at the library",
+     "note": "에서 marks where an action happens"
+    },
+    {
+     "t": "책을",
+     "r": "chaegeul",
+     "base": "책 + 을",
+     "en": "a book",
+     "note": "을 marks the object after a consonant"
+    },
+    {
+     "t": "읽었어요",
+     "r": "ilgeosseoyo",
+     "base": "읽다",
+     "en": "read (past)",
+     "note": "past tense, polite (-었어요)"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "책을",
+   "돈을",
+   "컵을",
+   "물을"
+  ],
+  "form": {
+   "q_en": "Pick the object marker for 책.",
+   "ko": "도서관에서 책___ 읽었어요.",
+   "options": [
+    "을",
+    "를",
+    "이",
+    "에"
+   ],
+   "answer": 0,
+   "why": "책 ends in a consonant (ㄱ), so the object marker is 을. 를 follows a vowel."
+  }
+ },
+ {
+  "id": "L1-193",
+  "day": 39,
+  "slot": 3,
+  "ko": "컴퓨터",
+  "roman": "keompyuteo",
+  "en": "computer",
+  "pos": "noun",
+  "ko_meaning": "일하거나 인터넷을 할 때 쓰는 기계",
+  "ko_meaning_en": "A machine you use for work or the internet",
+  "example": {
+   "ko": "회사에 컴퓨터가 많아요.",
+   "roman": "Hoesa-e keompyuteo-ga manayo.",
+   "en": "There are many computers at the company.",
+   "tokens": [
+    {
+     "t": "회사에",
+     "r": "hoesa-e",
+     "base": "회사 + 에",
+     "en": "at the company",
+     "note": "에 marks where something is"
+    },
+    {
+     "t": "컴퓨터가",
+     "r": "keompyuteo-ga",
+     "base": "컴퓨터 + 가",
+     "en": "computers",
+     "note": "가 marks the subject after a vowel"
+    },
+    {
+     "t": "많아요",
+     "r": "manayo",
+     "base": "많다",
+     "en": "there are many"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "컴퓨터가",
+   "김치가",
+   "우유가",
+   "아기가"
+  ],
+  "form": {
+   "q_en": "Pick the subject marker for 컴퓨터.",
+   "ko": "회사에 컴퓨터___ 많아요.",
+   "options": [
+    "가",
+    "이",
+    "를",
+    "에서"
+   ],
+   "answer": 0,
+   "why": "컴퓨터 ends in a vowel, so the subject marker is 가. 이 follows a consonant."
+  }
+ },
+ {
+  "id": "L1-194",
+  "day": 39,
+  "slot": 4,
+  "ko": "전화",
+  "roman": "jeonhwa",
+  "en": "phone; phone call",
+  "pos": "noun",
+  "ko_meaning": "멀리 있는 사람과 말할 때 쓰는 것",
+  "ko_meaning_en": "Something you use to talk to a person far away",
+  "example": {
+   "ko": "어제 엄마가 전화했어요.",
+   "roman": "Eoje eomma-ga jeonhwahaesseoyo.",
+   "en": "Mom called yesterday.",
+   "tokens": [
+    {
+     "t": "어제",
+     "r": "eoje",
+     "base": "어제",
+     "en": "yesterday"
+    },
+    {
+     "t": "엄마가",
+     "r": "eomma-ga",
+     "base": "엄마 + 가",
+     "en": "mom",
+     "note": "가 marks the subject after a vowel"
+    },
+    {
+     "t": "전화했어요",
+     "r": "jeonhwahaesseoyo",
+     "base": "전화하다",
+     "en": "called",
+     "note": "전화 + 하다 = to call; 했어요 is the past of 하다"
+    }
+   ],
+   "target": 2
+  },
+  "cloze_options": [
+   "전화했어요",
+   "공부했어요",
+   "일했어요",
+   "요리했어요"
+  ],
+  "form": {
+   "q_en": "Pick the verb form that fits 'yesterday'.",
+   "ko": "어제 엄마가 전화___.",
+   "options": [
+    "했어요",
+    "해요",
+    "했아요",
+    "하었어요"
+   ],
+   "answer": 0,
+   "why": "어제 needs the past tense, and the past of 하다 is 했어요: 전화했어요."
+  }
+ },
+ {
+  "id": "L1-195",
+  "day": 39,
+  "slot": 5,
+  "ko": "시계",
+  "roman": "sigye",
+  "en": "clock; watch",
+  "pos": "noun",
+  "ko_meaning": "시간을 알려 주는 물건",
+  "ko_meaning_en": "A thing that tells you the time",
+  "example": {
+   "ko": "생일에 시계를 받았어요.",
+   "roman": "Saengire sigyereul badasseoyo.",
+   "en": "I got a watch for my birthday.",
+   "tokens": [
+    {
+     "t": "생일에",
+     "r": "saengire",
+     "base": "생일 + 에",
+     "en": "on my birthday",
+     "note": "에 marks the time"
+    },
+    {
+     "t": "시계를",
+     "r": "sigyereul",
+     "base": "시계 + 를",
+     "en": "a watch",
+     "note": "를 marks the object after a vowel"
+    },
+    {
+     "t": "받았어요",
+     "r": "badasseoyo",
+     "base": "받다",
+     "en": "got; received",
+     "note": "past tense, polite (-았어요)"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "시계를",
+   "버스를",
+   "비행기를",
+   "의자를"
+  ],
+  "form": {
+   "q_en": "Pick the object marker for 시계.",
+   "ko": "생일에 시계___ 받았어요.",
+   "options": [
+    "를",
+    "을",
+    "가",
+    "에서"
+   ],
+   "answer": 0,
+   "why": "시계 ends in a vowel, so the object marker is 를. 을 follows a consonant."
+  }
+ },
+ {
+  "id": "L1-196",
+  "day": 40,
+  "slot": 1,
+  "ko": "학생",
+  "roman": "haksaeng",
+  "en": "student",
+  "pos": "noun",
+  "ko_meaning": "학교에서 공부하는 사람",
+  "ko_meaning_en": "A person who studies at school",
+  "example": {
+   "ko": "동생은 학생이에요.",
+   "roman": "Dongsaeng-eun haksaeng-ieyo.",
+   "en": "My younger sibling is a student.",
+   "tokens": [
+    {
+     "t": "동생은",
+     "r": "dongsaeng-eun",
+     "base": "동생 + 은",
+     "en": "my younger sibling",
+     "note": "은 marks the topic after a consonant"
+    },
+    {
+     "t": "학생이에요",
+     "r": "haksaeng-ieyo",
+     "base": "학생 + 이에요",
+     "en": "is a student",
+     "note": "이에요 follows a consonant"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "학생이에요",
+   "생선이에요",
+   "라면이에요",
+   "창문이에요"
+  ],
+  "form": {
+   "q_en": "Pick the right ending for 'is a student'.",
+   "ko": "동생은 학생___.",
+   "options": [
+    "이에요",
+    "예요",
+    "이요",
+    "가요"
+   ],
+   "answer": 0,
+   "why": "학생 ends in a consonant (ㅇ), so use 이에요. 예요 follows a vowel."
+  }
+ },
+ {
+  "id": "L1-197",
+  "day": 40,
+  "slot": 2,
+  "ko": "선생님",
+  "roman": "seonsaengnim",
+  "en": "teacher",
+  "pos": "noun",
+  "ko_meaning": "학생을 가르치는 사람",
+  "ko_meaning_en": "A person who teaches students",
+  "example": {
+   "ko": "선생님이 한국어를 가르치세요.",
+   "roman": "Seonsaengnim-i hangugeoreul gareuchiseyo.",
+   "en": "The teacher teaches Korean.",
+   "tokens": [
+    {
+     "t": "선생님이",
+     "r": "seonsaengnim-i",
+     "base": "선생님 + 이",
+     "en": "the teacher",
+     "note": "이 marks the subject after a consonant"
+    },
+    {
+     "t": "한국어를",
+     "r": "hangugeoreul",
+     "base": "한국어 + 를",
+     "en": "Korean",
+     "note": "를 marks the object after a vowel"
+    },
+    {
+     "t": "가르치세요",
+     "r": "gareuchiseyo",
+     "base": "가르치다",
+     "en": "teaches",
+     "note": "-세요 shows respect for the teacher"
+    }
+   ],
+   "target": 0
+  },
+  "cloze_options": [
+   "선생님이",
+   "라면이",
+   "창문이",
+   "젓가락이"
+  ],
+  "form": {
+   "q_en": "Pick the polite (honorific) form that shows respect for the teacher.",
+   "ko": "선생님이 한국어를 ___.",
+   "options": [
+    "가르치세요",
+    "가르치으세요",
+    "가르쳐세요",
+    "가르치시세요"
+   ],
+   "answer": 0,
+   "why": "To show respect for the subject, add -세요 to a stem ending in a vowel (-으세요 only follows a consonant): 가르치세요."
+  }
+ },
+ {
+  "id": "L1-198",
+  "day": 40,
+  "slot": 3,
+  "ko": "수업",
+  "roman": "sueop",
+  "en": "class; lesson",
+  "pos": "noun",
+  "ko_meaning": "선생님이 학생을 가르치는 시간",
+  "ko_meaning_en": "The time when a teacher teaches students",
+  "example": {
+   "ko": "오늘은 수업이 없어요.",
+   "roman": "Oneureun sueobi eopseoyo.",
+   "en": "There is no class today.",
+   "tokens": [
+    {
+     "t": "오늘은",
+     "r": "oneureun",
+     "base": "오늘 + 은",
+     "en": "today",
+     "note": "은 marks the topic: 'as for today'"
+    },
+    {
+     "t": "수업이",
+     "r": "sueobi",
+     "base": "수업 + 이",
+     "en": "class",
+     "note": "이 marks the subject after a consonant"
+    },
+    {
+     "t": "없어요",
+     "r": "eopseoyo",
+     "base": "없다",
+     "en": "there isn't"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "수업이",
+   "생선이",
+   "그릇이",
+   "겨울이"
+  ],
+  "form": {
+   "q_en": "Pick the subject marker for 수업.",
+   "ko": "오늘은 수업___ 없어요.",
+   "options": [
+    "이",
+    "가",
+    "을",
+    "에서"
+   ],
+   "answer": 0,
+   "why": "With 없다, use 이/가. 수업 ends in a consonant (ㅂ), so use 이."
+  }
+ },
+ {
+  "id": "L1-199",
+  "day": 40,
+  "slot": 4,
+  "ko": "숙제",
+  "roman": "sukje",
+  "en": "homework",
+  "pos": "noun",
+  "ko_meaning": "선생님이 집에서 하라고 준 공부",
+  "ko_meaning_en": "Study work the teacher gives you to do at home",
+  "example": {
+   "ko": "집에서 숙제를 했어요.",
+   "roman": "Jibeseo sukjereul haesseoyo.",
+   "en": "I did my homework at home.",
+   "tokens": [
+    {
+     "t": "집에서",
+     "r": "jibeseo",
+     "base": "집 + 에서",
+     "en": "at home",
+     "note": "에서 marks where an action happens"
+    },
+    {
+     "t": "숙제를",
+     "r": "sukjereul",
+     "base": "숙제 + 를",
+     "en": "homework",
+     "note": "를 marks the object after a vowel"
+    },
+    {
+     "t": "했어요",
+     "r": "haesseoyo",
+     "base": "하다",
+     "en": "did",
+     "note": "past of 하다"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "숙제를",
+   "우유를",
+   "의자를",
+   "김치를"
+  ],
+  "form": {
+   "q_en": "Pick the object marker for 숙제.",
+   "ko": "집에서 숙제___ 했어요.",
+   "options": [
+    "를",
+    "을",
+    "가",
+    "에서"
+   ],
+   "answer": 0,
+   "why": "숙제 ends in a vowel, so the object marker is 를. 을 follows a consonant."
+  }
+ },
+ {
+  "id": "L1-200",
+  "day": 40,
+  "slot": 5,
+  "ko": "시험",
+  "roman": "siheom",
+  "en": "exam; test",
+  "pos": "noun",
+  "ko_meaning": "배운 것을 얼마나 아는지 보는 것",
+  "ko_meaning_en": "Something that checks how much you know of what you learned",
+  "example": {
+   "ko": "내일 시험이 있어요.",
+   "roman": "Naeil siheomi isseoyo.",
+   "en": "I have an exam tomorrow.",
+   "tokens": [
+    {
+     "t": "내일",
+     "r": "naeil",
+     "base": "내일",
+     "en": "tomorrow"
+    },
+    {
+     "t": "시험이",
+     "r": "siheomi",
+     "base": "시험 + 이",
+     "en": "an exam",
+     "note": "이 marks the subject after a consonant"
+    },
+    {
+     "t": "있어요",
+     "r": "isseoyo",
+     "base": "있다",
+     "en": "there is; have"
+    }
+   ],
+   "target": 1
+  },
+  "cloze_options": [
+   "시험이",
+   "생선이",
+   "젓가락이",
+   "그릇이"
+  ],
+  "form": {
+   "q_en": "Pick the verb form that fits 'yesterday'.",
+   "ko": "어제 시험이 ___.",
+   "options": [
+    "어려웠어요",
+    "어렵었어요",
+    "어려워요",
+    "어렵어요"
+   ],
+   "answer": 0,
+   "why": "어렵다 is ㅂ-irregular (ㅂ → 우), and 어제 needs the past tense: 어려웠어요."
+  }
+ }
+]
